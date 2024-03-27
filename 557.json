@@ -1,0 +1,107 @@
+{
+    "id": 557,
+    "title": "POEMS syndrome",
+    "title_lang": [
+        {
+            "name": "ar_title",
+            "value": "متلازمة بومس"
+        },
+        {
+            "name": "fr_title",
+            "value": "Syndrome des POÈMES"
+        },
+        {
+            "name": "id_title",
+            "value": "sindrom POEMS"
+        },
+        {
+            "name": "es_title",
+            "value": "Síndrome de poemas"
+        },
+        {
+            "name": "ja_title",
+            "value": "POEMS症候群"
+        },
+        {
+            "name": "zh_title",
+            "value": "POEMS综合征"
+        },
+        {
+            "name": "tr_title",
+            "value": "ŞİİRLER sendromu"
+        },
+        {
+            "name": "ko_title",
+            "value": "포엠스 증후군"
+        },
+        {
+            "name": "it_title",
+            "value": "La sindrome delle POESIE"
+        },
+        {
+            "name": "de_title",
+            "value": "POEMS-Syndrom"
+        },
+        {
+            "name": "pt_title",
+            "value": "Síndrome POEMAS"
+        },
+        {
+            "name": "ru_title",
+            "value": "ПОЕМС-синдром"
+        }
+    ],
+    "type": [],
+    "desc": "Rare blood disorders like POEMS syndrome harm your nerves and have an impact on other body parts. POEMS syndrome is characterized by these symptoms and indicators: It is unknown what causes POEMS syndrome. However, the amount of plasma cells in those with POEMS syndrome is higher. Certain proteins that are produced in excess by these cells have the potential to harm other bodily parts. Due to its signs and symptoms' similarity to other disorders, POEMS syndrome can be misdiagnosed. It is crucial to diagnose POEMS syndrome early because it advances quickly without treatment and has the potential to be fatal. While there is no known cure for POEMS syndrome, treatment may lessen symptoms. Radiation treatment, chemotherapy, and stem cell transplantation are available as treatment options. During the course of the last ten or so years, the prognosis for those with POEMS syndrome has significantly improved. ",
+    "desc_lang": [
+        {
+            "name": "tr_desc",
+            "value": "POEMS sendromu gibi nadir görülen kan hastalıkları sinirlerinize zarar verir ve vücudun diğer kısımlarını etkiler. POEMS sendromu şu belirtiler ve göstergelerle karakterize edilir: POEMS sendromuna neyin sebep olduğu bilinmemektedir. Ancak POEMS sendromu olanlarda plazma hücresi miktarı daha fazladır. Bu hücreler tarafından aşırı miktarda üretilen bazı proteinlerin vücudun diğer bölgelerine zarar verme potansiyeli vardır. Belirti ve semptomlarının diğer bozukluklarla benzerliği nedeniyle POEMS sendromuna yanlış tanı konabilir. POEMS sendromunu erken teşhis etmek çok önemlidir çünkü tedavisiz hızla ilerler ve ölümcül olma potansiyeline sahiptir. POEMS sendromunun bilinen bir tedavisi olmasa da tedavi semptomları azaltabilir. Tedavi seçenekleri olarak radyasyon tedavisi, kemoterapi ve kök hücre nakli mevcuttur. Son on yıl boyunca POEMS sendromlu hastaların prognozu önemli ölçüde iyileşti."
+        },
+        {
+            "name": "pt_desc",
+            "value": "Doenças sanguíneas raras, como a síndrome POEMS, prejudicam os nervos e afetam outras partes do corpo. A síndrome POEMS é caracterizada por estes sintomas e indicadores: Não se sabe o que causa a síndrome POEMS. No entanto, a quantidade de células plasmáticas naqueles com síndrome POEMS é maior. Certas proteínas produzidas em excesso por essas células têm o potencial de prejudicar outras partes do corpo. Devido à semelhança de seus sinais e sintomas com outros distúrbios, a síndrome POEMS pode ser mal diagnosticada. É crucial diagnosticar precocemente a síndrome POEMS porque ela avança rapidamente sem tratamento e tem potencial para ser fatal. Embora não haja cura conhecida para a síndrome POEMS, o tratamento pode diminuir os sintomas. Tratamento de radiação, quimioterapia e transplante de células-tronco estão disponíveis como opções de tratamento. Durante os últimos dez anos, o prognóstico para aqueles com síndrome POEMS melhorou significativamente."
+        },
+        {
+            "name": "it_desc",
+            "value": "Rari disturbi del sangue come la sindrome POEMS danneggiano i nervi e hanno un impatto su altre parti del corpo. La sindrome POEMS è caratterizzata da questi sintomi e indicatori: Non è noto cosa causi la sindrome POEMS. Tuttavia, la quantità di plasmacellule nei soggetti affetti dalla sindrome POEMS è maggiore. Alcune proteine ​​prodotte in eccesso da queste cellule possono potenzialmente danneggiare altre parti del corpo. A causa della somiglianza dei segni e dei sintomi con altri disturbi, la sindrome POEMS può essere diagnosticata erroneamente. È fondamentale diagnosticare precocemente la sindrome POEMS perché avanza rapidamente senza trattamento e può potenzialmente essere fatale. Sebbene non esista una cura nota per la sindrome POEMS, il trattamento può ridurre i sintomi. Come opzioni terapeutiche sono disponibili la radioterapia, la chemioterapia e il trapianto di cellule staminali. Nel corso degli ultimi dieci anni circa, la prognosi per i soggetti affetti dalla sindrome POEMS è notevolmente migliorata."
+        },
+        {
+            "name": "es_desc",
+            "value": "Los trastornos sanguíneos raros, como el síndrome POEMS, dañan los nervios y tienen un impacto en otras partes del cuerpo. El síndrome POEMS se caracteriza por estos síntomas e indicadores: Se desconoce qué causa el síndrome POEMS. Sin embargo, la cantidad de células plasmáticas en personas con síndrome POEMS es mayor. Ciertas proteínas que estas células producen en exceso tienen el potencial de dañar otras partes del cuerpo. Debido a la similitud de sus signos y síntomas con otros trastornos, el síndrome POEMS puede diagnosticarse erróneamente. Es crucial diagnosticar el síndrome POEMS temprano porque avanza rápidamente sin tratamiento y tiene el potencial de ser fatal. Si bien no existe una cura conocida para el síndrome POEMS, el tratamiento puede disminuir los síntomas. La radioterapia, la quimioterapia y el trasplante de células madre están disponibles como opciones de tratamiento. Durante los últimos diez años aproximadamente, el pronóstico para las personas con síndrome POEMS ha mejorado significativamente."
+        },
+        {
+            "name": "id_desc",
+            "value": "Kelainan darah langka seperti sindrom POEMS membahayakan saraf Anda dan berdampak pada bagian tubuh lainnya. Sindrom POEMS ditandai dengan gejala dan indikator berikut: Tidak diketahui apa yang menyebabkan sindrom POEMS. Namun, jumlah sel plasma pada penderita sindrom POEMS lebih tinggi. Protein tertentu yang diproduksi secara berlebihan oleh sel tersebut berpotensi membahayakan bagian tubuh lainnya. Karena kemiripan tanda dan gejalanya dengan kelainan lain, sindrom POEMS dapat salah didiagnosis. Sangat penting untuk mendiagnosis sindrom POEMS sejak dini karena penyakit ini berkembang dengan cepat tanpa pengobatan dan berpotensi berakibat fatal. Meskipun belum ada obat yang diketahui untuk sindrom POEMS, pengobatan dapat mengurangi gejalanya. Pengobatan radiasi, kemoterapi, dan transplantasi sel induk tersedia sebagai pilihan pengobatan. Selama sepuluh tahun terakhir, prognosis penderita sindrom POEMS telah meningkat secara signifikan."
+        },
+        {
+            "name": "ar_desc",
+            "value": "تؤدي اضطرابات الدم النادرة، مثل متلازمة POEMS، إلى الإضرار بأعصابك ولها تأثير على أجزاء الجسم الأخرى. تتميز متلازمة POEMS بهذه الأعراض والمؤشرات: من غير المعروف ما الذي يسبب متلازمة POEMS. ومع ذلك، فإن كمية خلايا البلازما لدى المصابين بمتلازمة POEMS أعلى. بعض البروتينات التي تنتجها هذه الخلايا بشكل زائد لديها القدرة على إيذاء أجزاء الجسم الأخرى. نظرًا لتشابه علاماتها وأعراضها مع الاضطرابات الأخرى، فقد يتم تشخيص متلازمة POEMS بشكل خاطئ. من المهم تشخيص متلازمة POEMS مبكرًا لأنها تتطور بسرعة دون علاج ومن المحتمل أن تكون قاتلة. على الرغم من عدم وجود علاج معروف لمتلازمة POEMS، إلا أن العلاج قد يقلل من الأعراض. يتوفر العلاج الإشعاعي والعلاج الكيميائي وزرع الخلايا الجذعية كخيارات علاجية. خلال السنوات العشر الماضية أو نحو ذلك، تحسن تشخيص المصابين بمتلازمة POEMS بشكل ملحوظ."
+        },
+        {
+            "name": "ko_desc",
+            "value": "POEMS 증후군과 같은 희귀 혈액 질환은 신경에 손상을 입히고 다른 신체 부위에 영향을 미칩니다. POEMS 증후군은 다음과 같은 증상과 지표를 특징으로 합니다. POEMS 증후군의 원인은 알려져 있지 않습니다. 그러나 POEMS 증후군 환자의 형질 세포 양은 더 높습니다. 이들 세포에 의해 과도하게 생산되는 특정 단백질은 다른 신체 부위에 해를 끼칠 가능성이 있습니다. POEMS 증후군은 징후 및 증상이 다른 장애와 유사하기 때문에 오진될 수 있습니다. POEMS 증후군은 치료 없이도 빠르게 진행되고 치명적일 가능성이 있기 때문에 조기 진단이 중요합니다. POEMS 증후군에 대한 알려진 치료법은 없지만, 치료를 하면 증상이 완화될 수 있습니다. 치료 옵션으로는 방사선 치료, 화학요법, 줄기세포 이식 등이 있습니다. 지난 10년 정도 동안 POEMS 증후군 환자의 예후는 상당히 개선되었습니다."
+        },
+        {
+            "name": "zh_desc",
+            "value": "POEMS 综合征等罕见血液疾病会损害您的神经并对身体其他部位产生影响。 POEMS 综合征具有以下症状和指标： POEMS 综合征的病因尚不清楚。然而，POEMS 综合征患者的浆细胞数量更高。这些细胞过量产生的某些蛋白质有可能损害身体的其他部位。由于 POEMS 综合征的体征和症状与其他疾病相似，因此可能会被误诊。早期诊断 POEMS 综合征至关重要，因为如果不进行治疗，该综合征会迅速进展，并且有可能致命。虽然 POEMS 综合征尚无已知治愈方法，但治疗可能会减轻症状。放射治疗、化疗和干细胞移植可作为治疗选择。在过去十年左右的时间里，POEMS 综合征患者的预后已显着改善。"
+        },
+        {
+            "name": "fr_desc",
+            "value": "Les troubles sanguins rares comme le syndrome POEMS endommagent vos nerfs et ont un impact sur d’autres parties du corps. Le syndrome POEMS est caractérisé par les symptômes et indicateurs suivants : On ne sait pas ce qui cause le syndrome POEMS. Cependant, la quantité de plasmocytes chez les personnes atteintes du syndrome POEMS est plus élevée. Certaines protéines produites en excès par ces cellules peuvent potentiellement nuire à d’autres parties du corps. En raison de la similitude de ses signes et symptômes avec d’autres troubles, le syndrome POEMS peut être mal diagnostiqué. Il est crucial de diagnostiquer le syndrome POEMS à un stade précoce, car il évolue rapidement sans traitement et peut être mortel. Bien qu&#39;il n&#39;existe aucun remède connu pour le syndrome POEMS, le traitement peut atténuer les symptômes. La radiothérapie, la chimiothérapie et la transplantation de cellules souches sont disponibles comme options de traitement. Au cours des dix dernières années, le pronostic des personnes atteintes du syndrome POEMS s&#39;est considérablement amélioré."
+        },
+        {
+            "name": "ru_desc",
+            "value": "Редкие заболевания крови, такие как синдром POEMS, повреждают нервы и влияют на другие части тела. Синдром POEMS характеризуется следующими симптомами и показателями: Неизвестно, что вызывает синдром POEMS. Однако количество плазматических клеток у лиц с синдромом ПОЭМС выше. Определенные белки, которые в избытке производятся этими клетками, могут нанести вред другим частям тела. Из-за сходства признаков и симптомов с другими расстройствами синдром POEMS может быть ошибочно диагностирован. Крайне важно диагностировать синдром POEMS на ранней стадии, поскольку он быстро прогрессирует без лечения и может привести к летальному исходу. Хотя лекарства от синдрома POEMS не существует, лечение может уменьшить симптомы. В качестве вариантов лечения доступны лучевая терапия, химиотерапия и трансплантация стволовых клеток. В течение последних десяти лет или около того прогноз для людей с синдромом POEMS значительно улучшился."
+        },
+        {
+            "name": "de_desc",
+            "value": "Seltene Bluterkrankungen wie das POEMS-Syndrom schädigen Ihre Nerven und wirken sich auf andere Körperteile aus. Das POEMS-Syndrom ist durch folgende Symptome und Indikatoren gekennzeichnet: Es ist nicht bekannt, was das POEMS-Syndrom verursacht. Allerdings ist die Menge an Plasmazellen bei Patienten mit POEMS-Syndrom höher. Bestimmte Proteine, die von diesen Zellen im Übermaß produziert werden, können andere Körperteile schädigen. Aufgrund der Ähnlichkeit seiner Anzeichen und Symptome mit anderen Erkrankungen kann das POEMS-Syndrom fehldiagnostiziert werden. Es ist wichtig, das POEMS-Syndrom frühzeitig zu diagnostizieren, da es ohne Behandlung schnell fortschreitet und möglicherweise tödlich verläuft. Obwohl es keine bekannte Heilung für das POEMS-Syndrom gibt, kann eine Behandlung die Symptome lindern. Als Behandlungsmöglichkeiten stehen Strahlenbehandlung, Chemotherapie und Stammzelltransplantation zur Verfügung. Im Laufe der letzten rund zehn Jahre hat sich die Prognose für Menschen mit POEMS-Syndrom deutlich verbessert."
+        },
+        {
+            "name": "ja_desc",
+            "value": "POEMS 症候群のようなまれな血液疾患は神経を損傷し、体の他の部分に影響を与えます。 POEMS 症候群は、次の症状と指標によって特徴付けられます。 POEMS 症候群の原因は不明です。ただし、POEMS 症候群の人の形質細胞の量はより多くなります。これらの細胞によって過剰に生成される特定のタンパク質は、体の他の部分に害を及ぼす可能性があります。 POEMS 症候群は、その徴候や症状が他の疾患と類似しているため、誤診される可能性があります。 POEMS症候群は治療しないと急速に進行し、死に至る可能性があるため、早期に診断することが重要です。 POEMS 症候群の既知の治療法はありませんが、治療により症状が軽減される可能性があります。治療オプションとして、放射線治療、化学療法、幹細胞移植が利用可能です。過去 10 年ほどの間に、POEMS 症候群の患者の予後は大幅に改善されました。"
+        }
+    ],
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4e685ed077f7cd33fb335f3d51a9eb3e5153e843274056c4a00fcd0b5344989ea8d7609dff69c4635491841b3340bf9abafa1a1322fd99b4ef1da40b70ac2fc69af523f1e121826412278880f5ac5eabddf9f10491b7f698059c65e261025f8523afbe3d8c24d4c1c3923f1412a8b0979d69ade0668cd3910b63c8ebfab4099d5d87633a1cc52deafe750620f78f51198537e24bb79a794a6d34e9b1f924050e46513aa3f6c551492a0a7055cf7fa2a5715f0137f36c0b688b96e9625e5ca520c7f31a74cecbd2423886f6f8a92405cdfc14be81fb73a3e4984fcb65c40994f98cd6dd833fa7a6fe3b4a6f87afead5cb77e4799e2e4022c28c039c344e2633761ca9cc6b78b2a84f8e07c62df6948865415de539717c385c0fadbefab945dec6467b0f0ccc3d605c1d283d7b2a808d44468e342e00edcf36317c396e44fd63364b83b4e5b39212353c97648cddabb67d5c15638ac0bd8ef0260be634a598809dd3a6652c10d01855e53a78d60e072f28f7f5759eca005abac039d81941ee350fa849f60ae90e14f0a9fb00c315e1ea369cf3d758a9b1611a527c31aaf21f04432d2c69f03e32d4233c97444137a5388242e9c1c7c23e4f0eb45efb9b8a92a8c0785577f4dec382268513eea153517b3f8e3dd18bb21b4b2a5c617abd6b361156e0216d33dea56bf1aa693c87efd16c33db7ecffa0f06e487d940c368b6a777cffc4a011dd410879c739be8cbde7f2051db71ba0b1233a8ae6af4f9122ff0294937866dcdb9dd1f2ca178f033c03aff819954b00eb13a69ab948aeaebe70b154a5ec824d1ea004588567c2919266d6d0dd7902f2c31289b4fd83719000aff583c366a4e77bbeda7a78ff6bac364edf9642e1011c0db0e144651a89883982bad1010e608ce76b38af3e47ec0cc8b17043c402c31c853a55801c30820ef9af8f41dc1a22ee36c9b3647704c3855e100220647b4ddd972e8b4ebec49305ab605b9bd1e1eb04e7651cfd9415ac5c04d059bd102f3f5eb665bd10ae9ee923c2ba8b35135a516bbabdc81a267965c70b704b4fa67a280e515aaffa0f19a22950c1b2f291ab329d3014769e651be7a2f476b40fa3b2791f9c6f2e980340db05930e2ab39e501682a089a58f58b5ef2d0434a89fb09fc54268ac6d1edbabd8798564d911f3da1eacf8f596e7366d79ca7c761a30b193c674452623841c6b7fcea4beac44a85b533a2a2fa4cb6e63a72115079b880d248f26f1cddd2c38835cac01e20335ae48376c30cd21b66841d4921c76784398"
+}

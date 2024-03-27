@@ -1,0 +1,107 @@
+{
+    "id": 43,
+    "title": "Aneurysms",
+    "title_lang": [
+        {
+            "name": "ru_title",
+            "value": "Аневризмы"
+        },
+        {
+            "name": "tr_title",
+            "value": "anevrizmalar"
+        },
+        {
+            "name": "id_title",
+            "value": "Aneurisma"
+        },
+        {
+            "name": "ar_title",
+            "value": "تمدد الأوعية الدموية"
+        },
+        {
+            "name": "ko_title",
+            "value": "동맥류"
+        },
+        {
+            "name": "pt_title",
+            "value": "Aneurismas"
+        },
+        {
+            "name": "ja_title",
+            "value": "動脈瘤"
+        },
+        {
+            "name": "es_title",
+            "value": "Aneurismas"
+        },
+        {
+            "name": "zh_title",
+            "value": "动脉瘤"
+        },
+        {
+            "name": "de_title",
+            "value": "Aneurysmen"
+        },
+        {
+            "name": "it_title",
+            "value": "Aneurismi"
+        },
+        {
+            "name": "fr_title",
+            "value": "Anévrismes"
+        }
+    ],
+    "type": [],
+    "desc": "A ballooning or bulging of the blood vessel wall that is not normal is called an aneurysm. Aneurysm rupture is possible. A rupture is what we call this. Blood leaks from a ruptured aneurysm, which frequently results in fatality. It's possible that some aneurysms are symptomless. Even in cases when an aneurysm is large, you may not be aware that you have one. Various body parts can develop aneurysms, including: Ruptures are rare in small aneurysms. A health care provider looks at the following factors to assess the risk of an aneurysm rupture: Treatment for certain aneurysms may consist of routine check-ups and imaging tests only. Emergency open surgery is necessary if an aneurysm bursts. There are occasions when endovascular surgery—a less invasive procedure—may be used. ",
+    "desc_lang": [
+        {
+            "name": "id_desc",
+            "value": "Dinding pembuluh darah yang menggembung atau menonjol yang tidak normal disebut aneurisma. Pecahnya aneurisma mungkin terjadi. Perpecahan itulah yang kami sebut dengan ini. Kebocoran darah dari aneurisma yang pecah, yang sering kali mengakibatkan kematian. Ada kemungkinan bahwa beberapa aneurisma tidak menunjukkan gejala. Bahkan jika aneurisma berukuran besar, Anda mungkin tidak menyadari bahwa Anda mengidapnya. Berbagai bagian tubuh dapat mengembangkan aneurisma, termasuk: Pecahnya jarang terjadi pada aneurisma kecil. Penyedia layanan kesehatan memperhatikan faktor-faktor berikut untuk menilai risiko pecahnya aneurisma: Perawatan untuk aneurisma tertentu mungkin terdiri dari pemeriksaan rutin dan tes pencitraan saja. Operasi terbuka darurat diperlukan jika aneurisma pecah. Ada kalanya pembedahan endovaskular—prosedur yang tidak terlalu invasif—dapat digunakan."
+        },
+        {
+            "name": "ar_desc",
+            "value": "ويسمى تضخم أو انتفاخ جدار الأوعية الدموية بشكل غير طبيعي تمدد الأوعية الدموية. تمزق تمدد الأوعية الدموية أمر ممكن. التمزق هو ما نسميه هذا. يتسرب الدم من تمدد الأوعية الدموية المتمزق، مما يؤدي في كثير من الأحيان إلى الوفاة. من الممكن أن تكون بعض تمددات الأوعية الدموية بدون أعراض. حتى في الحالات التي يكون فيها تمدد الأوعية الدموية كبيرًا، قد لا تدرك أنك مصاب بها. يمكن أن تصاب أجزاء مختلفة من الجسم بتمدد الأوعية الدموية، بما في ذلك: التمزقات نادرة في تمدد الأوعية الدموية الصغيرة. ينظر مقدم الرعاية الصحية إلى العوامل التالية لتقييم خطر تمزق تمدد الأوعية الدموية: قد يتكون علاج بعض تمدد الأوعية الدموية من فحوصات روتينية واختبارات تصوير فقط. تعتبر الجراحة المفتوحة الطارئة ضرورية في حالة انفجار تمدد الأوعية الدموية. هناك حالات يمكن فيها استخدام جراحة الأوعية الدموية – وهي إجراء أقل تدخلاً."
+        },
+        {
+            "name": "es_desc",
+            "value": "Un globo o abultamiento de la pared de un vaso sanguíneo que no es normal se llama aneurisma. Es posible la rotura del aneurisma. Una ruptura es lo que llamamos a esto. La sangre se escapa de un aneurisma roto, lo que frecuentemente resulta en la muerte. Es posible que algunos aneurismas no presenten síntomas. Incluso en los casos en que un aneurisma es grande, es posible que usted no sepa que lo tiene. Varias partes del cuerpo pueden desarrollar aneurismas, entre ellas: Las roturas son raras en aneurismas pequeños. Un proveedor de atención médica analiza los siguientes factores para evaluar el riesgo de ruptura de un aneurisma: El tratamiento para ciertos aneurismas puede consistir únicamente en chequeos de rutina y pruebas de imágenes. Es necesaria una cirugía abierta de emergencia si un aneurisma estalla. Hay ocasiones en las que se puede utilizar la cirugía endovascular, un procedimiento menos invasivo."
+        },
+        {
+            "name": "pt_desc",
+            "value": "Um inchaço ou abaulamento da parede do vaso sanguíneo que não é normal é chamado de aneurisma. A ruptura do aneurisma é possível. Uma ruptura é como chamamos isso. O sangue vaza de um aneurisma rompido, o que freqüentemente resulta em fatalidade. É possível que alguns aneurismas não apresentem sintomas. Mesmo nos casos em que o aneurisma é grande, você pode não saber que tem um. Várias partes do corpo podem desenvolver aneurismas, incluindo: As rupturas são raras em pequenos aneurismas. Um profissional de saúde analisa os seguintes fatores para avaliar o risco de ruptura de um aneurisma: O tratamento para certos aneurismas pode consistir apenas em exames de rotina e exames de imagem. A cirurgia aberta de emergência é necessária se um aneurisma estourar. Há ocasiões em que a cirurgia endovascular – um procedimento menos invasivo – pode ser utilizada."
+        },
+        {
+            "name": "fr_desc",
+            "value": "Un gonflement ou un renflement de la paroi des vaisseaux sanguins qui n’est pas normal est appelé anévrisme. Une rupture d&#39;anévrisme est possible. Une rupture, c’est ce qu’on appelle cela. Du sang s&#39;écoule d&#39;une rupture d&#39;anévrisme, ce qui entraîne souvent la mort. Il est possible que certains anévrismes soient asymptomatiques. Même dans les cas où un anévrisme est volumineux, vous ne savez peut-être pas que vous en avez un. Diverses parties du corps peuvent développer des anévrismes, notamment : Les ruptures sont rares dans les petits anévrismes. Un professionnel de la santé examine les facteurs suivants pour évaluer le risque de rupture d&#39;un anévrisme : Le traitement de certains anévrismes peut consister uniquement en des examens de routine et des tests d&#39;imagerie. Une chirurgie ouverte d’urgence est nécessaire en cas d’éclatement d’un anévrisme. Il existe des occasions où la chirurgie endovasculaire, une procédure moins invasive, peut être utilisée."
+        },
+        {
+            "name": "de_desc",
+            "value": "Eine nicht normale Aufblähung oder Ausbeulung der Blutgefäßwand wird als Aneurysma bezeichnet. Ein Aneurysma-Ruptur ist möglich. Einen Bruch nennen wir das. Aus einem gerissenen Aneurysma tritt Blut aus, was häufig zum Tod führt. Es ist möglich, dass einige Aneurysmen symptomlos sind. Selbst in Fällen, in denen ein Aneurysma groß ist, sind Sie sich möglicherweise nicht bewusst, dass Sie eines haben. Verschiedene Körperteile können Aneurysmen entwickeln, darunter: Rupturen sind bei kleinen Aneurysmen selten. Ein Gesundheitsdienstleister berücksichtigt die folgenden Faktoren, um das Risiko einer Aneurysmaruptur einzuschätzen: Die Behandlung bestimmter Aneurysmen kann nur aus Routineuntersuchungen und bildgebenden Untersuchungen bestehen. Wenn ein Aneurysma platzt, ist eine offene Notoperation notwendig. Es gibt Fälle, in denen eine endovaskuläre Operation – ein weniger invasives Verfahren – eingesetzt werden kann."
+        },
+        {
+            "name": "tr_desc",
+            "value": "Kan damarı duvarının normal olmayan şekilde balonlaşmasına veya şişmesine anevrizma denir. Anevrizma yırtılması mümkündür. Buna kırılma diyoruz. Rüptüre bir anevrizmadan kan sızar ve bu sıklıkla ölümle sonuçlanır. Bazı anevrizmaların semptomsuz olması mümkündür. Anevrizma büyük olsa bile sizde olduğunun farkında olmayabilirsiniz. Aşağıdakiler de dahil olmak üzere vücudun çeşitli kısımlarında anevrizma gelişebilir: Küçük anevrizmalarda rüptürler nadirdir. Bir sağlık uzmanı, anevrizma yırtılması riskini değerlendirmek için aşağıdaki faktörlere bakar: Bazı anevrizmaların tedavisi yalnızca rutin kontroller ve görüntüleme testlerinden oluşabilir. Anevrizma patlarsa acil açık ameliyat gerekir. Daha az invaziv bir prosedür olan endovasküler cerrahinin kullanılabileceği durumlar vardır."
+        },
+        {
+            "name": "ko_desc",
+            "value": "혈관벽이 비정상적으로 팽창하거나 부풀어 오르는 것을 동맥류라고 합니다. 동맥류 파열이 가능합니다. 우리는 이것을 파열이라고 부릅니다. 파열된 동맥류에서 혈액이 누출되어 종종 사망에 이르게 됩니다. 일부 동맥류에는 증상이 없을 수도 있습니다. 동맥류의 크기가 큰 경우에도 자신에게 동맥류가 있다는 사실을 인지하지 못할 수도 있습니다. 다음을 포함하여 다양한 신체 부위에 동맥류가 발생할 수 있습니다. 작은 동맥류에서는 파열이 거의 발생하지 않습니다. 의료 서비스 제공자는 동맥류 파열의 위험을 평가하기 위해 다음 요소를 살펴봅니다. 특정 동맥류에 대한 치료는 정기 검진과 영상 검사만으로 구성될 수 있습니다. 동맥류가 터지면 응급 개복 수술이 필요합니다. 덜 침습적인 시술인 혈관내 수술이 사용될 수 있는 경우가 있습니다."
+        },
+        {
+            "name": "it_desc",
+            "value": "Un rigonfiamento o rigonfiamento della parete dei vasi sanguigni che non è normale è chiamato aneurisma. È possibile la rottura dell&#39;aneurisma. Una rottura è ciò che chiamiamo questo. Perdita di sangue da un aneurisma rotto, che spesso provoca la morte. È possibile che alcuni aneurismi siano asintomatici. Anche nei casi in cui un aneurisma è grande, potresti non essere consapevole di averne uno. Varie parti del corpo possono sviluppare aneurismi, tra cui: Le rotture sono rare nei piccoli aneurismi. Un operatore sanitario esamina i seguenti fattori per valutare il rischio di rottura di un aneurisma: Il trattamento per alcuni aneurismi può consistere solo in controlli di routine e test di imaging. Se un aneurisma scoppia è necessario un intervento chirurgico d’urgenza a cielo aperto. Ci sono occasioni in cui può essere utilizzata la chirurgia endovascolare, una procedura meno invasiva."
+        },
+        {
+            "name": "ja_desc",
+            "value": "正常ではない血管壁の膨らみまたは膨らみを動脈瘤と呼びます。動脈瘤破裂の可能性があります。これを破裂と呼びます。動脈瘤が破裂すると血液が漏れ、多くの場合死亡につながります。一部の動脈瘤は無症状である可能性があります。動脈瘤が大きい場合でも、動脈瘤があることに気づかないことがあります。体のさまざまな部分に動脈瘤が発生する可能性があります。次のようなものがあります。 小さな動脈瘤では破裂が発生することはまれです。医療提供者は、動脈瘤破裂のリスクを評価するために次の要素を検討します。 特定の動脈瘤の治療は、定期的な検査と画像検査のみで構成される場合があります。動脈瘤が破裂した場合には、緊急の開腹手術が必要です。低侵襲手術である血管内手術が使用される場合もあります。"
+        },
+        {
+            "name": "zh_desc",
+            "value": "血管壁不正常的膨胀或鼓起称为动脉瘤。动脉瘤破裂是有可能的。我们称之为破裂。血液从破裂的动脉瘤中漏出，常常导致死亡。有些动脉瘤可能是无症状的。即使动脉瘤很大，您也可能没有意识到自己有动脉瘤。身体的各个部位都可能形成动脉瘤，包括： 小动脉瘤破裂很少见。医疗保健提供者会考虑以下因素来评估动脉瘤破裂的风险： 某些动脉瘤的治疗可能仅包括常规检查和影像学检查。如果动脉瘤破裂，则需要紧急开放手术。有时可能会使用血管内手术（一种侵入性较小的手术）。"
+        },
+        {
+            "name": "ru_desc",
+            "value": "Ненормальное раздувание или выпячивание стенки кровеносного сосуда называется аневризмой. Возможен разрыв аневризмы. Мы называем это разрывом. Утечка крови из разорвавшейся аневризмы часто приводит к летальному исходу. Вполне возможно, что некоторые аневризмы протекают бессимптомно. Даже в тех случаях, когда аневризма большая, вы можете не знать, что она у вас есть. Аневризмы могут развиваться в различных частях тела, в том числе: При небольших аневризмах разрывы редки. Чтобы оценить риск разрыва аневризмы, врач обращает внимание на следующие факторы: Лечение некоторых аневризм может состоять только из плановых осмотров и визуализирующих исследований. В случае разрыва аневризмы необходима экстренная открытая операция. Бывают случаи, когда можно использовать эндоваскулярную хирургию — менее инвазивную процедуру."
+        }
+    ],
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4e685ed077f7cd33fb335f3d51a9eb3e5153e843274056c4a00fcd0b5344989ea8d7609dff69c4635491841b3340bf9abafa1a1322fd99b4ef1da40b70ac2fc69af523f1e121826412278880f5ac5eabddf9f10491b7f698059c65e261025f8523afbe3d8c24d4c1c3923f1412a8b0979d69ade0668cd3910b63c8ebfab4099d5d87633a1cc52deafe750620f78f51198537e24bb79a794a6d34e9b1f924050e46513aa3f6c551492a0a7055cf7fa2a5715f0137f36c0b688b96e9625e5ca520c7f31a74cecbd2423886f6f8a92405cdfc14be81fb73a3e4984fcb65c40994f98cd6dd833fa7a6fe3b4a6f87afead5cb77e4799e2e4022c28c039c344e2633761ca9cc6b78b2a84f8e07c62df6948865415de539717c385c0fadbefab945dec64b325a8e404c53e0ac24b1332839a29ded1f3599d9c03c13651b69683015a8e58eb01aeea4f8afea4f9df5b0b97f3f1b27e0654529a17c062f5ae5dfb5fcf2e85a6211235c5b80133140641d7259efba178439ba56838ee5025e7771b3536076c43a1c5f7e6958771787025d7c9ceda82f61c27449b802a7a6b5c3cfad9acd30457ebc0b7675dceaac8873f064809c901e3621403add750f23d79c86736d6c3d37e094c6cd04d3174292237ac65fb031abbdda1c55f28e71b53034c6a35db7c8fba084eb0740df587b99a9234dbf9276b90a18f3c0899c73420103c86dd8fc65d3f6d85021d63b1a332988d09c48573e1187796c376a837579cae73149f211527a258a2dffe08ea901e318f42a2562f12d768b4f143cf01755e9e94aa98b900563c29ae670a84bc2fe2d0e582688900e801aabd63c8ceecfd09e0b5679da658c9a5d10b6b516dca54b8e60334ab91aab45b753699a9bc8015b09b9b47b5806c32fb055d4df81eeeb4077f1f9e1ecc831f2dfa4f47f349186da01afe39a3c22a8304ac4941910154b3d9a94f0efaf0618b5125374b832cd4025014dd77cae3e3db8a7cc22255578425720d90c77b32a2e5131af0abe0955314da30e4fbc78680a047b21f86ee71b5be0a03c1758cbca66628de7d042280fd7d4ad11d8910f73117fad59be5e2d2eecc202e7e626f5d31586bcd3ecf61d01f145096b118eab02d4c08ba28876496c5200dce6bfa33e8510206b2db4c8525af69cb4a0019c113a256162adeef14bd28b2474d2d600caafeb0fc70c49508f252479a02708cd6ff06e057f75681b3c128f36727b635700a3b37b0c2132161a65ecb7b5f2502e211837f5f9cc5a8b8095e11a07c5cdc9be3a7e00eff13cb8b17f8a7d2b0f0d5571844895411fbf21644f51c1c37659d175043fc983942751a30bcd6cbd544779e95bfa85a9095ccb7296b61834724178492bf8b7853fff52855ec52f0b92bd73dd816b9ef636311f209a274281ac55a5e83bd77384aa21c0f80d40013170aa1b3335baf6e4f653c30dc53606501461171ea4794903506b194cb434a9c6933d9770120977f92904413be34ca918f1937f1dade05d1e59745e49d7f7b00cc69e7c2eab6f5dce175f9486da4378cb2cf9f14c800e8287e1fc92e8370d95ac0cf285a6e78d3426eb71a8dc0f3bae1349820e5c9ac458accc141e3846de2fdf0df517e4eea0fa684d35eb95888a4e93ba2718635cb72711c1515e8e93ec3747f9358b2a9e85be9673f93692da566e2ccfa235dba0f8076cbe62345461bf3a4da3d82a9f223c7c475d91d0541a0f2e98a61ab7e72bcf58edeb25f8668190bdac73f65fe3dd58e2d796aab0dde8d84fe718b7113d67870a345c1bd9325667d6bcd0ba50ed87fe1121ddee340eba7fb2481e58c47c220c25e008494690d2dd5f001655acc114a8b9ee9e1910383872be56a4c4eaac5bf863e8564bb33bed7ba0f2d24a5b5a6441722dbaf3a63e07f62c9e8b41121e164c493870c5919442d481d3d96116104b2fb61692e04680d5649160c88a750cb56d7d26f2241a4a63ae7475f629e410001007f42e89e29a8d4d1d77be3ba4c8c0e3f6e5e15796a7f369169a5b5e73f24c63ccefe5a2586dc1d3a5ee1ff46e5b08f0e52a5880caa23414639961f98d558be9be092425b177f6b8b22ac919611015841f0d742337048d73bfffc6922c1a57caaa77736fee01d1ca6f7940b51200d053d18f10e8f657c1832fbcca417720c35995c18a4a7ff6b07e5cdb9d7b979b1853698582f38f53e148ecdc266faab1e06d86b80ad2c0059c49c083575ec7b48c9d3078770d4e62ce4c6c25fbc2fcb976c3e7d9b792f78533c5bf2c08668063ccd3fd01a0017155e0dd548e5d89dceafd3f12267b538460d04c27df0a36aa17e87c7b997e5eb1db77dd29a68b216f6f15d762c1c0d3fc4b1cb40e674cdd750628f86544652800c8bb807894dd0df5172c75a71333f119286cfb7bdbd45e3f13d600868457972c7ccfa14079ca2c17528365174fa813aa67ce651a251dcabee8982ebde04b3b3e5b59947766a88e53de325c2e179cdf33fce64da774c383bd58f965c"
+}

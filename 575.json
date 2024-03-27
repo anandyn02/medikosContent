@@ -1,0 +1,107 @@
+{
+    "id": 575,
+    "title": "Pelvic organ prolapse",
+    "title_lang": [
+        {
+            "name": "id_title",
+            "value": "Prolaps organ panggul"
+        },
+        {
+            "name": "it_title",
+            "value": "Prolasso degli organi pelvici"
+        },
+        {
+            "name": "ar_title",
+            "value": "هبوط أعضاء الحوض"
+        },
+        {
+            "name": "zh_title",
+            "value": "盆腔器官脱垂"
+        },
+        {
+            "name": "de_title",
+            "value": "Beckenorganprolaps"
+        },
+        {
+            "name": "fr_title",
+            "value": "Prolapsus des organes pelviens"
+        },
+        {
+            "name": "ko_title",
+            "value": "골반 장기 탈출증"
+        },
+        {
+            "name": "pt_title",
+            "value": "Prolapso de órgãos pélvicos"
+        },
+        {
+            "name": "ja_title",
+            "value": "骨盤臓器脱"
+        },
+        {
+            "name": "tr_title",
+            "value": "Pelvik organ prolapsusu"
+        },
+        {
+            "name": "ru_title",
+            "value": "Пролапс органов малого таза"
+        },
+        {
+            "name": "es_title",
+            "value": "Prolapso de órganos pélvicos"
+        }
+    ],
+    "type": [],
+    "desc": "The pelvic organs of a woman may descend in the pelvis, resulting in a prolapse—a bulge in the vagina—when the muscles and ligaments which support them weaken. Pelvic organ prolapse most commonly occurs in women following menopause, a hysterectomy, or years following childbirth. See your physician if you experience any symptoms, such as a pressure-like feeling in your pelvis. Arizona, Florida, and Minnesota are home to campuses of one of the biggest and most seasoned medical practices in the country, Mayo Clinic. To provide high-quality care and a speedy recovery, a multidisciplinary team of staff members collaborate. Look through a list of articles published by Mayo Clinic physicians on pelvic organ prolapse on PubMed, a National Library of Medicine service. ",
+    "desc_lang": [
+        {
+            "name": "ar_desc",
+            "value": "قد تنزل أعضاء حوض المرأة في الحوض، مما يؤدي إلى هبوطه – وهو انتفاخ في المهبل – عندما تضعف العضلات والأربطة التي تدعمها. يحدث هبوط أعضاء الحوض بشكل شائع عند النساء بعد انقطاع الطمث، أو استئصال الرحم، أو سنوات بعد الولادة. راجع طبيبك إذا كنت تعاني من أي أعراض، مثل الشعور بالضغط في الحوض. تعد أريزونا وفلوريدا ومينيسوتا موطنًا لواحدة من أكبر الممارسات الطبية وأكثرها خبرة في البلاد، Mayo Clinic. لتوفير رعاية عالية الجودة والتعافي السريع، يتعاون فريق متعدد التخصصات من الموظفين. اطلع على قائمة المقالات التي نشرها أطباء Mayo Clinic حول هبوط أعضاء الحوض على PubMed، وهي إحدى خدمات المكتبة الوطنية للطب."
+        },
+        {
+            "name": "it_desc",
+            "value": "Gli organi pelvici di una donna possono scendere nella pelvi, provocando un prolasso (un rigonfiamento nella vagina) quando i muscoli e i legamenti che li sostengono si indeboliscono. Il prolasso degli organi pelvici si verifica più comunemente nelle donne dopo la menopausa, un&#39;isterectomia o anni dopo il parto. Consulta il tuo medico se avverti qualche sintomo, come una sensazione di pressione nella pelvi. Arizona, Florida e Minnesota ospitano i campus di uno degli studi medici più grandi e più esperti del paese, la Mayo Clinic. Per fornire cure di alta qualità e una pronta guarigione, collabora un team multidisciplinare di membri dello staff. Consulta un elenco di articoli pubblicati dai medici della Mayo Clinic sul prolasso degli organi pelvici su PubMed, un servizio della National Library of Medicine."
+        },
+        {
+            "name": "ru_desc",
+            "value": "Тазовые органы женщины могут опускаться в таз, что приводит к пролапсу (выпуклости влагалища), когда мышцы и связки, поддерживающие их, ослабевают. Пролапс тазовых органов чаще всего возникает у женщин после менопаузы, гистерэктомии или через несколько лет после родов. Обратитесь к врачу, если у вас возникнут какие-либо симптомы, такие как ощущение давления в тазу. В Аризоне, Флориде и Миннесоте расположены кампусы одной из крупнейших и наиболее опытных медицинских практик в стране — клиники Мэйо. Для обеспечения качественного ухода и скорейшего выздоровления сотрудничает многопрофильная команда сотрудников. Просмотрите список статей, опубликованных врачами клиники Мэйо о пролапсе тазовых органов на PubMed, службе Национальной медицинской библиотеки."
+        },
+        {
+            "name": "zh_desc",
+            "value": "当支撑盆腔器官的肌肉和韧带减弱时，女性的盆腔器官可能会在骨盆中下降，导致脱垂（阴道隆起）。盆腔器官脱垂最常见于绝经后、子宫切除术或产后数年的女性。如果您出现任何症状，例如骨盆有压力感，请去看医生。亚利桑那州、佛罗里达州和明尼苏达州是美国规模最大、经验最丰富的医疗机构之一——梅奥诊所的所在地。为了提供高质量的护理和快速康复，多学科工作人员团队通力合作。浏览 Mayo Clinic 医生在国家医学图书馆服务 PubMed 上发表的有关盆腔器官脱垂的文章列表。"
+        },
+        {
+            "name": "ko_desc",
+            "value": "여성의 골반 기관이 골반 아래로 내려와 이를 지탱하는 근육과 인대가 약해지면 질 탈출(질이 부풀어 오르는 현상)을 초래할 수 있습니다. 골반 장기 탈출증은 폐경기, 자궁적출술 또는 출산 후 몇 년 후의 여성에게서 가장 흔히 발생합니다. 골반에 압박감이 느껴지는 등의 증상이 나타나면 의사의 진찰을 받으십시오. 애리조나, 플로리다, 미네소타에는 미국에서 가장 규모가 크고 숙련된 의료 기관 중 하나인 Mayo Clinic 캠퍼스가 있습니다. 고품질의 진료와 빠른 회복을 제공하기 위해 다양한 분야의 직원들로 구성된 팀이 협력합니다. 국립 의학 도서관 서비스인 PubMed에서 골반 장기 탈출증에 대해 Mayo Clinic 의사가 게시한 기사 목록을 살펴보세요."
+        },
+        {
+            "name": "de_desc",
+            "value": "Die Beckenorgane einer Frau können in das Becken absinken, was zu einem Prolaps – einer Ausbeulung der Vagina – führt, wenn die Muskeln und Bänder, die sie stützen, schwächer werden. Ein Beckenorganvorfall tritt am häufigsten bei Frauen nach der Menopause, einer Hysterektomie oder Jahre nach der Geburt auf. Suchen Sie Ihren Arzt auf, wenn Sie irgendwelche Symptome verspüren, wie z. B. ein Druckgefühl im Becken. In Arizona, Florida und Minnesota befindet sich eine der größten und erfahrensten Arztpraxen des Landes, die Mayo Clinic. Um eine qualitativ hochwertige Pflege und eine schnelle Genesung zu gewährleisten, arbeitet ein multidisziplinäres Team von Mitarbeitern zusammen. Sehen Sie sich eine Liste von Artikeln an, die von Ärzten der Mayo Clinic zum Thema Beckenorganprolaps auf PubMed, einem Dienst der National Library of Medicine, veröffentlicht wurden."
+        },
+        {
+            "name": "pt_desc",
+            "value": "Os órgãos pélvicos de uma mulher podem descer na pélvis, resultando em um prolapso – uma protuberância na vagina – quando os músculos e ligamentos que os sustentam enfraquecem. O prolapso de órgãos pélvicos ocorre mais comumente em mulheres após a menopausa, histerectomia ou anos após o parto. Consulte seu médico se sentir algum sintoma, como uma sensação de pressão na pélvis. Arizona, Flórida e Minnesota abrigam campi de uma das maiores e mais experientes clínicas médicas do país, a Mayo Clinic. Para fornecer atendimento de alta qualidade e recuperação rápida, colabora uma equipe multidisciplinar de funcionários. Consulte uma lista de artigos publicados por médicos da Clínica Mayo sobre prolapso de órgãos pélvicos no PubMed, um serviço da Biblioteca Nacional de Medicina."
+        },
+        {
+            "name": "id_desc",
+            "value": "Organ panggul wanita bisa turun ke panggul, mengakibatkan prolaps—tonjolan di vagina—ketika otot dan ligamen yang menopangnya melemah. Prolaps organ panggul paling sering terjadi pada wanita setelah menopause, histerektomi, atau beberapa tahun setelah melahirkan. Temui dokter Anda jika Anda mengalami gejala apa pun, seperti perasaan seperti tertekan di panggul Anda. Arizona, Florida, dan Minnesota adalah rumah bagi kampus salah satu praktik medis terbesar dan paling berpengalaman di negara ini, Mayo Clinic. Untuk memberikan perawatan berkualitas tinggi dan pemulihan yang cepat, tim staf multidisiplin berkolaborasi. Lihatlah daftar artikel yang diterbitkan oleh dokter Mayo Clinic tentang prolaps organ panggul di PubMed, layanan Perpustakaan Kedokteran Nasional."
+        },
+        {
+            "name": "ja_desc",
+            "value": "女性の骨盤臓器は、それらを支えている筋肉や靱帯が弱まると、骨盤内で下がり、膣の脱出（膣の膨らみ）を引き起こすことがあります。骨盤臓器脱は、閉経後、子宮摘出術後、または出産後数年後の女性に最もよく発生します。骨盤内に圧迫感などの症状が現れた場合は、医師の診察を受けてください。アリゾナ、フロリダ、ミネソタには、国内最大かつ最も経験豊富な医療行為の 1 つであるメイヨー クリニックのキャンパスがあります。質の高いケアと迅速な回復を提供するために、多職種のスタッフチームが協力しています。国立医学図書館サービスである PubMed で、メイヨー クリニックの医師が骨盤臓器脱に関して公開した記事のリストをご覧ください。"
+        },
+        {
+            "name": "fr_desc",
+            "value": "Les organes pelviens d&#39;une femme peuvent descendre dans le bassin, entraînant un prolapsus (un renflement dans le vagin) lorsque les muscles et les ligaments qui les soutiennent s&#39;affaiblissent. Le prolapsus des organes pelviens survient le plus souvent chez les femmes après la ménopause, une hystérectomie ou des années après l&#39;accouchement. Consultez votre médecin si vous ressentez des symptômes, tels qu&#39;une sensation de pression dans votre bassin. L&#39;Arizona, la Floride et le Minnesota abritent les campus de l&#39;un des cabinets médicaux les plus importants et les plus expérimentés du pays, la Mayo Clinic. Pour fournir des soins de haute qualité et un rétablissement rapide, une équipe multidisciplinaire de membres du personnel collabore. Consultez une liste d&#39;articles publiés par les médecins de la Mayo Clinic sur le prolapsus des organes pelviens sur PubMed, un service de la National Library of Medicine."
+        },
+        {
+            "name": "tr_desc",
+            "value": "Bir kadının pelvik organları pelvise inebilir ve onları destekleyen kaslar ve bağlar zayıfladığında vajinada bir çıkıntı olan sarkmaya neden olabilir. Pelvik organ sarkması en sık menopoz, histerektomi veya doğumdan sonraki yıllarda kadınlarda görülür. Pelvisinizde basınç benzeri bir his gibi herhangi bir semptomla karşılaşırsanız doktorunuza görünün. Arizona, Florida ve Minnesota, ülkedeki en büyük ve en tecrübeli tıbbi uygulamalardan biri olan Mayo Clinic&#39;in kampüslerine ev sahipliği yapmaktadır. Yüksek kaliteli bakım ve hızlı iyileşme sağlamak için multidisipliner bir personel ekibi işbirliği yapar. Ulusal Tıp Kütüphanesi hizmeti olan PubMed&#39;de Mayo Clinic doktorları tarafından pelvik organ prolapsusu hakkında yayınlanan makalelerin listesine bakın."
+        },
+        {
+            "name": "es_desc",
+            "value": "Los órganos pélvicos de una mujer pueden descender en la pelvis, lo que resulta en un prolapso (un bulto en la vagina) cuando los músculos y ligamentos que los sostienen se debilitan. El prolapso de órganos pélvicos ocurre con mayor frecuencia en mujeres después de la menopausia, una histerectomía o años después del parto. Consulte a su médico si experimenta algún síntoma, como una sensación de presión en la pelvis. Arizona, Florida y Minnesota albergan los campus de una de las prácticas médicas más grandes y experimentadas del país, Mayo Clinic. Para brindar atención de alta calidad y una recuperación rápida, colabora un equipo multidisciplinario de miembros del personal. Consulte una lista de artículos publicados por médicos de Mayo Clinic sobre el prolapso de órganos pélvicos en PubMed, un servicio de la Biblioteca Nacional de Medicina."
+        }
+    ],
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c406ebf13b539b743a07b80171bec182f1cbbcb9b0e959c191e4d30fb1cc3687194075a113061f85fe0b0417c48d4c9fd2b273e4a6c924d4b37fe59cd72ae2643965c63c948b7a45fec1dd863615a733b5d2a3b4eaff6ae529112b84f4c1d335bd26a98372c42434b9fdfe3058e4da89e64074a837bed0548cff1527f6504723b8642d83680f781d3b6d63c7392737f98825ff0b46a343f79e824673f291474d41a318d94384be62b642ba1fbbbc17410e3733110d1f7afc8c6967030e0773949b8ef403b67ac1a66339b9896f96e96fef40b11ae596f5daaf98f4c44fc50d4a0c918ea62c3577d461ffd8d48d7ef04f1906af7f6dd7ff7e490ae8bbc92d4e04eac8723a80e65c756fc8fa8012ada2cc6f48ff023b20dbfb21337f51d594ef11c451ba0170f95aa0bbf91da2d6ac256e378625b341d367bb3bd402e31bc4227f94adcd7a7a5fea7346c7fa93346c5656bb50d013b8f5fa4a681601aebdb2f291aed8adfb191374b5e6803c6560f9d6bc00209262abd6f190bd031b5af3694ae31761eee975bbf7ffbfff70610f2217c0530e3e8d2213bc7bcda21712806c00d9fb33321387b3f434d9394766139369434e3c2d6adbb4dffeb16a7288964b7eadd7fc599e8603e101b60b34776f5997af80a67ae0befafa2e7cc4164c3a985cb6bc32dd172d9acf2bb90d9739338d3daab1332506f1c30b12755005adc5accdfd708d93bd2c044f3589a54854e22b7cbd59d931a4114a65a193352e38c54a2950d678c726a2a247dfdacaaa6bbafafc693f6f4fb8536298bc09513159075bc4092c2468722765418ea21bf1b32853dd96f7c6eced9466e81f20a0e70af62cf1fda4ca1f16a19a43f963b4beaa6561a0ce74a0a963e62eaae55a3120a40aa95d3b08b658a7d6b1b4beb491966acc3ef106e2994b0744d71302712a3a2898afb6cf02c05273a695176e5901a8f66ba1ac0bc33bb67d7d3fef47eda76117c25f938462dbce5f2433b771bc40267c1b69a82925c9796ec21f9a1187abd22e4c4740e9478f0d63057c5be7771a4ce1e1d2484b7b166586c4f5e0dfd6bd320f39a87fa85b1c264b911c29eb168f512bb2d2d43977c87946be5f2c042bc9290ab29a35c6ce357d058e4e43034bfe9c5c3352f237f4fbece199274f6fab99eac9dbae5288d70dd54850dfe14c7b1ec7c6779f999f73280e3e9ab535329142c8193732539deba6237d2907844de92d94959223f64718844d1285d6cd362897cab2261d51c9e6f318d9004206734aa633efe5905a4d29c38449066508834395d93ff679c4f07877ddf9b6a5f8a40fd521417035f86494e1334afb338ce8193a19f953a357cb2bcf13ea17dde6be9358bfab407cbedbaa1160a1854179321a7abd481a1be675fb48e4f39b3142664b99e0038557388ec3e5b7b8fa36a6f056163f6ee2e351126ded15848c087d059a4f29d731b9b5198a6b98341345f1f93999994dca3b68aa8749968de5cfecc8749d67b5fc234dff88111251d18da750b5d84db114d67f20e0d8d1494b1ff5cf92ce47f5c60e91bc8536a867f597fe6bb7176f3816f399f93c03321acfde2ac9ce147c8613441db0ee1fe02fcef1b964a123eb6415344181c9166dc8c4fbd08cca46445c21634637e150432d8400d889dd6c59255d6c80ef4cb1c719efc0f142a5a2178a3c602319f8ddbbb538ca4f8293a73c9cf34c3fd7061ab18abd4c97fc47be32fd06b83579c7ce8cc71a33ec7a70a65746a0005bd585d76631902c836a84b9172e073f42b8b9"
+}

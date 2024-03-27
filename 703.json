@@ -1,0 +1,58 @@
+{
+    "id": 703,
+    "title": "Sebaceous carcinoma",
+    "title_lang": [
+        {
+            "name": "de_title",
+            "value": "Talgdrüsenkarzinom"
+        },
+        {
+            "name": "es_title",
+            "value": "Carcinoma sebáceo"
+        },
+        {
+            "name": "ar_title",
+            "value": "السرطان الدهني"
+        },
+        {
+            "name": "fr_title",
+            "value": "Carcinome sébacé"
+        },
+        {
+            "name": "ko_title",
+            "value": "피지선 암종"
+        },
+        {
+            "name": "tr_title",
+            "value": "Yağ karsinomu"
+        },
+        {
+            "name": "id_title",
+            "value": "Karsinoma sebasea"
+        },
+        {
+            "name": "zh_title",
+            "value": "皮脂腺癌"
+        },
+        {
+            "name": "pt_title",
+            "value": "Carcinoma sebáceo"
+        },
+        {
+            "name": "ja_title",
+            "value": "脂腺癌"
+        },
+        {
+            "name": "ru_title",
+            "value": "Сальный рак"
+        },
+        {
+            "name": "it_title",
+            "value": "Carcinoma sebaceo"
+        }
+    ],
+    "type": [],
+    "desc": "",
+    "desc_lang": [],
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4f6c0c5c8c4fa92539800bf3bb316607d6188938f848a6bea81006f3670cf1b7a5167ab81e1f8f8b5302bdf44d65ba6c71b76737c36f6039c48b3b94bd67b2f56c2fdbf20e18f7b9667bd1e63b2585707f6fc08a47a948a6c52e88e9a0c7021b7c3e475f8dbdae921368b0245f65c119a3515d98cd9a96142e3570f23c635c7a09acf5ce9c19daa605f42610c35858ce82bcd99f01f0c32d2282eb907d52043d922096f106f69f6f24c0f36e13f7bf515a53bcb57dcd32e832ee6cb37a1dd8117dcac8b3aaad7be66e1b9baac3d7253474a6c6ecc3a8bbf0cb03848059eed684e4f23307de1a90d82c1defe281897d95f282ab475a8eab3053b321685e1c94c0f47a2438eb49ff15cdb60826a3dcd337734ff56686a6dfe0157ca94e6a187c0650663615ec090af25183fcf329b8e119775a7e6b85e383f30d2c39e353723a7271713f3dddd117cf6ad692f2e6fa850fcddfe89a8ee7a14428a5396d39d9c7d27b2f916b76fdfefc4ea2092450dd3a4ca2eccac2f60c9751ef7284cae5647ea6e7b6d535f1fa43d16541aadd706c668aa"
+}

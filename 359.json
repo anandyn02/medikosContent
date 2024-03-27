@@ -1,0 +1,58 @@
+{
+    "id": 359,
+    "title": "Hepatocellular carcinoma",
+    "title_lang": [
+        {
+            "name": "it_title",
+            "value": "Carcinoma epatocellulare"
+        },
+        {
+            "name": "ar_title",
+            "value": "سرطانة الخلايا الكبدية"
+        },
+        {
+            "name": "ko_title",
+            "value": "간세포 암"
+        },
+        {
+            "name": "fr_title",
+            "value": "Carcinome hépatocellulaire"
+        },
+        {
+            "name": "tr_title",
+            "value": "Hepatosellüler kanser"
+        },
+        {
+            "name": "id_title",
+            "value": "Karsinoma hepatoseluler"
+        },
+        {
+            "name": "ja_title",
+            "value": "肝細胞癌"
+        },
+        {
+            "name": "pt_title",
+            "value": "Carcinoma hepatocelular"
+        },
+        {
+            "name": "de_title",
+            "value": "Hepatozelluläres Karzinom"
+        },
+        {
+            "name": "ru_title",
+            "value": "Гепатоцеллюлярная карцинома"
+        },
+        {
+            "name": "zh_title",
+            "value": "肝细胞癌"
+        },
+        {
+            "name": "es_title",
+            "value": "Carcinoma hepatocelular"
+        }
+    ],
+    "type": [],
+    "desc": "",
+    "desc_lang": [],
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4a08c763013eb3ee4498db99b968f4fe7496c339470ed91105339ffa40b64c826b07468d287506417193334c645d3b0786f9e03f96d54f6c7956a959102c1445741c8849cef7bcf60bbb4c5c8a7d8517a54a3cb5ea5814d6017ffd602cbe1a979812c9088f73bea18206011fe6edb816f65f804ebf4e2d2e95fcb2c0950b97a3d07556c88ff1d4306990f9920b55aa7cbb6f1a7515c27ce3ce9160d68d83adc2000e2fb1cfac86467fcfa02c42225343e9f57417d8fb6f5b3618972f6429c2f0af5af8e07517e0e66ea531ff82396c552182f2d859eac5f35cb58dc21d21b30b4ffe42b4ad27121e524c7895df05164b70e575860b68284e1e3a0b41daf5eccfe2a209f6bdfa68689c7e16d44648f4d024f841504d1612bb53fe7ad55ce7567970d249596edc51279a18cd6ace94b1941e491a572c331e518a01d4dbe22a93034e1debc066c6f5fd03cd8449396c290f9543ef8c04f6b0783b6bf635291238fd3d092003a4cb0a305f6f7e04abce8e5a315584fdcc1dc58162b5c14698abc20e8d013d3a9c83668effa03b93819ab4e7b9123d216ec1d03952988e4b3d494ceca3ff634f238fd284d3857039c69474a4e9ddaa44ebdfd2e27b1e46e4d62704231288296f639f6c49d7bc5ea99266188e1292c3fad3a8b6a397caff5a044023187c21b4a3abbc04018eb9fd1cf0ec5af81a151ad7fb452fe7fc08633de9fd453ea9304f64451ca4145ffdd1bd53a0836e954badac28272410a83215d781e2467a8277ec8a5548d770d82e8df785536fea7abe07dfb6d8afeddab05f00d306827bbcca9beb077a0eced2454f94c5dfe7b07712c10433654d87f8ff89b5555dd0cdf176c4de8212d83d20cf5ddd938499fd398a7a1550a9b060857efeeb23fffb008"
+}

@@ -1,0 +1,107 @@
+{
+    "id": 20,
+    "title": "Adnexal tumors",
+    "title_lang": [
+        {
+            "name": "ar_title",
+            "value": "أورام الملحقات"
+        },
+        {
+            "name": "tr_title",
+            "value": "Adneksiyal tümörler"
+        },
+        {
+            "name": "ja_title",
+            "value": "付属器腫瘍"
+        },
+        {
+            "name": "it_title",
+            "value": "Tumori annessiali"
+        },
+        {
+            "name": "zh_title",
+            "value": "附件肿瘤"
+        },
+        {
+            "name": "de_title",
+            "value": "Adnextumoren"
+        },
+        {
+            "name": "ru_title",
+            "value": "Опухоли придатков"
+        },
+        {
+            "name": "es_title",
+            "value": "Tumores anexiales"
+        },
+        {
+            "name": "id_title",
+            "value": "Tumor adneksa"
+        },
+        {
+            "name": "pt_title",
+            "value": "Tumores anexiais"
+        },
+        {
+            "name": "fr_title",
+            "value": "Tumeurs annexielles"
+        },
+        {
+            "name": "ko_title",
+            "value": "부속기 종양"
+        }
+    ],
+    "type": [],
+    "desc": "Cell growths on the organs and surrounding connective tissues of the uterus are called adnexal tumors. Although they can be malignant, adnexal tumors are usually not. A thorough physical examination, imaging tests, and occasionally surgery are required for the diagnosis of adnexal tumors, which are found in the? The location and types of cells involved in an adnexal tumor determine the course of treatment. ",
+    "desc_lang": [
+        {
+            "name": "it_desc",
+            "value": "Le escrescenze cellulari sugli organi e sui tessuti connettivi circostanti dell’utero sono chiamate tumori annessiali. Sebbene possano essere maligni, i tumori annessiali di solito non lo sono. Per la diagnosi dei tumori annessiali, che si trovano nel? La posizione e il tipo di cellule coinvolte in un tumore annessiale determinano il corso del trattamento."
+        },
+        {
+            "name": "pt_desc",
+            "value": "Os crescimentos celulares nos órgãos e nos tecidos conjuntivos circundantes do útero são chamados de tumores anexiais. Embora possam ser malignos, os tumores anexiais geralmente não o são. Um exame físico completo, exames de imagem e, ocasionalmente, cirurgia são necessários para o diagnóstico de tumores anexiais, que são encontrados no? A localização e os tipos de células envolvidas em um tumor anexial determinam o curso do tratamento."
+        },
+        {
+            "name": "fr_desc",
+            "value": "Les croissances cellulaires sur les organes et les tissus conjonctifs environnants de l’utérus sont appelées tumeurs annexielles. Bien qu’elles puissent être malignes, les tumeurs annexielles ne le sont généralement pas. Un examen physique approfondi, des tests d&#39;imagerie et parfois une intervention chirurgicale sont nécessaires pour le diagnostic des tumeurs annexielles, que l&#39;on retrouve dans le ? L&#39;emplacement et les types de cellules impliquées dans une tumeur annexielle déterminent le déroulement du traitement."
+        },
+        {
+            "name": "ru_desc",
+            "value": "Разрастания клеток на органах и окружающих соединительных тканях матки называются опухолями придатков. Хотя опухоли придатков могут быть злокачественными, они обычно таковыми не являются. Для диагностики опухолей придатков, которые обнаруживаются в органах брюшной полости, необходимы тщательный медицинский осмотр, визуализирующие тесты и иногда хирургическое вмешательство. Расположение и типы клеток, вовлеченных в опухоль придатков, определяют курс лечения."
+        },
+        {
+            "name": "ar_desc",
+            "value": "يُطلق على نمو الخلايا في الأعضاء والأنسجة الضامة المحيطة بالرحم اسم أورام الملحقات. على الرغم من أنها يمكن أن تكون خبيثة، إلا أن الأورام الملحقة ليست كذلك في العادة. يلزم إجراء فحص بدني شامل واختبارات تصوير وأحيانًا عملية جراحية لتشخيص أورام الملحقات، والتي توجد في؟ يحدد موقع وأنواع الخلايا المشاركة في الورم الملحق مسار العلاج."
+        },
+        {
+            "name": "es_desc",
+            "value": "Los crecimientos celulares en los órganos y los tejidos conectivos circundantes del útero se denominan tumores anexiales. Aunque pueden ser malignos, los tumores anexiales generalmente no lo son. Se requiere un examen físico exhaustivo, pruebas de imagen y, ocasionalmente, cirugía para el diagnóstico de los tumores anexiales, que se encuentran en el? La ubicación y los tipos de células involucradas en un tumor anexial determinan el curso del tratamiento."
+        },
+        {
+            "name": "ko_desc",
+            "value": "자궁의 기관과 주변 결합 조직의 세포 성장을 부속기 종양이라고 합니다. 부속기 종양은 악성일 수 있지만 일반적으로 악성은 아닙니다. 다음에서 발견되는 부속기 종양을 진단하려면 철저한 신체 검사, 영상 검사, 때로는 수술이 필요합니다. 부속기 종양과 관련된 세포의 위치와 유형에 따라 치료 과정이 결정됩니다."
+        },
+        {
+            "name": "ja_desc",
+            "value": "子宮の臓器および周囲の結合組織上の細胞増殖は付属器腫瘍と呼ばれます。付属器腫瘍は悪性の場合もありますが、通常は悪性ではありません。付属器腫瘍の診断には、徹底的な身体検査、画像検査、および場合によっては手術が必要です。付属器腫瘍に関与する細胞の位置と種類によって、治療方針が決まります。"
+        },
+        {
+            "name": "zh_desc",
+            "value": "子宫器官和周围结缔组织上的细胞生长称为附件肿瘤。尽管附件肿瘤可能是恶性的，但通常不是。诊断附件肿瘤需要进行彻底的体检、影像学检查，有时还需要进行手术，这些肿瘤见于？附件肿瘤所涉及的细胞的位置和类型决定了治疗过程。"
+        },
+        {
+            "name": "id_desc",
+            "value": "Pertumbuhan sel pada organ dan jaringan ikat di sekitar rahim disebut tumor adneksa. Meski bisa bersifat ganas, tumor adneksa biasanya tidak bersifat ganas. Pemeriksaan fisik menyeluruh, tes pencitraan, dan terkadang pembedahan diperlukan untuk diagnosis tumor adneksa, yang ditemukan pada? Lokasi dan jenis sel yang terlibat dalam tumor adneksa menentukan jalannya pengobatan."
+        },
+        {
+            "name": "tr_desc",
+            "value": "Rahmin organlarında ve çevredeki bağ dokularında oluşan hücre büyümelerine adneksiyal tümörler denir. Kötü huylu olabilmelerine rağmen adneksiyal tümörler genellikle değildir. Adneksiyal tümörlerin tanısı için kapsamlı bir fizik muayene, görüntüleme testleri ve bazen de ameliyat gerekir. Adneksiyal tümörde yer alan hücrelerin konumu ve türleri tedavinin seyrini belirler."
+        },
+        {
+            "name": "de_desc",
+            "value": "Zellwucherungen an den Organen und dem umgebenden Bindegewebe der Gebärmutter werden als Adnextumoren bezeichnet. Obwohl sie bösartig sein können, sind Adnextumoren in der Regel nicht bösartig. Eine gründliche körperliche Untersuchung, bildgebende Untersuchungen und gelegentlich eine Operation sind für die Diagnose von Adnextumoren erforderlich, die in der Brustdrüse vorkommen. Der Ort und die Art der an einem Adnextumor beteiligten Zellen bestimmen den Behandlungsverlauf."
+        }
+    ],
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4e685ed077f7cd33fb335f3d51a9eb3e5153e843274056c4a00fcd0b5344989ea8d7609dff69c4635491841b3340bf9abafa1a1322fd99b4ef1da40b70ac2fc69af523f1e121826412278880f5ac5eabddf9f10491b7f698059c65e261025f8523afbe3d8c24d4c1c3923f1412a8b0979d69ade0668cd3910b63c8ebfab4099d5d87633a1cc52deafe750620f78f51198537e24bb79a794a6d34e9b1f924050e46513aa3f6c551492a0a7055cf7fa2a5715f0137f36c0b688b96e9625e5ca520c7f31a74cecbd2423886f6f8a92405cdfc14be81fb73a3e4984fcb65c40994f98cd6dd833fa7a6fe3b4a6f87afead5cb77e4799e2e4022c28c039c344e2633761ca9cc6b78b2a84f8e07c62df6948865415de539717c385c0fadbefab945dec6467b0f0ccc3d605c1d283d7b2a808d444401ec5a621efd57bb4e22bf5ad139c91d6d30efbb00e977aacde0b1c8bb4f3cb10ac6f99379ab703b6e2ffca91bfe660888a35608c13baf08647a1c2f5e055dbffe5978a09701e53e489a152fde8ecdee846a9585a1f768841ff5104bfce8cf6ee306414bbaf4acf16c59af73600ab97790ce2bcf3452baf670f9ad20f87ffd3877d00803b10adde4e824e0c925b3f0ffd04fb8420f887cfdac10ce9151d27936547f4c3e547bb16948517a9efbd254c83bfc8af5589b93edec019d3c423ffbca3694bb9d0e71832960f70888e17d40841e4af9d58be7a58d6d35de8bcc4d4dbed40bbe966509a9df313d4f1e510c9786913997a8489e7d1e92ab15c533a8428b0c680a4ed65009108482de8dffb6fc356357268bc7bffe4fd2121b12ad836bdb49776b3e32826ea49d5e1c1646340cda63810bc2ece8966269bceae391b02067186bf7e1cfc33558a9c06743822e22414307aadb4fc29992ed4a1088d3190bc20bd6f9d8288d51427b283cd6ba215922ca4399f79ff337c076455f2178b8eb1e3e0594a03915cf9760851ceb6ac81100dbe729dc36fe642b9c517d91110fc7ec7e13b991d2efcce1c6e788c0548cdc90be7e5bb79f76d6d5799adebdd60738cfcb2e92419e6629853cd2c17c2644507e234758c2dac7736365cf7a530a30d7dba12547c9b6358a8a7d99b1a8df76c83b893db0610f4401f02a92e9539d3687b12a05663e39253df6f41646473249069379735739cbe627ce563dd4089e2e3bc0ef1f54f320b928a637868b7283456753b6e96654ac88bffe71946b2bae3ac1cb83ccf5927373e8ac8301bb9d249c7f0a953fd834dc57fb68884e025bdd6ff3c810aa7c5aeacf9af0ce19f7354ec022fada54281b9bd4a19728f614e33129e2a849344d7f15c9d3c56807ad4aaf522f0ec9d3a88bba13dd905adc60beebe0c9e2d2109f073cb3f91526e96a610cdf9fe2e039e7e252abe5a3d0f1b064d5c562caa1f26f93d4fe9e0fae7869aa2604fb11d79177cd0afb2f1873e6ff01b4013a70e85287b4c52d24da3dc1611768bfc3bf3dc3e18e6ab3e9bc5654882fca532c003422fef24baa12493e21c819895fdc568e54ace7f1a2416477e75cfc67ccf38b558f35812cb0e8ce4b805b525a6f1a7849984ad55e2b10f551f3e37c57612a8272897d036316fe7984bfe9b27be5e5ff72695a65c2ec54a9f489679d9ea3cdbd58eeb2ef3090dccb2cfe252f72d0600c378a23b8fca184a48e5aecc47c2aab5cdd3fa70fa305b89a1f38bd6d13f4a594a5de1dee6c20e8f1cc97346d3adc2193abeec9ccc970cf8f6e3e3daa2355e4d936a5762e8a1b1452441f6909f3010d884d71669c6fb6174741e8c93ce8ca4b7e50703a8592b3f0e29582881f62d667582aa73ce9373e1c596a1b6a16e83c13f97ba5d06d3a4c9c20baab71eae2aa6b9d8f20ca50b4fe73710c8ccc297df61b229e2cde75a2229bb04e2bfea37c373eeccd2afc9562f27f72593d773bfe55d64a7d94ae8e604f499e97314558e66d03596fca6c4757be4c376668ef85b0b36a9c3272753f2000a2a46a43f11f34c0e0278f611b9cfa3d14cf6f94d3f9901dbd31d9636363c1460386b4b5d53b892ade641ebb469b1250ce1f2bfa973da96dae8dc9c7818f95e2089d9908491074475545fc0dc4a1998ad32c273888ded465439ed23c748265b7787a6a19e9223e6173ab13c211604c78f8fd624d03f7cc7a16028ee6ec5746427b94f06c534f07080ae1c1d1507886f2677ef2027f1e73e69d8db7ebf2b044b029c6d58199668dc0baf619d279342fec076a4ce75fc5cefc47a5196d58c2da10d6a072ee85a24cd9391e9cc84afe6da426b384c28945444d8ff8a27834e85c766d5a97c2aa9aacb196bf8980bc7a57d97f6c1f040600686d174d3cb758f75e9b68f624a3f705447f5511b147d38a6cd93b7f43afaa1a3059170bdf9e9568fd1ef7b2f192a700b90b28b01b4d5e8ac5824b5a4cbea89558867d330c5abd3e073cf33744edbc827983f57"
+}

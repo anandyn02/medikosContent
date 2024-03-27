@@ -1,0 +1,58 @@
+{
+    "id": 200,
+    "title": "Craniopharyngioma",
+    "title_lang": [
+        {
+            "name": "ar_title",
+            "value": "ورم قحفي بلعومي"
+        },
+        {
+            "name": "ko_title",
+            "value": "두개인두종"
+        },
+        {
+            "name": "es_title",
+            "value": "Craneofaringioma"
+        },
+        {
+            "name": "it_title",
+            "value": "Craniofaringioma"
+        },
+        {
+            "name": "id_title",
+            "value": "Kraniofaringioma"
+        },
+        {
+            "name": "tr_title",
+            "value": "Kraniyofarenjiyom"
+        },
+        {
+            "name": "ru_title",
+            "value": "Краниофарингиома"
+        },
+        {
+            "name": "zh_title",
+            "value": "颅咽管瘤"
+        },
+        {
+            "name": "ja_title",
+            "value": "頭蓋咽頭腫"
+        },
+        {
+            "name": "pt_title",
+            "value": "Craniofaringioma"
+        },
+        {
+            "name": "de_title",
+            "value": "Kraniopharyngeom"
+        },
+        {
+            "name": "fr_title",
+            "value": "Crâniopharyngiome"
+        }
+    ],
+    "type": [],
+    "desc": "",
+    "desc_lang": [],
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4717ef7d662f59ef1194065801beed9c81b09322e4e2b043e32a9a142f9ff5f6d7956c03f4bcc82d4d234c7a57d5ba8393a2d0912110632123f539d255539d1388bcede7fb484d7d0b140ff84ea40fcb771b35256cb63ab38cbb3f33f0c09fa2c8d8e3ff8a8e4f5203386e04ef54d9e19369e40fd56c6447a61e5857c5aff677fe37f1bc2d2a7efa8175dfb5c2f7c9a1a206ff91d2558629b38d3c8d8b40cadb1bc427702c55e922428116526cb1780f2724643ea66b3bfeceb67f96b15a27b8c1749a1a8440db2b3e214cf63b9b508f670717a5bd5038d90c701681ec12d5ad0498c76a496c274378dee13add3497a6496f7e8fcb8399538960fd6f29489743839af83224b2fd18e00e319ce525c7a2d50f3558d347e8223ea713cca3a2727425d3e254c90b1eef84204cfd329e82c1421c1aaec8683a59e715025a5e0f412368ce7bd5cff1f4e57cfb8036f4c9e09b9fea2ae787b85e235794cf7d0739828d9356537e9a37d2d07ef8868ab6f0e4ef6cbab773c2ef00feb6b1257b56e5f1fa2a0047dd9a960cd0ff94dbc86423431c4948396b5dc7a758935460d388f6b24a4e65391bd6cd84780f56a17fe815190b5acaefbb35e220a801b54f64d58cf93c524d381bc98bbb98a28e404bdefd372a064abb20adeb5482e112d5edc9e61799683ff218badd7d2c82aaf5d12d31acc42d3163fa7a0a3d7e55b968ff9ded6925665f2066633430f1776220cd666e84159cafcd7462945b2de992e799549f49d1eafc4a092e7f83e7b4509a3a9b3d8c1d84d30493dede03469ce4bf551e9bfe27a9b4eda9c5fb4c0abb98808854f7952c293e380fe88e8b39aea931a9a9612dc6d724f70c5917fad2b4dc8a46080f2af805b577c993f13d32f6acfbadb471199942baf9824de6c1eaf4475b5acdc5b9c648da50ea7a9d26f0fdc0b9e7233e70ee181b4e7cd2b5ebcbbfe1367a433998e98c5e29da578eb42451f5307dd6cfcc6fe48328240d412cae5f6de4da7b728fe2958904c65dd8ecf9674302e3b85d8af23121cf67e15cedd16a76d3601747074fdc09650373891ef5c5517d169c4ce3d47ce0e987ba20d8944988b25eaf523428581ebedcebb715f98d531e47900db803d4a0e67bea3d3bcde0edff95fb3fbfe08a1636d6001356649ce3e75065ac8685123e6a453531e536db9881d9010d79e83bd125a333ee177f7ba012bfddc6f0cee72ae531676a553eca8889e063c2a127faa744637de7e1b40bd74f2eebbfc6127c7b525c226bbff2ce14a2b647ce5b7bf79f8554cd4104876d926285ad4fe2e83a6f4413a893fd72895a86549c7a37c1c46a7cd3bccf5e8f0c455a7d4cdb6813389aa1e489e6296d940012fcbe74674d426f091a3a530e417ee72ea71419d32b18011fcb44796890740b95768dbc66c82ae0cfd5c5f920dbb3493456285b9d2764a16561d50283d30a60d0c9e36e6d85a9b16d467551b3c147579deabfbf1e8d61d3baccd9117126c30aa5fa56d07b8b58f4ae5e492da848fc8c93ec812d4957633a9c4cdd54a9d595090e6976c23df668246d87a2305c0d73c54828b7ed1a737466c6ea05833d6500a53b8029949e0529493e03ec51faf570dafe73bf1146c53"
+}

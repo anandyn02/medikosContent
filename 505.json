@@ -1,0 +1,107 @@
+{
+    "id": 505,
+    "title": "Movement disorders",
+    "title_lang": [
+        {
+            "name": "es_title",
+            "value": "Trastornos del movimiento"
+        },
+        {
+            "name": "ko_title",
+            "value": "운동 장애"
+        },
+        {
+            "name": "pt_title",
+            "value": "Distúrbios do movimento"
+        },
+        {
+            "name": "it_title",
+            "value": "Disturbi del movimento"
+        },
+        {
+            "name": "tr_title",
+            "value": "Hareket bozuklukları"
+        },
+        {
+            "name": "ja_title",
+            "value": "運動障害"
+        },
+        {
+            "name": "ar_title",
+            "value": "اضطرابات الحركة"
+        },
+        {
+            "name": "id_title",
+            "value": "Gangguan gerakan"
+        },
+        {
+            "name": "zh_title",
+            "value": "运动障碍"
+        },
+        {
+            "name": "fr_title",
+            "value": "Troubles du mouvement"
+        },
+        {
+            "name": "de_title",
+            "value": "Bewegungsstörungen"
+        },
+        {
+            "name": "ru_title",
+            "value": "Двигательные расстройства"
+        }
+    ],
+    "type": [],
+    "desc": "A collection of nervous system (neurological) disorders that result in either decreased or sluggish movements or increased movements is referred to as movement disorders. Both conscious and unconscious movements are possible. Movement disorders commonly occur in the following ways: Mayo Clinic, which has campuses in Arizona, Florida, and Minnesota, is one of the biggest and most seasoned medical practices in the country. To provide high-quality care and a speedy recovery, a multidisciplinary team of staff members collaborate. Movement disorder research is done in large part by Mayo Clinic physicians who are trained in various specialties and nervous system conditions (neurology). Movement disorder pathology, diagnosis, and treatment options are all studied by researchers. Genetics plays a major role in this field. Browse the National Library of Medicine's PubMed database for a list of articles written by Mayo Clinic physicians regarding movement disorders. ",
+    "desc_lang": [
+        {
+            "name": "zh_desc",
+            "value": "导致运动减少或迟缓或运动增加的一系列神经系统（神经）疾病称为运动障碍。有意识和无意识的运动都是可能的。运动障碍通常以以下方式发生：梅奥诊所在亚利桑那州、佛罗里达州和明尼苏达州设有分支机构，是美国最大、最有经验的医疗机构之一。为了提供高质量的护理和快速康复，多学科工作人员团队通力合作。运动障碍研究大部分是由梅奥诊所的医生完成的，他们接受过各种专业和神经系统疾病（神经病学）的培训。研究人员对运动障碍的病理学、诊断和治疗方案进行了研究。遗传学在这一领域发挥着重要作用。浏览国家医学图书馆的 PubMed 数据库，获取梅奥诊所医生撰写的有关运动障碍的文章列表。"
+        },
+        {
+            "name": "tr_desc",
+            "value": "Hareketlerin azalmasına veya yavaşlamasına veya hareketlerin artmasına neden olan sinir sistemi (nörolojik) bozukluklarının bir koleksiyonuna hareket bozuklukları denir. Hem bilinçli hem de bilinçsiz hareketler mümkündür. Hareket bozuklukları genellikle aşağıdaki şekillerde ortaya çıkar: Arizona, Florida ve Minnesota&#39;da kampüsleri bulunan Mayo Clinic, ülkedeki en büyük ve en köklü tıbbi uygulamalardan biridir. Yüksek kaliteli bakım ve hızlı iyileşme sağlamak için multidisipliner bir personel ekibi işbirliği yapar. Hareket bozukluğu araştırmaları büyük ölçüde çeşitli uzmanlıklar ve sinir sistemi hastalıkları (nöroloji) konusunda eğitim almış Mayo Clinic doktorları tarafından yapılmaktadır. Hareket bozukluğu patolojisi, tanı ve tedavi seçenekleri araştırmacılar tarafından incelenmektedir. Genetik bu alanda önemli bir rol oynamaktadır. Mayo Clinic doktorları tarafından hareket bozukluklarıyla ilgili yazılan makalelerin bir listesi için Ulusal Tıp Kütüphanesi&#39;nin PubMed veritabanına göz atın."
+        },
+        {
+            "name": "fr_desc",
+            "value": "Un ensemble de troubles du système nerveux (neurologiques) qui entraînent soit une diminution ou une lenteur des mouvements, soit une augmentation des mouvements est appelé troubles du mouvement. Des mouvements conscients et inconscients sont possibles. Les troubles du mouvement surviennent généralement des manières suivantes : La Mayo Clinic, qui possède des campus en Arizona, en Floride et au Minnesota, est l&#39;un des cabinets médicaux les plus importants et les plus chevronnés du pays. Pour fournir des soins de haute qualité et un rétablissement rapide, une équipe multidisciplinaire de membres du personnel collabore. La recherche sur les troubles du mouvement est effectuée en grande partie par les médecins de la Mayo Clinic, formés dans diverses spécialités et affections du système nerveux (neurologie). La pathologie, le diagnostic et les options de traitement des troubles du mouvement sont tous étudiés par les chercheurs. La génétique joue un rôle majeur dans ce domaine. Parcourez la base de données PubMed de la National Library of Medicine pour obtenir une liste d&#39;articles rédigés par des médecins de la Mayo Clinic concernant les troubles du mouvement."
+        },
+        {
+            "name": "ja_desc",
+            "value": "動作の低下または鈍化、または動作の増加を引き起こす一連の神経系（神経学的）障害は、運動障害と呼ばれます。意識的な動きと無意識的な動きの両方が可能です。運動障害は一般的に次のような形で発生します。 アリゾナ、フロリダ、ミネソタにキャンパスを持つメイヨー クリニックは、国内最大規模で最も経験豊富な医療行為の 1 つです。質の高いケアと迅速な回復を提供するために、多職種のスタッフチームが協力しています。運動障害の研究は主に、さまざまな専門分野や神経系の症状（神経学）の訓練を受けたメイヨークリニックの医師によって行われています。運動障害の病理、診断、治療の選択肢はすべて研究者によって研究されています。この分野では遺伝学が大きな役割を果たしています。国立医学図書館の PubMed データベースを参照して、運動障害に関してメイヨー クリニックの医師が執筆した論文のリストをご覧ください。"
+        },
+        {
+            "name": "pt_desc",
+            "value": "Um conjunto de distúrbios do sistema nervoso (neurológicos) que resultam em movimentos diminuídos ou lentos ou em movimentos aumentados é chamado de distúrbios do movimento. Movimentos conscientes e inconscientes são possíveis. Os distúrbios do movimento geralmente ocorrem das seguintes maneiras: A Clínica Mayo, que possui campi no Arizona, Flórida e Minnesota, é uma das maiores e mais experientes clínicas médicas do país. Para fornecer atendimento de alta qualidade e recuperação rápida, colabora uma equipe multidisciplinar de funcionários. A pesquisa de distúrbios do movimento é feita em grande parte por médicos da Clínica Mayo, treinados em diversas especialidades e condições do sistema nervoso (neurologia). Patologia dos distúrbios do movimento, diagnóstico e opções de tratamento são estudados por pesquisadores. A genética desempenha um papel importante neste campo. Navegue no banco de dados PubMed da Biblioteca Nacional de Medicina para obter uma lista de artigos escritos por médicos da Clínica Mayo sobre distúrbios do movimento."
+        },
+        {
+            "name": "ko_desc",
+            "value": "움직임이 감소되거나 느려지거나 움직임이 증가하는 신경계(신경학적) 장애 모음을 운동 장애라고 합니다. 의식적, 무의식적 움직임이 모두 가능합니다. 운동 장애는 일반적으로 다음과 같은 방식으로 발생합니다. 애리조나, 플로리다, 미네소타에 캠퍼스가 있는 메이요 클리닉(Mayo Clinic)은 미국에서 가장 규모가 크고 숙련된 의료 기관 중 하나입니다. 고품질의 진료와 빠른 회복을 제공하기 위해 다양한 분야의 직원들로 구성된 팀이 협력합니다. 운동 장애 연구는 주로 다양한 전문 분야와 신경계 질환(신경과)에 대해 훈련을 받은 Mayo Clinic 의사들에 의해 수행됩니다. 운동 장애 병리학, 진단 및 치료 옵션은 모두 연구자에 의해 연구됩니다. 유전학은 이 분야에서 중요한 역할을 합니다. 운동 장애에 관해 Mayo Clinic 의사가 작성한 기사 목록을 보려면 국립 의학 도서관의 PubMed 데이터베이스를 검색하세요."
+        },
+        {
+            "name": "de_desc",
+            "value": "Eine Ansammlung von (neurologischen) Störungen des Nervensystems, die entweder zu verminderten oder trägen Bewegungen oder zu verstärkten Bewegungen führen, wird als Bewegungsstörungen bezeichnet. Es sind sowohl bewusste als auch unbewusste Bewegungen möglich. Bewegungsstörungen treten häufig auf folgende Weise auf: Die Mayo Clinic mit Standorten in Arizona, Florida und Minnesota ist eine der größten und erfahrensten Arztpraxen des Landes. Um eine qualitativ hochwertige Pflege und eine schnelle Genesung zu gewährleisten, arbeitet ein multidisziplinäres Team von Mitarbeitern zusammen. Die Erforschung von Bewegungsstörungen wird größtenteils von Ärzten der Mayo Clinic durchgeführt, die in verschiedenen Fachgebieten und Erkrankungen des Nervensystems (Neurologie) ausgebildet sind. Die Pathologie, Diagnose und Behandlungsmöglichkeiten von Bewegungsstörungen werden von Forschern untersucht. Die Genetik spielt in diesem Bereich eine große Rolle. Durchsuchen Sie die PubMed-Datenbank der National Library of Medicine nach einer Liste von Artikeln, die von Ärzten der Mayo Clinic zu Bewegungsstörungen verfasst wurden."
+        },
+        {
+            "name": "ru_desc",
+            "value": "Совокупность расстройств нервной системы (неврологических), которые приводят к уменьшению, вялости или увеличению движений, называется двигательными расстройствами. Возможны как сознательные, так и неосознанные движения. Двигательные расстройства обычно возникают следующим образом: Клиника Мэйо, кампусы которой расположены в Аризоне, Флориде и Миннесоте, является одной из крупнейших и наиболее опытных медицинских практик в стране. Для обеспечения качественного ухода и скорейшего выздоровления сотрудничает многопрофильная команда сотрудников. Исследования двигательных расстройств в основном проводятся врачами клиники Мэйо, имеющими подготовку по различным специальностям и заболеваниям нервной системы (неврология). Патология двигательных расстройств, варианты диагностики и лечения изучаются исследователями. Генетика играет важную роль в этой области. Просмотрите базу данных PubMed Национальной медицинской библиотеки, чтобы найти список статей, написанных врачами клиники Мэйо о двигательных расстройствах."
+        },
+        {
+            "name": "ar_desc",
+            "value": "يشار إلى مجموعة من اضطرابات الجهاز العصبي (العصبية) التي تؤدي إلى انخفاض أو تباطؤ الحركات أو زيادة الحركات باسم اضطرابات الحركة. كل من الحركات الواعية وغير الواعية ممكنة. تحدث اضطرابات الحركة عادة بالطرق التالية: تعد Mayo Clinic، التي لها فروع في أريزونا وفلوريدا ومينيسوتا، واحدة من أكبر الممارسات الطبية وأكثرها خبرة في البلاد. لتوفير رعاية عالية الجودة والتعافي السريع، يتعاون فريق متعدد التخصصات من الموظفين. يتم إجراء معظم أبحاث اضطراب الحركة بواسطة أطباء Mayo Clinic المدربين في مختلف التخصصات وحالات الجهاز العصبي (طب الأعصاب). تتم دراسة أمراض اضطراب الحركة والتشخيص وخيارات العلاج من قبل الباحثين. ويلعب الوراثة دوراً رئيسياً في هذا المجال. تصفح قاعدة بيانات PubMed التابعة للمكتبة الوطنية للطب للحصول على قائمة بالمقالات التي كتبها أطباء Mayo Clinic فيما يتعلق باضطرابات الحركة."
+        },
+        {
+            "name": "id_desc",
+            "value": "Kumpulan kelainan sistem saraf (neurologis) yang mengakibatkan gerakan menurun, lamban, atau meningkat, disebut dengan gangguan gerak. Gerakan sadar dan tidak sadar mungkin terjadi. Gangguan pergerakan umumnya terjadi melalui cara-cara berikut: Mayo Clinic, yang memiliki kampus di Arizona, Florida, dan Minnesota, adalah salah satu praktik medis terbesar dan paling berpengalaman di negara ini. Untuk memberikan perawatan berkualitas tinggi dan pemulihan yang cepat, tim staf multidisiplin berkolaborasi. Penelitian gangguan gerak sebagian besar dilakukan oleh dokter Mayo Clinic yang terlatih dalam berbagai spesialisasi dan kondisi sistem saraf (neurologi). Patologi gangguan gerak, diagnosis, dan pilihan pengobatan semuanya dipelajari oleh para peneliti. Genetika memainkan peran utama dalam bidang ini. Jelajahi database PubMed Perpustakaan Kedokteran Nasional untuk daftar artikel yang ditulis oleh dokter Mayo Clinic mengenai gangguan pergerakan."
+        },
+        {
+            "name": "es_desc",
+            "value": "Un conjunto de trastornos del sistema nervioso (neurológicos) que resultan en movimientos disminuidos o lentos o aumento de movimientos se conoce como trastornos del movimiento. Son posibles tanto movimientos conscientes como inconscientes. Los trastornos del movimiento comúnmente ocurren de las siguientes maneras: Mayo Clinic, que tiene campus en Arizona, Florida y Minnesota, es una de las prácticas médicas más grandes y experimentadas del país. Para brindar atención de alta calidad y una recuperación rápida, colabora un equipo multidisciplinario de miembros del personal. La investigación de los trastornos del movimiento la realizan en gran parte los médicos de Mayo Clinic que están capacitados en diversas especialidades y afecciones del sistema nervioso (neurología). Los investigadores estudian la patología, el diagnóstico y las opciones de tratamiento de los trastornos del movimiento. La genética juega un papel importante en este campo. Explore la base de datos PubMed de la Biblioteca Nacional de Medicina para obtener una lista de artículos escritos por médicos de Mayo Clinic sobre los trastornos del movimiento."
+        },
+        {
+            "name": "it_desc",
+            "value": "Un insieme di disturbi del sistema nervoso (neurologici) che provocano movimenti diminuiti o lenti o un aumento dei movimenti viene definito disturbo del movimento. Sono possibili sia movimenti consci che inconsci. I disturbi del movimento si verificano comunemente nei seguenti modi: La Mayo Clinic, che ha sedi in Arizona, Florida e Minnesota, è uno degli studi medici più grandi e più esperti del paese. Per fornire cure di alta qualità e una pronta guarigione, collabora un team multidisciplinare di membri dello staff. La ricerca sui disturbi del movimento viene svolta in gran parte da medici della Mayo Clinic formati in varie specialità e patologie del sistema nervoso (neurologia). La patologia, la diagnosi e le opzioni di trattamento del disturbo del movimento sono tutte studiate dai ricercatori. La genetica gioca un ruolo importante in questo campo. Sfoglia il database PubMed della National Library of Medicine per un elenco di articoli scritti dai medici della Mayo Clinic riguardanti i disturbi del movimento."
+        }
+    ],
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4503ce5b068a6e8cb53bbc1bb64ac33210303386332830456acf68adb77414d8ecba7e555b05cec7339a987d41eae0654b472eddb7bc54555e479528e4a620e7e74654b540750637929be504a0c19807d0d054f74dfc12440e8d763eda08ab6fc776349d3269006c96459bcf55bd4092406ed9756bd6180051615d86b1332117bff1e4efbe3892baafe75e8be9dd3848fecac93f0c7f49878e3e64a21793f63471691ca8c4c532b39c3e0410e82ff43eb75f7f19211fb8f33eef2827f126acf3f8e625deb3199d0c82e03fd76f81dc92fa21d72c210a4e2fc28000554a5db93a7e2b463b3494312f644b4b15d2e959b86481d7d807855c46c4765cf1ef9a7f666fb072d630469d23c452abcad79f7e5528a9547d5791f0d790f3a6458cdc0bf22d75de54cfa1e133eccf0e0f14b14eeff538502ceadf0f6b2196af14c7ca1fa96760bcb2d77caa29d0bf62c6bd8d171432e756a18177ef27e82912847512281ec3733fc73c2c2e48f6ab75929931d96b7912c83bcf9021954e8d63ec1fdd8e49ac7b4c92ea2f8ee5e482296e55a47da1156e8c3a64bb424c67a96af336320fda0e0f3af9a39f29dad8fff79abd016857f2d109ced0a689c20c539ed337e9a9d1d2596f79f0a22ffc6a93b5d78e9c69b536afb94282a74b1f872d8535e49156a69c5053d6eab4c3b5c8fe8cc7fb50ce2eb512a5c3600e2c54ff08a0ec3324a2baebd80eb199fbec58ce674ff081b9390f159828a6674857b116dcca2e43fe6a0511d2a9bc680f0c250dd2ef7b6077d93c6b0c6b5ad23e1d222f3092bc411328565b42132e73afdad6f3a2b42443f972b482ceaebc09760d823565339e0550b0d0f4d87df065b4ba2350b631e1ecd4b34c3e3e36cb58f9539e036ddd87391449c74ce932dbb4f8b1cc2c6aa9abc835eb935246e0dcad1eba7f1ee670a281fd2fa770a03ce62aa4dc915d4b9b856161e490a463004c1ae762bfd8123764c6df86be9bc03a585aafeec423853f8a821d8929b3afdf55c77658aabf649c51868b9b10f78428277f5a51c9e7ea9d76ec99f2f83e46db604dc475a6a4e32dcd7c3985c1921b5928df48c3e4e26bfac81692ad176b820ef69760f27665a4e85a48c6f7fb8a0839bfdacad1b9984362ad286197e0769de92b127bbe68b6ccba70073f6a6e8800dc9d1e92c9da93a4da839c3bf7287c80a767eb21099f9f64db66923a2c09fb2eb451a9b886ad16270ef0fb2b7640b2f8d6480dc975506049feccccc6a77b3f19a4c8ac716e28dac95ab2e921fa042b73573d2fad0745a880a570bd9a06cecc293be5f042e4ed1518f26703a06db0498a5d684c6d7a924b7e6e6592f93c66f916f898b929833ffe07d9a05e77c66accc429e14fbb65571dfaf9ff062c0f5c09bc422a7586657ebe93dd97b2a99a3e533586355bb980a6e28fb2d16cd4fd19742d1d2bc457a5b49fbb34f4dc832f85a43aa605527c199271c1ea181a4896393"
+}

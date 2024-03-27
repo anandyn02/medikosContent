@@ -1,0 +1,58 @@
+{
+    "id": 420,
+    "title": "Kaposi sarcoma",
+    "title_lang": [
+        {
+            "name": "ar_title",
+            "value": "كابوسي ساركوما"
+        },
+        {
+            "name": "pt_title",
+            "value": "Sarcoma de Kaposi"
+        },
+        {
+            "name": "de_title",
+            "value": "Kaposi-Sarkom"
+        },
+        {
+            "name": "tr_title",
+            "value": "Kaposi sarkomu"
+        },
+        {
+            "name": "ru_title",
+            "value": "Саркома Капоши"
+        },
+        {
+            "name": "id_title",
+            "value": "Sarkoma Kaposi"
+        },
+        {
+            "name": "zh_title",
+            "value": "卡波西肉瘤"
+        },
+        {
+            "name": "ko_title",
+            "value": "카포시 육종"
+        },
+        {
+            "name": "es_title",
+            "value": "sarcoma de Kaposi"
+        },
+        {
+            "name": "ja_title",
+            "value": "カポジ肉腫"
+        },
+        {
+            "name": "it_title",
+            "value": "Sarcoma di Kaposi"
+        },
+        {
+            "name": "fr_title",
+            "value": "Sarcome de Kaposi"
+        }
+    ],
+    "type": [],
+    "desc": "",
+    "desc_lang": [],
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4e9cba5aa006148892ece7673bb930ea40051927d2721a97bedbb442d962cb32c5389a94bc082e9ea2a99d268ae6cc0c2652e521b1b0be83788e16aade011e102ccee8597827c5271e297facabda3a413a63c7d5a9bc537e7a414ca7958fa4363d1511fc9e0979316a352224788699f27eef629b4ac5e63d11ffdc0515012731781ff9b24125cfdfb4cf68c524d69c494a57d46073a76a10ba8d3bb76216bb8e82543fa87ca06b98a60d3d1ba43104fdb1bc2bc73eae2470c3abb975e8d0d37c44b7da6fbdd5b5b57f01ab452643711069189851c9fa2deec337770df445a3c1cd6e1405aeeff70e6c5ee9a2b08655cee8f7a09ecbecf2e8daf9c93eebab5be93dcf140a6d19394d3f65d63f23775fac455b8ad8e6f6c80e04b81d50e61b3c4b15d281fd2a58f62acb38fe4e387e611da4ec0ad5de465d50283c01942a30a35cfae67d939f9eb716be4470d1ac79ddf7c57d9af912a28cec853ae155de820214157bb831427db83c90104156b85f8b2cbbe4b84b1dea72efc1a25c4b951ac4cd86f04ba30055706caf0364b0ce70ee9f60b0084b9031d59793961e0ba61b7caaa0d2a42bcb3fb55c80ab9f0bcada76436c6c86f687833868bc8b627a6cd17867efc43abcfae6e5915638be895c94b3fee021da022883ff6727b93dcffd40ad5c19e63e0c3c3ff76d608e4d881984ff9869c088cd561471f169b7747fa512a8c03a611771aac5ac83448fb0ad622d6876bcbcb2c85efc236e69a344d387dc74b7e22e53a2661de777dcc5cba1420195195f74c6244a935ad37ef76b9362b9d2a7f1ad6e22ae3e0c7953098fb1e01757395af9d5d57b38f65fc528f025e6b028578814a4a3af97a756e2c24d8739e6b7f6e1bd2732bae343883bba74f7bb1781fa138f45d7b6703669d814efd2c810c68ae145d26e31f469da5a800a6ffc79d621d8406e9cd84a664449f3abc7b1db1b188fb20f8949783344267ee799b5038414de8512bfeb5b92bed991ec1d7c93befa6798335c55e5860fdf8ce381ec120e0b074caf3a8d7c15c38c3973fce570bb053d8b672e33bd6f4d7c159486639db94c912b692a16996670fe1c9a1a2f44e4f0d071ecc16c39c91e42171af9951d22504ebe2a60b9ffebcb12328a001571c85b6e8af068749c0102e37d068285109e3dd131b2472a9eb4b7a47d2da44ce77f703db7e1ea767deefea628135f7eda393711f2368683835978809b4a773185378a88f1a553bee767d9d08d59e2f7cf4b1cd7ab5c6dff233b0a72ffde2391a1204f33a4ad9f6e89931c182008b34b45ae8cd239a33e4bfea1e21d21dd6fd84ab8650049daa9805cb513f3c2c0752647cf972e20ab10fee46945ba10ca1de6dbdf6efc7af402e481fbab9f776c9e5439344793818138a252d775065ac09fef3926b2b878cb50abbe1b4ed39692a7dd6f28bf3157fc1f47b5d9d4e324529d5812577abd22700bcc39b7f33d77050643e0be903b226fde7506903ebf6498959af53b260c884fd0e330bf9eaf9185c5d4b0a603c874b5b0e69e9d4a253af7ed3e3e58dfbdb828862cd42a2e8cfbc7c85bcd7069f19ddcf81b69cd286be359e88e886d90e5d7d2f28e98f9705d503b681a4a16c6b051fdf9dba5528b25e0826d35b0de60fa2d1493f66e4dd3f50e9491dfe4bc71c0858c883bba34a0d008a56ef4e00955471d2eaeaea3a8ef15bab1c0412344f6e8d4e20083d42dc93e821c9c65fc7a7d043ce620e5b38ddb36994d25cde2c17a3b3d486372f239d85d5b580b742d0ddee9f2a91a1d5268877004c3e9c1fbde13db082f247a98f46b73f75d20a31437c4735976b5a8b10b2ba5ed1cfc1de9b6c9fda9f877e363ae88582d88ea05e9f79a6e8ee6b5905967d1334e08e3a539d3ede602c946a485caeef12475a4377f063f35f760a826d5641870079bf7a43a5de7e590ffe4ddd4185ab6eb8c867bce1c58dbbe3e63caa249977bf87a272fab0089bceb0145befcff476afe0cec9d1e68de7"
+}
