@@ -53,6 +53,18 @@
     ],
     "type": [],
     "desc": "Short, unexpected lapses in consciousness occur during absence seizures. In children compared to adults, they are more common. A few moments may pass while a person experiencing an absence seizure looks off into the distance. The individual usually gets back to being aware very soon after that. Usually, there is no physical harm caused by this kind of seizure. However, harm may occur while the individual is unconscious. This is especially valid in cases where the seizure occurs while the person is operating a vehicle or riding a bike. Generally, anti-seizure medications are effective in managing absence seizures. Other seizures, like myoclonic or generalized tonic-clonic seizures, can also occur in some of the affected children. Teenage absence seizures are often outgrown by young children. ",
+      "desc_audio": [
+        "2_en_desc_1.mp3",
+        "2_en_desc_2.mp3",
+        "2_en_desc_3.mp3",
+        "2_en_desc_4.mp3",
+        "2_en_desc_5.mp3",
+        "2_en_desc_6.mp3",
+        "2_en_desc_7.mp3",
+        "2_en_desc_8.mp3",
+        "2_en_desc_9.mp3",
+        "2_en_desc_10.mp3"
+    ],
     "desc_lang": [
         {
             "name": "zh_desc",
