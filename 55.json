@@ -56,52 +56,169 @@
     "desc_lang": [
         {
             "name": "id_desc",
-            "value": "Aorta, arteri utama tubuh, dapat mengalami tonjolan di dindingnya yang dikenal sebagai aneurisma aorta. Darah mengalir dari jantung ke tubuh melalui aorta. Di bagian mana pun dari aorta, aneurisma aorta dapat berkembang. Bentuknya bisa bulat atau seperti tabung. Ini adalah berbagai jenis aneurisma aorta yang mungkin dialami beberapa orang. Risiko robekan dinding aorta internal lebih tinggi pada pasien penderita aneurisma aorta. Diseksi aorta adalah istilah medis untuk robekan ini."
+            "value": "Aorta, arteri utama tubuh, dapat mengalami tonjolan di dindingnya yang dikenal sebagai aneurisma aorta. Darah mengalir dari jantung ke tubuh melalui aorta. Di bagian mana pun dari aorta, aneurisma aorta dapat berkembang. Bentuknya bisa bulat atau seperti tabung. Ini adalah berbagai jenis aneurisma aorta yang mungkin dialami beberapa orang. Risiko robekan dinding aorta internal lebih tinggi pada pasien penderita aneurisma aorta. Diseksi aorta adalah istilah medis untuk robekan ini.",
+            "desc_audio": [
+                "55_id_desc_1.mp3",
+                "55_id_desc_2.mp3",
+                "55_id_desc_3.mp3",
+                "55_id_desc_4.mp3",
+                "55_id_desc_5.mp3",
+                "55_id_desc_6.mp3",
+                "55_id_desc_7.mp3"
+            ]
         },
         {
             "name": "es_desc",
-            "value": "La aorta, la arteria principal del cuerpo, puede desarrollar un bulto en su pared conocido como aneurisma aórtico. La sangre viaja desde el corazón al cuerpo a través de la aorta. En cualquier parte de la aorta se pueden desarrollar aneurismas aórticos. Podrían tener forma redonda o tubular. Estos son los diferentes tipos de aneurismas aórticos que pueden tener algunas personas. El riesgo de desgarro de la pared aórtica interna es mayor en pacientes con aneurismas aórticos. Una disección aórtica es el término médico para este desgarro."
+            "value": "La aorta, la arteria principal del cuerpo, puede desarrollar un bulto en su pared conocido como aneurisma aórtico. La sangre viaja desde el corazón al cuerpo a través de la aorta. En cualquier parte de la aorta se pueden desarrollar aneurismas aórticos. Podrían tener forma redonda o tubular. Estos son los diferentes tipos de aneurismas aórticos que pueden tener algunas personas. El riesgo de desgarro de la pared aórtica interna es mayor en pacientes con aneurismas aórticos. Una disección aórtica es el término médico para este desgarro.",
+            "desc_audio": [
+                "55_es_desc_1.mp3",
+                "55_es_desc_2.mp3",
+                "55_es_desc_3.mp3",
+                "55_es_desc_4.mp3",
+                "55_es_desc_5.mp3",
+                "55_es_desc_6.mp3",
+                "55_es_desc_7.mp3"
+            ]
         },
         {
             "name": "ko_desc",
-            "value": "신체의 주요 동맥인 대동맥의 벽에는 대동맥류라고 알려진 돌출부가 생길 수 있습니다. 혈액은 대동맥을 통해 심장에서 몸으로 이동합니다. 대동맥의 어느 부분에서나 대동맥류가 발생할 수 있습니다. 원형 또는 튜브형 모양을 가질 수 있습니다. 다음은 일부 사람들에게 나타날 수 있는 다양한 유형의 대동맥류입니다. 대동맥류 환자의 경우 내부 대동맥벽이 찢어질 위험이 더 높습니다. 대동맥 박리는 이 파열에 대한 의학 용어입니다."
+            "value": "신체의 주요 동맥인 대동맥의 벽에는 대동맥류라고 알려진 돌출부가 생길 수 있습니다. 혈액은 대동맥을 통해 심장에서 몸으로 이동합니다. 대동맥의 어느 부분에서나 대동맥류가 발생할 수 있습니다. 원형 또는 튜브형 모양을 가질 수 있습니다. 다음은 일부 사람들에게 나타날 수 있는 다양한 유형의 대동맥류입니다. 대동맥류 환자의 경우 내부 대동맥벽이 찢어질 위험이 더 높습니다. 대동맥 박리는 이 파열에 대한 의학 용어입니다.",
+            "desc_audio": [
+                "55_ko_desc_1.mp3",
+                "55_ko_desc_2.mp3",
+                "55_ko_desc_3.mp3",
+                "55_ko_desc_4.mp3",
+                "55_ko_desc_5.mp3",
+                "55_ko_desc_6.mp3",
+                "55_ko_desc_7.mp3"
+            ]
         },
         {
             "name": "it_desc",
-            "value": "L&#39;aorta, l&#39;arteria principale del corpo, può sviluppare un rigonfiamento nella sua parete noto come aneurisma aortico. Il sangue viaggia dal cuore al corpo attraverso l&#39;aorta. In qualsiasi parte dell&#39;aorta possono svilupparsi aneurismi aortici. Potrebbero avere una forma rotonda o tubolare. Questi sono i diversi tipi di aneurismi aortici che alcune persone potrebbero avere. Il rischio di una rottura della parete aortica interna è maggiore nei pazienti con aneurismi aortici. Una dissezione aortica è il termine medico per questa rottura."
+            "value": "L&#39;aorta, l&#39;arteria principale del corpo, può sviluppare un rigonfiamento nella sua parete noto come aneurisma aortico. Il sangue viaggia dal cuore al corpo attraverso l&#39;aorta. In qualsiasi parte dell&#39;aorta possono svilupparsi aneurismi aortici. Potrebbero avere una forma rotonda o tubolare. Questi sono i diversi tipi di aneurismi aortici che alcune persone potrebbero avere. Il rischio di una rottura della parete aortica interna è maggiore nei pazienti con aneurismi aortici. Una dissezione aortica è il termine medico per questa rottura.",
+            "desc_audio": [
+                "55_it_desc_1.mp3",
+                "55_it_desc_2.mp3",
+                "55_it_desc_3.mp3",
+                "55_it_desc_4.mp3",
+                "55_it_desc_5.mp3",
+                "55_it_desc_6.mp3",
+                "55_it_desc_7.mp3"
+            ]
         },
         {
             "name": "pt_desc",
-            "value": "A aorta, a principal artéria do corpo, pode desenvolver uma protuberância em sua parede conhecida como aneurisma da aorta. O sangue viaja do coração para o corpo através da aorta. Em qualquer parte da aorta, podem ocorrer aneurismas da aorta. Eles podem ter formato redondo ou tubular. Estes são os diferentes tipos de aneurismas da aorta que algumas pessoas podem ter. O risco de ruptura da parede interna da aorta é maior em pacientes com aneurismas da aorta. Uma dissecção aórtica é o termo médico para esta ruptura."
+            "value": "A aorta, a principal artéria do corpo, pode desenvolver uma protuberância em sua parede conhecida como aneurisma da aorta. O sangue viaja do coração para o corpo através da aorta. Em qualquer parte da aorta, podem ocorrer aneurismas da aorta. Eles podem ter formato redondo ou tubular. Estes são os diferentes tipos de aneurismas da aorta que algumas pessoas podem ter. O risco de ruptura da parede interna da aorta é maior em pacientes com aneurismas da aorta. Uma dissecção aórtica é o termo médico para esta ruptura.",
+            "desc_audio": [
+                "55_pt_desc_1.mp3",
+                "55_pt_desc_2.mp3",
+                "55_pt_desc_3.mp3",
+                "55_pt_desc_4.mp3",
+                "55_pt_desc_5.mp3",
+                "55_pt_desc_6.mp3",
+                "55_pt_desc_7.mp3"
+            ]
         },
         {
             "name": "ar_desc",
-            "value": "يمكن للشريان الأورطي، وهو الشريان الرئيسي في الجسم، أن يتطور إلى انتفاخ في جداره يعرف باسم تمدد الأوعية الدموية الأبهري. ينتقل الدم من القلب إلى الجسم عبر الشريان الأورطي. في أي جزء من الشريان الأورطي، يمكن أن تتطور تمدد الأوعية الدموية الأبهري. يمكن أن يكون لها شكل دائري أو يشبه الأنبوب. هذه هي الأنواع المختلفة من تمدد الأوعية الدموية الأبهري التي قد يعاني منها بعض الأشخاص. يكون خطر تمزق جدار الأبهر الداخلي أعلى لدى المرضى الذين يعانون من تمدد الأوعية الدموية الأبهري. تشريح الأبهر هو المصطلح الطبي لهذا المسيل للدموع."
+            "value": "يمكن للشريان الأورطي، وهو الشريان الرئيسي في الجسم، أن يتطور إلى انتفاخ في جداره يعرف باسم تمدد الأوعية الدموية الأبهري. ينتقل الدم من القلب إلى الجسم عبر الشريان الأورطي. في أي جزء من الشريان الأورطي، يمكن أن تتطور تمدد الأوعية الدموية الأبهري. يمكن أن يكون لها شكل دائري أو يشبه الأنبوب. هذه هي الأنواع المختلفة من تمدد الأوعية الدموية الأبهري التي قد يعاني منها بعض الأشخاص. يكون خطر تمزق جدار الأبهر الداخلي أعلى لدى المرضى الذين يعانون من تمدد الأوعية الدموية الأبهري. تشريح الأبهر هو المصطلح الطبي لهذا المسيل للدموع.",
+            "desc_audio": [
+                "55_ar_desc_1.mp3",
+                "55_ar_desc_2.mp3",
+                "55_ar_desc_3.mp3",
+                "55_ar_desc_4.mp3",
+                "55_ar_desc_5.mp3",
+                "55_ar_desc_6.mp3",
+                "55_ar_desc_7.mp3"
+            ]
         },
         {
             "name": "zh_desc",
-            "value": "主动脉是人体的主要动脉，其壁上可能会出现隆起，称为主动脉瘤。血液通过主动脉从心脏流向全身。主动脉的任何部位都可能形成主动脉瘤。它们可以具有圆形或管状形状。这些是某些人可能患有的不同类型的主动脉瘤。主动脉瘤患者发生主动脉内壁撕裂的风险较高。主动脉夹层是这种撕裂的医学术语。"
+            "value": "主动脉是人体的主要动脉，其壁上可能会出现隆起，称为主动脉瘤。血液通过主动脉从心脏流向全身。主动脉的任何部位都可能形成主动脉瘤。它们可以具有圆形或管状形状。这些是某些人可能患有的不同类型的主动脉瘤。主动脉瘤患者发生主动脉内壁撕裂的风险较高。主动脉夹层是这种撕裂的医学术语。",
+            "desc_audio": [
+                "55_zh_desc_1.mp3",
+                "55_zh_desc_2.mp3",
+                "55_zh_desc_3.mp3",
+                "55_zh_desc_4.mp3",
+                "55_zh_desc_5.mp3",
+                "55_zh_desc_6.mp3",
+                "55_zh_desc_7.mp3"
+            ]
         },
         {
             "name": "ru_desc",
-            "value": "В аорте, главной артерии тела, может образоваться выпуклость в стенке, известная как аневризма аорты. Кровь движется от сердца к телу через аорту. В любом отделе аорты могут развиться аневризмы аорты. Они могли иметь круглую или трубчатую форму. Это различные типы аневризмы аорты, которые могут возникнуть у некоторых людей. Риск разрыва внутренней стенки аорты выше у пациентов с аневризмой аорты. Расслоение аорты — это медицинский термин, обозначающий этот разрыв."
+            "value": "В аорте, главной артерии тела, может образоваться выпуклость в стенке, известная как аневризма аорты. Кровь движется от сердца к телу через аорту. В любом отделе аорты могут развиться аневризмы аорты. Они могли иметь круглую или трубчатую форму. Это различные типы аневризмы аорты, которые могут возникнуть у некоторых людей. Риск разрыва внутренней стенки аорты выше у пациентов с аневризмой аорты. Расслоение аорты — это медицинский термин, обозначающий этот разрыв.",
+            "desc_audio": [
+                "55_ru_desc_1.mp3",
+                "55_ru_desc_2.mp3",
+                "55_ru_desc_3.mp3",
+                "55_ru_desc_4.mp3",
+                "55_ru_desc_5.mp3",
+                "55_ru_desc_6.mp3",
+                "55_ru_desc_7.mp3"
+            ]
         },
         {
             "name": "ja_desc",
-            "value": "体の主要な動脈である大動脈では、その壁に大動脈瘤として知られる隆起が生じることがあります。血液は心臓から大動脈を通って体に送られます。大動脈のどの部分でも大動脈瘤が発生する可能性があります。それらは、円形または管状の形状を有することができる。これらは、一部の人が罹患する可能性のあるさまざまなタイプの大動脈瘤です。大動脈瘤患者では、大動脈内壁断裂のリスクが高くなります。大動脈解離は、この裂傷を表す医学用語です。"
+            "value": "体の主要な動脈である大動脈では、その壁に大動脈瘤として知られる隆起が生じることがあります。血液は心臓から大動脈を通って体に送られます。大動脈のどの部分でも大動脈瘤が発生する可能性があります。それらは、円形または管状の形状を有することができる。これらは、一部の人が罹患する可能性のあるさまざまなタイプの大動脈瘤です。大動脈瘤患者では、大動脈内壁断裂のリスクが高くなります。大動脈解離は、この裂傷を表す医学用語です。",
+            "desc_audio": [
+                "55_ja_desc_1.mp3",
+                "55_ja_desc_2.mp3",
+                "55_ja_desc_3.mp3",
+                "55_ja_desc_4.mp3",
+                "55_ja_desc_5.mp3",
+                "55_ja_desc_6.mp3",
+                "55_ja_desc_7.mp3"
+            ]
         },
         {
             "name": "tr_desc",
-            "value": "Vücudun ana arteri olan aortun duvarında aort anevrizması olarak bilinen bir çıkıntı gelişebilir. Kan, kalpten vücuda aort yoluyla ulaşır. Aortun herhangi bir yerinde aort anevrizmaları gelişebilir. Yuvarlak veya tüp benzeri bir şekle sahip olabilirler. Bunlar bazı insanların sahip olabileceği farklı aort anevrizması türleridir. Aort anevrizması olan hastalarda iç aort duvarı yırtılması riski daha yüksektir. Aort diseksiyonu bu yırtığın tıbbi terimidir."
+            "value": "Vücudun ana arteri olan aortun duvarında aort anevrizması olarak bilinen bir çıkıntı gelişebilir. Kan, kalpten vücuda aort yoluyla ulaşır. Aortun herhangi bir yerinde aort anevrizmaları gelişebilir. Yuvarlak veya tüp benzeri bir şekle sahip olabilirler. Bunlar bazı insanların sahip olabileceği farklı aort anevrizması türleridir. Aort anevrizması olan hastalarda iç aort duvarı yırtılması riski daha yüksektir. Aort diseksiyonu bu yırtığın tıbbi terimidir.",
+            "desc_audio": [
+                "55_tr_desc_1.mp3",
+                "55_tr_desc_2.mp3",
+                "55_tr_desc_3.mp3",
+                "55_tr_desc_4.mp3",
+                "55_tr_desc_5.mp3",
+                "55_tr_desc_6.mp3",
+                "55_tr_desc_7.mp3"
+            ]
         },
         {
             "name": "fr_desc",
-            "value": "L&#39;aorte, l&#39;artère principale du corps, peut développer un renflement dans sa paroi appelé anévrisme aortique. Le sang circule du cœur vers le corps en passant par l&#39;aorte. Dans n’importe quelle partie de l’aorte, des anévrismes aortiques peuvent se développer. Ils peuvent avoir une forme ronde ou tubulaire. Ce sont les différents types d’anévrismes de l’aorte que certaines personnes peuvent avoir. Le risque de déchirure de la paroi aortique interne est plus élevé chez les patients présentant un anévrisme aortique. Une dissection aortique est le terme médical désignant cette déchirure."
+            "value": "L&#39;aorte, l&#39;artère principale du corps, peut développer un renflement dans sa paroi appelé anévrisme aortique. Le sang circule du cœur vers le corps en passant par l&#39;aorte. Dans n’importe quelle partie de l’aorte, des anévrismes aortiques peuvent se développer. Ils peuvent avoir une forme ronde ou tubulaire. Ce sont les différents types d’anévrismes de l’aorte que certaines personnes peuvent avoir. Le risque de déchirure de la paroi aortique interne est plus élevé chez les patients présentant un anévrisme aortique. Une dissection aortique est le terme médical désignant cette déchirure.",
+            "desc_audio": [
+                "55_fr_desc_1.mp3",
+                "55_fr_desc_2.mp3",
+                "55_fr_desc_3.mp3",
+                "55_fr_desc_4.mp3",
+                "55_fr_desc_5.mp3",
+                "55_fr_desc_6.mp3",
+                "55_fr_desc_7.mp3"
+            ]
         },
         {
             "name": "de_desc",
-            "value": "Die Aorta, die Hauptarterie des Körpers, kann eine Ausbuchtung in ihrer Wand entwickeln, die als Aortenaneurysma bezeichnet wird. Das Blut gelangt über die Aorta vom Herzen zum Körper. An jedem Teil der Aorta können sich Aortenaneurysmen entwickeln. Sie können eine runde oder röhrenförmige Form haben. Dies sind die verschiedenen Arten von Aortenaneurysmen, die manche Menschen haben können. Das Risiko eines Risses der inneren Aortenwand ist bei Patienten mit Aortenaneurysmen höher. Eine Aortendissektion ist der medizinische Fachausdruck für diesen Riss."
+            "value": "Die Aorta, die Hauptarterie des Körpers, kann eine Ausbuchtung in ihrer Wand entwickeln, die als Aortenaneurysma bezeichnet wird. Das Blut gelangt über die Aorta vom Herzen zum Körper. An jedem Teil der Aorta können sich Aortenaneurysmen entwickeln. Sie können eine runde oder röhrenförmige Form haben. Dies sind die verschiedenen Arten von Aortenaneurysmen, die manche Menschen haben können. Das Risiko eines Risses der inneren Aortenwand ist bei Patienten mit Aortenaneurysmen höher. Eine Aortendissektion ist der medizinische Fachausdruck für diesen Riss.",
+            "desc_audio": [
+                "55_de_desc_1.mp3",
+                "55_de_desc_2.mp3",
+                "55_de_desc_3.mp3",
+                "55_de_desc_4.mp3",
+                "55_de_desc_5.mp3",
+                "55_de_desc_6.mp3",
+                "55_de_desc_7.mp3"
+            ]
         }
     ],
-    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c422c1a354dd031e9e0eab4116da6fb5aa0b89376ceebfc30a8d16af1ccd06c5f82ba94c83361c50bb67cb9c56fe02a88e5286b386c04d376cc95bb4fd2c0be3350de36cf8e9e3e5035acc5f99dfe0baffb053aeb5a31051a75353e9c2cfbe6c7776867cf2a13f2674513ffb479c729abcd94688cc6c2f89e308fa6fff3ac4c7f9d98a2b58985da0ee278a3abd49db5da22a9f03133fcd183269519820ae92830c3675e4a03a8d1fb96026ccaff232b82f8b61f1fbf178463757c4b7e668c59d2c308b2301440d540819f61163d9d78f37ade05c05362c912a9b06e940f4e2e44f99ddeb75d000d2b510fc5caee20643d2b85145283ad5767feb21fe23af0aa315ea6b78bcdafaf9babfcc2bbf5a08a7ddae1a0ab66f3cb8243001f7d85070b87730eb3cbb6220730b73966dff753332284a79a3959a865f0520ac32fc0a1f38e7f2a02fe2944cfdf173c74b838438a73185843cb37f4b6f8db8dcc9420d05499e06b53fa16e5714d6b588466b4315e24438abd809ce7ab3da8e6086f6906f32d1a02f3c566e3ec3af551c31a8a0de466a55c2257807465496fd1722312d6704e3ca7e1dc12b8cd52db63178a553cbee8b6fd1383627079ca6b3017688cd4349da50f716931aa5c905accb0a36860207469774ba43abd1ed0fbd6ff16a6d3761bcf764dfccce5761500b241cf60da75decba17601e4facaf87716cc996ca3479da8eeec99c096e920a5bfc3d9360c7c23aedb1ad98c4d64629bd94f7f3f62121a669eafc61d64e43eab3c6bd132a786e0f43e2a5a33508bf1d3cfddcae22987e9b2a659cce9fe2a37cf565bcd7a39f15cb8ab92e8f84b90d658a4707a51fcebcb81989dd1542a7abc71d918c205b2ede6427acb5de66fdfc2727ea00e494d5d5b5b6e788085135b2459ee882f35e232d1ad21bfcc79e24c326567772ed0593e46f8fa2ce33f66f9bae4f8b7763acd438faaa074b2d70ec6fd35c1429049492a2c2af4c6755ae084fa9b09122353ce8ef51eee38281d3ecee6655432a561dda6e164f485ca42a24105b6d6653d77b76b946bc2f3cc31a78fd87359c33d78aca8e2a38817f685cd3e0b57f49508dd3abeeb847f58d543e84bf7db2b3b6219828f14fbad1e2a6d2ea6626f9f98f709429552399be3a735aab46b1fef5c44e69bc67563cb0401d6153a83670b46ca834168eb430076f1bf08b96f665f6feef06c6560de0800632d9fab179ccfc36c06bec0db291d603e522ee716f22694a209a4587d6fbfa039275ed70fb325b72834e0cc2d8c77a0c53ce8899261fd6cc012375c267e7e7698aa0be5994459d2bf6c793f3cd3c8a518a5a939ce41de3982b72409aa3e14d6468f31634309700585a1b507896ea58a6426fefba18e0186ef9ee3b53f136bd95092fbcc26fdcb965f4190c238c3177e865229879052796bc3d7fcb3536019f9fe61d3f669c3de0bd3c50b94d6178d1cb1dfd17caa7f8fd04ef8101db81cc079fcda18001b141df2aaeb458b1b0b0ca8e39a90309f115a43e1186dc501e76c8c06a0dc0cd88e83ab8d1f699f5948e9da4fbf09f0df9f259c4f3811cd49f07ecff36e2914b00bedd376e87474d2b6fb09992d09441cf974ba30cb31365e1be6fa65a050b26fe37e5de549fdfadd9e0c5fa1ca6edac41d69502c14af13ec5608d13c4bfbb9badceaf0a81675c965eacd155822a02026f7a305885dae0ba3a"
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c422c1a354dd031e9e0eab4116da6fb5aa0b89376ceebfc30a8d16af1ccd06c5f82ba94c83361c50bb67cb9c56fe02a88e5286b386c04d376cc95bb4fd2c0be3350de36cf8e9e3e5035acc5f99dfe0baffb053aeb5a31051a75353e9c2cfbe6c7776867cf2a13f2674513ffb479c729abcd94688cc6c2f89e308fa6fff3ac4c7f9d98a2b58985da0ee278a3abd49db5da23ccf4beeb587430b970adf7f2f5c3079aab65481ae0beddf03549ed803c83c451eb0d0054a4f0d5ae8c6c8989193bdb03f4744f22b769b90049c3184dbe152221e62164288b7be5dc7308d4f54fcd03c0f4f7b70132092d810e671760453766765e389b991fdd8b47119f3b1c88353e0d9a5535816caea5e6748b850316915d42d01d343992cbab8d49029833d02ba28f1a1d5e6e38a614d74b1b6bcc1c4691c97f0e56fa8fa6d4af440a69d49bea99af9621c363b1d8247845b3009f3aa18d077366dc77b72c2f7c91a25af447b41cab70bcd2cf5f4f90424172a3d91a87885451102325f839ae2c2a2542512e823ab6ed806c8c577fe94668a2c268b6e117032830b2de738873bc6ef48dfbe16ae18a687093a87d732095ff02344dca68a7b301e74db518122e5c0e8251424678d1e646b993a9ebec3769f21105ba66bc42bd4ebc720222ccf4a40c6137cb51662e0ee2c4ff4cdbb6a0efc642a7496141fff48262c8f176e26aaa2840e999f33e13912aec5bb80752ecde259c8c13029ce98d1e8f91c75382dcb35c8ebdde977262ed20babefec99b17d76b8697e2bb6ba078377820cdf833ab8b2dcc7208894ee037d51e6a8ba0742e5cdb2f1c6e473c7224ea58ac9dd7014b8514ea3f957d647f8db45a4d50dea9a20692b4c79ff35d6f1bbcb9ba9d794af41d01bc9fad51d80aa023a7b4440c9fd4d7e2cdec95ee3d1554ddc6251d2b129817775f6777c2c598824241cf686357f3a96296a2d65729aa95743c6815055e54236ba6ef24401aa0c4968098f115399ef9414a2c6c10632f9b60b3f51af4bc108828020f846f3144c8dddc061b363279924651e01c49c97aa4d913b74aea68eb99d1d7274a20e8fb0f982b96434a6c2d2cda2294746577c5de3e26915bb8040d8e469148cd24f01bf330d6f44d00ea431d2c2da4f4e974aac2d8e52c1662ae8805cf040f1bc98d8d55eb2860f14899a37e47c7a837a53c7295bb529deabf75705c7f9474540cf760fd64aa11ea87019d568e35868caf5358754698bb481668c79bdfd10a5a11dd5e393933cc0fe33513bc6963ccba6c198769795b06ae22acfd21ba51af47f066452bd7d3af322ce2ea6b4001790573bdb8b0f2d1a4c876c4f09c4d9dc4726b72760351f23043bfe46fdedfef2e5767c8d794ded0f6d48ba23849e8870e5f1feda136b36925de95343b088617a0d0dd465d0acee52411375a704eda1a9e87d6e68cae319d4509e9c97685d8c280ca8cd086d7bf46e00b12cd6d9314a5073c4a55fedd105509422994fa77912a274ef4918cd910db5a47c129ff0a0054c309fb834ccd82b12aea246e73d104406ffdcde7ad33ea2cd8e5691aa1fa0faf9fa6efc064fa9ef8ba43c52dde84269befdd094e7183245ec502eaca61a487c9557bdd89bd1a93f23945f56ff6d6ce1f299a8043dc0b389a4e20029d7097ab837182d271aea9d9ec092771e69ef799f342e67658bf7ceebeddadcb5d3ed4f464ff2d624ef259ee2c89cf52264dd2da148e03bf4c8490324a15460bcab029b4612d4285c99abc54f9bbe824bea1a27c62ca99d563e239f30dcb52e41d3983d86c4960e5c8b85e627f435086aa20a1d517afae527f08d06f986c41b0824c826fe7469bfdc08861c507469bee8c57256a24442b7762a4a6a93d36d91e812834dee6818a4f8f7b127ce80c23c352fccfbcdaaea0a45bc047b7281682e2718ba0c6d0f3f2b1c0daada7a6727ba8db965f43fa941f527c192e87c9f34afbfa6e386418e68195f4c9b84f1a507d71ed1f09553ea97890a760e7d48c28aa59801213da274ec223c8feb83c2d65c22566c05631c4bdd0c237f45946f5e76b45991e6b8c26c71df16342d08a2c721b9ba4a552c385ab4d71504fc4ae000daf9e2fbe68ed903a90b65146df617f75b11e3338981e81466ea49b8077e46bf88007d34691189f1ac33b308148e735650d279a2614f636e64fd981bfdd5ecdfe03457bbf4a8e1ee60268d7c0094d4051fe2714f9476d8d35563604c8be6e44f94159828acc0aea62c0cf4fb0360d59e5a2135662da4426fedf4e2f0eb2d944bca8e1588fc469a3f6404a151d67a2ee180967bb955a8b8d05720f23489cb58f26d3ea696323d9606a91d8c3fa5718964e3257a53daca88f15dc5dcdd362b03082a0db8eed41a1a859ed371fd5095a896a1e87b08f215dbf291db9f54797276e8e194255cd7b90c80678fc5d2d01962590ab7ffa95f6234ebfd731fee20f773eab9da6e5b358f41f09d82ff18f5",
+    "desc_audio": [
+        "55_en_desc_1.mp3",
+        "55_en_desc_2.mp3",
+        "55_en_desc_3.mp3",
+        "55_en_desc_4.mp3",
+        "55_en_desc_5.mp3",
+        "55_en_desc_6.mp3",
+        "55_en_desc_7.mp3"
+    ]
 }

@@ -51,57 +51,282 @@
             "value": "İyi huylu adrenal tümörler"
         }
     ],
+    "image": "https://www.foxchase.org/sites/default/files/images/blog/thumb/adrenal_gland.jpg",
+    "d3images": [
+        "https://sketchfab.com/models/a97ec3f27c8a411ea5e4743e582839a8/embed?autostart=1&internal=1&tracking=0&ui_ar=0&ui_infos=0&ui_snapshots=1&ui_stop=0&ui_theatre=1&ui_watermark=0"
+    ],
     "type": [],
     "desc": "Adrenal glands can develop benign adrenal tumors, which are noncancerous masses. Adrenal glands generate hormones as a component of the endocrine system, which instructs almost all body tissues and organs. Each kidney is positioned above one of your two adrenal glands. A gland's cortex and medulla are its two main tissue types. Another name for benign adrenal adenomas are tumors that grow in the cortex. The term \"pheochromocytomas\" (fee-o-kroe-moe-sy-TOE-muhs) also refers to those that arise in the heart. Treating most benign adrenal tumors is not necessary because they do not produce any symptoms. However, there are instances when these tumors release excessive amounts of specific hormones, which can lead to problems. Most frequently, the adrenalin hormones from the medulla and the cortisol and aldosterone from the cortex can be oversecreted. Surgery or medicine may be used in these situations to treat the benign adrenal tumor. Arizona, Florida, and Minnesota are home to campuses of one of the biggest and most seasoned medical practices in the country, Mayo Clinic. To provide high-quality care and a speedy recovery, a multidisciplinary team of staff members collaborate. Ongoing clinical trials investigating therapies for endocrine disorders and conditions affecting the adrenal glands are carried out by endocrinology researchers. Get more information about Mayo Clinic endocrinology research. View the National Library of Medicine's PubMed database for a list of articles written by Mayo Clinic physicians regarding benign adrenal tumors. ",
     "desc_lang": [
         {
             "name": "es_desc",
-            "value": "Las glándulas suprarrenales pueden desarrollar tumores suprarrenales benignos, que son masas no cancerosas. Las glándulas suprarrenales generan hormonas como componente del sistema endocrino, que instruye a casi todos los tejidos y órganos del cuerpo. Cada riñón está colocado encima de una de las dos glándulas suprarrenales. La corteza y la médula de una glándula son sus dos tipos de tejidos principales. Otro nombre para los adenomas suprarrenales benignos es tumores que crecen en la corteza. El término &quot;feocromocitomas&quot; también se refiere a aquellos que surgen en el corazón. No es necesario tratar la mayoría de los tumores suprarrenales benignos porque no producen ningún síntoma. Sin embargo, hay casos en los que estos tumores liberan cantidades excesivas de hormonas específicas, lo que puede provocar problemas. Lo más frecuente es que se secreten en exceso las hormonas adrenalina de la médula y cortisol y aldosterona de la corteza. En estas situaciones se puede utilizar cirugía o medicamentos para tratar el tumor suprarrenal benigno. Arizona, Florida y Minnesota albergan los campus de una de las prácticas médicas más grandes y experimentadas del país, Mayo Clinic. Para brindar atención de alta calidad y una recuperación rápida, colabora un equipo multidisciplinario de miembros del personal. Investigadores de endocrinología llevan a cabo ensayos clínicos en curso que investigan terapias para trastornos endocrinos y afecciones que afectan las glándulas suprarrenales. Obtenga más información sobre la investigación endocrinológica de Mayo Clinic. Consulte la base de datos PubMed de la Biblioteca Nacional de Medicina para obtener una lista de artículos escritos por médicos de Mayo Clinic sobre tumores suprarrenales benignos."
+            "value": "Las glándulas suprarrenales pueden desarrollar tumores suprarrenales benignos, que son masas no cancerosas. Las glándulas suprarrenales generan hormonas como componente del sistema endocrino, que instruye a casi todos los tejidos y órganos del cuerpo. Cada riñón está colocado encima de una de las dos glándulas suprarrenales. La corteza y la médula de una glándula son sus dos tipos de tejidos principales. Otro nombre para los adenomas suprarrenales benignos es tumores que crecen en la corteza. El término &quot;feocromocitomas&quot; también se refiere a aquellos que surgen en el corazón. No es necesario tratar la mayoría de los tumores suprarrenales benignos porque no producen ningún síntoma. Sin embargo, hay casos en los que estos tumores liberan cantidades excesivas de hormonas específicas, lo que puede provocar problemas. Lo más frecuente es que se secreten en exceso las hormonas adrenalina de la médula y cortisol y aldosterona de la corteza. En estas situaciones se puede utilizar cirugía o medicamentos para tratar el tumor suprarrenal benigno. Arizona, Florida y Minnesota albergan los campus de una de las prácticas médicas más grandes y experimentadas del país, Mayo Clinic. Para brindar atención de alta calidad y una recuperación rápida, colabora un equipo multidisciplinario de miembros del personal. Investigadores de endocrinología llevan a cabo ensayos clínicos en curso que investigan terapias para trastornos endocrinos y afecciones que afectan las glándulas suprarrenales. Obtenga más información sobre la investigación endocrinológica de Mayo Clinic. Consulte la base de datos PubMed de la Biblioteca Nacional de Medicina para obtener una lista de artículos escritos por médicos de Mayo Clinic sobre tumores suprarrenales benignos.",
+            "desc_audio": [
+                "92_es_desc_1.mp3",
+                "92_es_desc_2.mp3",
+                "92_es_desc_3.mp3",
+                "92_es_desc_4.mp3",
+                "92_es_desc_5.mp3",
+                "92_es_desc_6.mp3",
+                "92_es_desc_7.mp3",
+                "92_es_desc_8.mp3",
+                "92_es_desc_9.mp3",
+                "92_es_desc_10.mp3",
+                "92_es_desc_11.mp3",
+                "92_es_desc_12.mp3",
+                "92_es_desc_13.mp3",
+                "92_es_desc_14.mp3",
+                "92_es_desc_15.mp3"
+            ]
         },
         {
             "name": "ko_desc",
-            "value": "부신에는 비암성 종괴인 양성 부신 종양이 발생할 수 있습니다. 부신은 거의 모든 신체 조직과 기관에 지시하는 내분비계의 구성 요소로 호르몬을 생성합니다. 각 신장은 두 개의 부신 중 하나 위에 위치합니다. 분비선의 피질과 수질은 두 가지 주요 조직 유형입니다. 양성 부신 선종의 또 다른 이름은 피질에서 자라는 종양입니다. 크롬친화세포종(fee-o-kroe-moe-sy-TOE-muhs)이라는 용어는 심장에서 발생하는 것을 의미하기도 합니다. 대부분의 양성 부신 종양은 증상이 나타나지 않으므로 치료가 필요하지 않습니다. 그러나 이러한 종양이 과도한 양의 특정 호르몬을 방출하여 문제를 일으킬 수 있는 경우가 있습니다. 가장 빈번하게는 수질의 아드레날린 호르몬과 피질의 코티솔 및 알도스테론이 과다분비될 수 있습니다. 이러한 상황에서는 양성 부신 종양을 치료하기 위해 수술이나 약물을 사용할 수 있습니다. 애리조나, 플로리다, 미네소타에는 미국에서 가장 규모가 크고 숙련된 의료 기관 중 하나인 Mayo Clinic 캠퍼스가 있습니다. 고품질의 진료와 빠른 회복을 제공하기 위해 다양한 분야의 직원들로 구성된 팀이 협력합니다. 내분비학 연구자들은 내분비 장애 및 부신에 영향을 미치는 상태에 대한 치료법을 조사하는 진행 중인 임상 시험을 수행하고 있습니다. 메이요클리닉(Mayo Clinic) 내분비학 연구에 대해 더 많은 정보를 얻으세요. 양성 부신 종양에 관해 Mayo Clinic 의사가 작성한 기사 목록을 보려면 국립 의학 도서관의 PubMed 데이터베이스를 보십시오."
+            "value": "부신에는 비암성 종괴인 양성 부신 종양이 발생할 수 있습니다. 부신은 거의 모든 신체 조직과 기관에 지시하는 내분비계의 구성 요소로 호르몬을 생성합니다. 각 신장은 두 개의 부신 중 하나 위에 위치합니다. 분비선의 피질과 수질은 두 가지 주요 조직 유형입니다. 양성 부신 선종의 또 다른 이름은 피질에서 자라는 종양입니다. 크롬친화세포종(fee-o-kroe-moe-sy-TOE-muhs)이라는 용어는 심장에서 발생하는 것을 의미하기도 합니다. 대부분의 양성 부신 종양은 증상이 나타나지 않으므로 치료가 필요하지 않습니다. 그러나 이러한 종양이 과도한 양의 특정 호르몬을 방출하여 문제를 일으킬 수 있는 경우가 있습니다. 가장 빈번하게는 수질의 아드레날린 호르몬과 피질의 코티솔 및 알도스테론이 과다분비될 수 있습니다. 이러한 상황에서는 양성 부신 종양을 치료하기 위해 수술이나 약물을 사용할 수 있습니다. 애리조나, 플로리다, 미네소타에는 미국에서 가장 규모가 크고 숙련된 의료 기관 중 하나인 Mayo Clinic 캠퍼스가 있습니다. 고품질의 진료와 빠른 회복을 제공하기 위해 다양한 분야의 직원들로 구성된 팀이 협력합니다. 내분비학 연구자들은 내분비 장애 및 부신에 영향을 미치는 상태에 대한 치료법을 조사하는 진행 중인 임상 시험을 수행하고 있습니다. 메이요클리닉(Mayo Clinic) 내분비학 연구에 대해 더 많은 정보를 얻으세요. 양성 부신 종양에 관해 Mayo Clinic 의사가 작성한 기사 목록을 보려면 국립 의학 도서관의 PubMed 데이터베이스를 보십시오.",
+            "desc_audio": [
+                "92_ko_desc_1.mp3",
+                "92_ko_desc_2.mp3",
+                "92_ko_desc_3.mp3",
+                "92_ko_desc_4.mp3",
+                "92_ko_desc_5.mp3",
+                "92_ko_desc_6.mp3",
+                "92_ko_desc_7.mp3",
+                "92_ko_desc_8.mp3",
+                "92_ko_desc_9.mp3",
+                "92_ko_desc_10.mp3",
+                "92_ko_desc_11.mp3",
+                "92_ko_desc_12.mp3",
+                "92_ko_desc_13.mp3",
+                "92_ko_desc_14.mp3",
+                "92_ko_desc_15.mp3"
+            ]
         },
         {
             "name": "it_desc",
-            "value": "Le ghiandole surrenali possono sviluppare tumori surrenali benigni, che sono masse non cancerose. Le ghiandole surrenali generano ormoni come componente del sistema endocrino, che istruisce quasi tutti i tessuti e gli organi del corpo. Ciascun rene è posizionato sopra una delle due ghiandole surrenali. La corteccia e il midollo di una ghiandola sono i suoi due principali tipi di tessuto. Un altro nome per gli adenomi surrenalici benigni sono tumori che crescono nella corteccia. Il termine &quot;feocromocitomi&quot; (fee-o-kroe-moe-sy-TOE-muhs) si riferisce anche a quelli che originano nel cuore. Il trattamento della maggior parte dei tumori benigni delle ghiandole surrenali non è necessario perché non producono alcun sintomo. Tuttavia, ci sono casi in cui questi tumori rilasciano quantità eccessive di ormoni specifici, che possono portare a problemi. Più frequentemente, gli ormoni adrenalina dal midollo e il cortisolo e l&#39;aldosterone dalla corteccia possono essere ipersecreti. La chirurgia o la medicina possono essere utilizzate in queste situazioni per trattare il tumore benigno delle ghiandole surrenali. Arizona, Florida e Minnesota ospitano i campus di uno degli studi medici più grandi e più esperti del paese, la Mayo Clinic. Per fornire cure di alta qualità e una pronta guarigione, collabora un team multidisciplinare di membri dello staff. Gli studi clinici in corso che studiano le terapie per i disturbi endocrini e le condizioni che colpiscono le ghiandole surrenali sono condotti da ricercatori di endocrinologia. Ottieni maggiori informazioni sulla ricerca endocrinologica della Mayo Clinic. Visualizza il database PubMed della National Library of Medicine per un elenco di articoli scritti dai medici della Mayo Clinic riguardanti i tumori benigni delle ghiandole surrenali."
+            "value": "Le ghiandole surrenali possono sviluppare tumori surrenali benigni, che sono masse non cancerose. Le ghiandole surrenali generano ormoni come componente del sistema endocrino, che istruisce quasi tutti i tessuti e gli organi del corpo. Ciascun rene è posizionato sopra una delle due ghiandole surrenali. La corteccia e il midollo di una ghiandola sono i suoi due principali tipi di tessuto. Un altro nome per gli adenomi surrenalici benigni sono tumori che crescono nella corteccia. Il termine &quot;feocromocitomi&quot; (fee-o-kroe-moe-sy-TOE-muhs) si riferisce anche a quelli che originano nel cuore. Il trattamento della maggior parte dei tumori benigni delle ghiandole surrenali non è necessario perché non producono alcun sintomo. Tuttavia, ci sono casi in cui questi tumori rilasciano quantità eccessive di ormoni specifici, che possono portare a problemi. Più frequentemente, gli ormoni adrenalina dal midollo e il cortisolo e l&#39;aldosterone dalla corteccia possono essere ipersecreti. La chirurgia o la medicina possono essere utilizzate in queste situazioni per trattare il tumore benigno delle ghiandole surrenali. Arizona, Florida e Minnesota ospitano i campus di uno degli studi medici più grandi e più esperti del paese, la Mayo Clinic. Per fornire cure di alta qualità e una pronta guarigione, collabora un team multidisciplinare di membri dello staff. Gli studi clinici in corso che studiano le terapie per i disturbi endocrini e le condizioni che colpiscono le ghiandole surrenali sono condotti da ricercatori di endocrinologia. Ottieni maggiori informazioni sulla ricerca endocrinologica della Mayo Clinic. Visualizza il database PubMed della National Library of Medicine per un elenco di articoli scritti dai medici della Mayo Clinic riguardanti i tumori benigni delle ghiandole surrenali.",
+            "desc_audio": [
+                "92_it_desc_1.mp3",
+                "92_it_desc_2.mp3",
+                "92_it_desc_3.mp3",
+                "92_it_desc_4.mp3",
+                "92_it_desc_5.mp3",
+                "92_it_desc_6.mp3",
+                "92_it_desc_7.mp3",
+                "92_it_desc_8.mp3",
+                "92_it_desc_9.mp3",
+                "92_it_desc_10.mp3",
+                "92_it_desc_11.mp3",
+                "92_it_desc_12.mp3",
+                "92_it_desc_13.mp3",
+                "92_it_desc_14.mp3",
+                "92_it_desc_15.mp3"
+            ]
         },
         {
             "name": "ru_desc",
-            "value": "В надпочечниках могут образовываться доброкачественные опухоли надпочечников, которые не являются раковыми образованиями. Надпочечники вырабатывают гормоны как компонент эндокринной системы, управляющей практически всеми тканями и органами организма. Каждая почка расположена над одним из двух надпочечников. Корковое вещество и мозговое вещество железы — два основных типа тканей. Другое название доброкачественных аденом надпочечников – опухоли, растущие в коре головного мозга. Термин «феохромоцитомы» (fee-o-kroe-moe-sy-TOE-muhs) также относится к тем, которые возникают в сердце. В лечении большинства доброкачественных опухолей надпочечников нет необходимости, поскольку они не вызывают никаких симптомов. Однако бывают случаи, когда эти опухоли выделяют чрезмерное количество определенных гормонов, что может привести к проблемам. Чаще всего гормоны адреналина из мозгового вещества, а также кортизола и альдостерона из коры могут подвергаться чрезмерной секреции. В таких ситуациях для лечения доброкачественной опухоли надпочечников можно использовать хирургическое вмешательство или медикаментозное лечение. В Аризоне, Флориде и Миннесоте расположены кампусы одной из крупнейших и наиболее опытных медицинских практик в стране — клиники Мэйо. Для обеспечения качественного ухода и скорейшего выздоровления сотрудничает многопрофильная команда сотрудников. Исследователи-эндокринологи проводят текущие клинические испытания по изучению методов лечения эндокринных заболеваний и состояний, влияющих на надпочечники. Получите дополнительную информацию об эндокринологических исследованиях клиники Мэйо. Просмотрите базу данных PubMed Национальной медицинской библиотеки, чтобы найти список статей, написанных врачами клиники Мэйо о доброкачественных опухолях надпочечников."
+            "value": "В надпочечниках могут образовываться доброкачественные опухоли надпочечников, которые не являются раковыми образованиями. Надпочечники вырабатывают гормоны как компонент эндокринной системы, управляющей практически всеми тканями и органами организма. Каждая почка расположена над одним из двух надпочечников. Корковое вещество и мозговое вещество железы — два основных типа тканей. Другое название доброкачественных аденом надпочечников – опухоли, растущие в коре головного мозга. Термин «феохромоцитомы» (fee-o-kroe-moe-sy-TOE-muhs) также относится к тем, которые возникают в сердце. В лечении большинства доброкачественных опухолей надпочечников нет необходимости, поскольку они не вызывают никаких симптомов. Однако бывают случаи, когда эти опухоли выделяют чрезмерное количество определенных гормонов, что может привести к проблемам. Чаще всего гормоны адреналина из мозгового вещества, а также кортизола и альдостерона из коры могут подвергаться чрезмерной секреции. В таких ситуациях для лечения доброкачественной опухоли надпочечников можно использовать хирургическое вмешательство или медикаментозное лечение. В Аризоне, Флориде и Миннесоте расположены кампусы одной из крупнейших и наиболее опытных медицинских практик в стране — клиники Мэйо. Для обеспечения качественного ухода и скорейшего выздоровления сотрудничает многопрофильная команда сотрудников. Исследователи-эндокринологи проводят текущие клинические испытания по изучению методов лечения эндокринных заболеваний и состояний, влияющих на надпочечники. Получите дополнительную информацию об эндокринологических исследованиях клиники Мэйо. Просмотрите базу данных PubMed Национальной медицинской библиотеки, чтобы найти список статей, написанных врачами клиники Мэйо о доброкачественных опухолях надпочечников.",
+            "desc_audio": [
+                "92_ru_desc_1.mp3",
+                "92_ru_desc_2.mp3",
+                "92_ru_desc_3.mp3",
+                "92_ru_desc_4.mp3",
+                "92_ru_desc_5.mp3",
+                "92_ru_desc_6.mp3",
+                "92_ru_desc_7.mp3",
+                "92_ru_desc_8.mp3",
+                "92_ru_desc_9.mp3",
+                "92_ru_desc_10.mp3",
+                "92_ru_desc_11.mp3",
+                "92_ru_desc_12.mp3",
+                "92_ru_desc_13.mp3",
+                "92_ru_desc_14.mp3",
+                "92_ru_desc_15.mp3"
+            ]
         },
         {
             "name": "ar_desc",
-            "value": "يمكن أن تصاب الغدد الكظرية بأورام كظرية حميدة، وهي كتل غير سرطانية. تفرز الغدد الكظرية الهرمونات كأحد مكونات نظام الغدد الصماء، الذي يوجه جميع أنسجة وأعضاء الجسم تقريبًا. يتم وضع كل كلية فوق إحدى الغدد الكظرية. قشرة الغدة والنخاع هما نوعان من الأنسجة الرئيسية. اسم آخر لأورام الغدة الكظرية الحميدة هي الأورام التي تنمو في القشرة. يشير مصطلح &quot;ورم القواتم&quot; (fee-o-kroe-moe-sy-TOE-muhs) أيضًا إلى تلك التي تنشأ في القلب. علاج معظم أورام الغدة الكظرية الحميدة ليس ضروريًا لأنها لا تسبب أي أعراض. ومع ذلك، هناك حالات تفرز فيها هذه الأورام كميات زائدة من هرمونات معينة، مما قد يؤدي إلى مشاكل. في أغلب الأحيان، يمكن إفراز هرمونات الأدرينالين من النخاع والكورتيزول والألدوستيرون من القشرة بشكل مفرط. يمكن استخدام الجراحة أو الدواء في هذه الحالات لعلاج ورم الغدة الكظرية الحميد. تعد أريزونا وفلوريدا ومينيسوتا موطنًا لواحدة من أكبر الممارسات الطبية وأكثرها خبرة في البلاد، Mayo Clinic. لتوفير رعاية عالية الجودة والتعافي السريع، يتعاون فريق متعدد التخصصات من الموظفين. يتم إجراء التجارب السريرية المستمرة التي تبحث في علاجات اضطرابات الغدد الصماء والحالات التي تؤثر على الغدد الكظرية من قبل الباحثين في علم الغدد الصماء. احصل على مزيد من المعلومات حول أبحاث الغدد الصماء في Mayo Clinic. اعرض قاعدة بيانات PubMed التابعة للمكتبة الوطنية للطب للحصول على قائمة بالمقالات التي كتبها أطباء Mayo Clinic فيما يتعلق بأورام الغدة الكظرية الحميدة."
+            "value": "يمكن أن تصاب الغدد الكظرية بأورام كظرية حميدة، وهي كتل غير سرطانية. تفرز الغدد الكظرية الهرمونات كأحد مكونات نظام الغدد الصماء، الذي يوجه جميع أنسجة وأعضاء الجسم تقريبًا. يتم وضع كل كلية فوق إحدى الغدد الكظرية. قشرة الغدة والنخاع هما نوعان من الأنسجة الرئيسية. اسم آخر لأورام الغدة الكظرية الحميدة هي الأورام التي تنمو في القشرة. يشير مصطلح &quot;ورم القواتم&quot; (fee-o-kroe-moe-sy-TOE-muhs) أيضًا إلى تلك التي تنشأ في القلب. علاج معظم أورام الغدة الكظرية الحميدة ليس ضروريًا لأنها لا تسبب أي أعراض. ومع ذلك، هناك حالات تفرز فيها هذه الأورام كميات زائدة من هرمونات معينة، مما قد يؤدي إلى مشاكل. في أغلب الأحيان، يمكن إفراز هرمونات الأدرينالين من النخاع والكورتيزول والألدوستيرون من القشرة بشكل مفرط. يمكن استخدام الجراحة أو الدواء في هذه الحالات لعلاج ورم الغدة الكظرية الحميد. تعد أريزونا وفلوريدا ومينيسوتا موطنًا لواحدة من أكبر الممارسات الطبية وأكثرها خبرة في البلاد، Mayo Clinic. لتوفير رعاية عالية الجودة والتعافي السريع، يتعاون فريق متعدد التخصصات من الموظفين. يتم إجراء التجارب السريرية المستمرة التي تبحث في علاجات اضطرابات الغدد الصماء والحالات التي تؤثر على الغدد الكظرية من قبل الباحثين في علم الغدد الصماء. احصل على مزيد من المعلومات حول أبحاث الغدد الصماء في Mayo Clinic. اعرض قاعدة بيانات PubMed التابعة للمكتبة الوطنية للطب للحصول على قائمة بالمقالات التي كتبها أطباء Mayo Clinic فيما يتعلق بأورام الغدة الكظرية الحميدة.",
+            "desc_audio": [
+                "92_ar_desc_1.mp3",
+                "92_ar_desc_2.mp3",
+                "92_ar_desc_3.mp3",
+                "92_ar_desc_4.mp3",
+                "92_ar_desc_5.mp3",
+                "92_ar_desc_6.mp3",
+                "92_ar_desc_7.mp3",
+                "92_ar_desc_8.mp3",
+                "92_ar_desc_9.mp3",
+                "92_ar_desc_10.mp3",
+                "92_ar_desc_11.mp3",
+                "92_ar_desc_12.mp3",
+                "92_ar_desc_13.mp3",
+                "92_ar_desc_14.mp3",
+                "92_ar_desc_15.mp3"
+            ]
         },
         {
             "name": "fr_desc",
-            "value": "Les glandes surrénales peuvent développer des tumeurs surrénales bénignes, qui sont des masses non cancéreuses. Les glandes surrénales génèrent des hormones en tant que composante du système endocrinien, qui commande presque tous les tissus et organes du corps. Chaque rein est positionné au-dessus de l’une de vos deux glandes surrénales. Le cortex et la moelle d&#39;une glande sont ses deux principaux types de tissus. Un autre nom pour les adénomes surrénaliens bénins est celui des tumeurs qui se développent dans le cortex. Le terme « phéochromocytomes » (fee-o-kroe-moe-sy-TOE-muhs) fait également référence à ceux qui surviennent dans le cœur. Le traitement de la plupart des tumeurs bénignes des surrénales n’est pas nécessaire car elles ne produisent aucun symptôme. Cependant, il arrive parfois que ces tumeurs libèrent des quantités excessives d’hormones spécifiques, ce qui peut entraîner des problèmes. Le plus souvent, les hormones adrénaline de la moelle et le cortisol et l&#39;aldostérone du cortex peuvent être trop sécrétés. La chirurgie ou les médicaments peuvent être utilisés dans ces situations pour traiter la tumeur bénigne des surrénales. L&#39;Arizona, la Floride et le Minnesota abritent les campus de l&#39;un des cabinets médicaux les plus importants et les plus expérimentés du pays, la Mayo Clinic. Pour fournir des soins de haute qualité et un rétablissement rapide, une équipe multidisciplinaire de membres du personnel collabore. Des essais cliniques en cours portant sur les thérapies contre les troubles endocriniens et les affections affectant les glandes surrénales sont menés par des chercheurs en endocrinologie. Obtenez plus d’informations sur la recherche en endocrinologie de la Mayo Clinic. Consultez la base de données PubMed de la National Library of Medicine pour obtenir une liste d&#39;articles rédigés par des médecins de la Mayo Clinic concernant les tumeurs bénignes des surrénales."
+            "value": "Les glandes surrénales peuvent développer des tumeurs surrénales bénignes, qui sont des masses non cancéreuses. Les glandes surrénales génèrent des hormones en tant que composante du système endocrinien, qui commande presque tous les tissus et organes du corps. Chaque rein est positionné au-dessus de l’une de vos deux glandes surrénales. Le cortex et la moelle d&#39;une glande sont ses deux principaux types de tissus. Un autre nom pour les adénomes surrénaliens bénins est celui des tumeurs qui se développent dans le cortex. Le terme « phéochromocytomes » (fee-o-kroe-moe-sy-TOE-muhs) fait également référence à ceux qui surviennent dans le cœur. Le traitement de la plupart des tumeurs bénignes des surrénales n’est pas nécessaire car elles ne produisent aucun symptôme. Cependant, il arrive parfois que ces tumeurs libèrent des quantités excessives d’hormones spécifiques, ce qui peut entraîner des problèmes. Le plus souvent, les hormones adrénaline de la moelle et le cortisol et l&#39;aldostérone du cortex peuvent être trop sécrétés. La chirurgie ou les médicaments peuvent être utilisés dans ces situations pour traiter la tumeur bénigne des surrénales. L&#39;Arizona, la Floride et le Minnesota abritent les campus de l&#39;un des cabinets médicaux les plus importants et les plus expérimentés du pays, la Mayo Clinic. Pour fournir des soins de haute qualité et un rétablissement rapide, une équipe multidisciplinaire de membres du personnel collabore. Des essais cliniques en cours portant sur les thérapies contre les troubles endocriniens et les affections affectant les glandes surrénales sont menés par des chercheurs en endocrinologie. Obtenez plus d’informations sur la recherche en endocrinologie de la Mayo Clinic. Consultez la base de données PubMed de la National Library of Medicine pour obtenir une liste d&#39;articles rédigés par des médecins de la Mayo Clinic concernant les tumeurs bénignes des surrénales.",
+            "desc_audio": [
+                "92_fr_desc_1.mp3",
+                "92_fr_desc_2.mp3",
+                "92_fr_desc_3.mp3",
+                "92_fr_desc_4.mp3",
+                "92_fr_desc_5.mp3",
+                "92_fr_desc_6.mp3",
+                "92_fr_desc_7.mp3",
+                "92_fr_desc_8.mp3",
+                "92_fr_desc_9.mp3",
+                "92_fr_desc_10.mp3",
+                "92_fr_desc_11.mp3",
+                "92_fr_desc_12.mp3",
+                "92_fr_desc_13.mp3",
+                "92_fr_desc_14.mp3",
+                "92_fr_desc_15.mp3"
+            ]
         },
         {
             "name": "id_desc",
-            "value": "Kelenjar adrenal dapat mengembangkan tumor adrenal jinak, yang merupakan massa non-kanker. Kelenjar adrenal menghasilkan hormon sebagai komponen sistem endokrin yang mengatur hampir seluruh jaringan dan organ tubuh. Setiap ginjal diposisikan di atas salah satu dari dua kelenjar adrenal Anda. Korteks dan medula kelenjar adalah dua jenis jaringan utamanya. Nama lain dari adenoma adrenal jinak adalah tumor yang tumbuh di bagian korteks. Istilah `pheochromocytomas` (fee-o-kroe-moe-sy-TOE-muhs) juga mengacu pada penyakit yang muncul di jantung. Mengobati sebagian besar tumor adrenal jinak tidak diperlukan karena tidak menimbulkan gejala apa pun. Namun, ada kalanya tumor ini melepaskan hormon tertentu dalam jumlah berlebihan, sehingga dapat menimbulkan masalah. Paling sering, hormon adrenalin dari medula dan kortisol serta aldosteron dari korteks dapat disekresi secara berlebihan. Pembedahan atau pengobatan dapat digunakan dalam situasi ini untuk mengobati tumor jinak adrenal. Arizona, Florida, dan Minnesota adalah rumah bagi kampus salah satu praktik medis terbesar dan paling berpengalaman di negara ini, Mayo Clinic. Untuk memberikan perawatan berkualitas tinggi dan pemulihan yang cepat, tim staf multidisiplin berkolaborasi. Uji klinis yang sedang berlangsung yang menyelidiki terapi untuk gangguan endokrin dan kondisi yang mempengaruhi kelenjar adrenal dilakukan oleh peneliti endokrinologi. Dapatkan informasi lebih lanjut tentang penelitian endokrinologi Mayo Clinic. Lihat database PubMed Perpustakaan Kedokteran Nasional untuk daftar artikel yang ditulis oleh dokter Mayo Clinic mengenai tumor adrenal jinak."
+            "value": "Kelenjar adrenal dapat mengembangkan tumor adrenal jinak, yang merupakan massa non-kanker. Kelenjar adrenal menghasilkan hormon sebagai komponen sistem endokrin yang mengatur hampir seluruh jaringan dan organ tubuh. Setiap ginjal diposisikan di atas salah satu dari dua kelenjar adrenal Anda. Korteks dan medula kelenjar adalah dua jenis jaringan utamanya. Nama lain dari adenoma adrenal jinak adalah tumor yang tumbuh di bagian korteks. Istilah `pheochromocytomas` (fee-o-kroe-moe-sy-TOE-muhs) juga mengacu pada penyakit yang muncul di jantung. Mengobati sebagian besar tumor adrenal jinak tidak diperlukan karena tidak menimbulkan gejala apa pun. Namun, ada kalanya tumor ini melepaskan hormon tertentu dalam jumlah berlebihan, sehingga dapat menimbulkan masalah. Paling sering, hormon adrenalin dari medula dan kortisol serta aldosteron dari korteks dapat disekresi secara berlebihan. Pembedahan atau pengobatan dapat digunakan dalam situasi ini untuk mengobati tumor jinak adrenal. Arizona, Florida, dan Minnesota adalah rumah bagi kampus salah satu praktik medis terbesar dan paling berpengalaman di negara ini, Mayo Clinic. Untuk memberikan perawatan berkualitas tinggi dan pemulihan yang cepat, tim staf multidisiplin berkolaborasi. Uji klinis yang sedang berlangsung yang menyelidiki terapi untuk gangguan endokrin dan kondisi yang mempengaruhi kelenjar adrenal dilakukan oleh peneliti endokrinologi. Dapatkan informasi lebih lanjut tentang penelitian endokrinologi Mayo Clinic. Lihat database PubMed Perpustakaan Kedokteran Nasional untuk daftar artikel yang ditulis oleh dokter Mayo Clinic mengenai tumor adrenal jinak.",
+            "desc_audio": [
+                "92_id_desc_1.mp3",
+                "92_id_desc_2.mp3",
+                "92_id_desc_3.mp3",
+                "92_id_desc_4.mp3",
+                "92_id_desc_5.mp3",
+                "92_id_desc_6.mp3",
+                "92_id_desc_7.mp3",
+                "92_id_desc_8.mp3",
+                "92_id_desc_9.mp3",
+                "92_id_desc_10.mp3",
+                "92_id_desc_11.mp3",
+                "92_id_desc_12.mp3",
+                "92_id_desc_13.mp3",
+                "92_id_desc_14.mp3",
+                "92_id_desc_15.mp3"
+            ]
         },
         {
             "name": "ja_desc",
-            "value": "副腎には、非癌性の腫瘤である良性副腎腫瘍が発生することがあります。副腎は内分泌系の構成要素としてホルモンを生成し、ほぼすべての体の組織や器官に指令を与えます。それぞれの腎臓は、2 つの副腎のうちの 1 つの上に位置しています。腺の皮質と髄質は、その 2 つの主要な組織タイプです。良性副腎腺腫の別名は、皮質で増殖する腫瘍です。 「褐色細胞腫」（fe-o-kroe-moe-sy-TOE-muhs）という用語も、心臓に発生するものを指します。ほとんどの良性副腎腫瘍は症状を引き起こさないため、治療する必要はありません。ただし、これらの腫瘍が特定のホルモンを過剰に放出し、問題を引き起こす可能性がある場合があります。最も頻繁に起こるのは、延髄からのアドレナリン ホルモンと皮質からのコルチゾールとアルドステロンが過剰分泌されることです。このような状況では、良性副腎腫瘍を治療するために手術または薬が使用されることがあります。アリゾナ、フロリダ、ミネソタには、国内最大かつ最も経験豊富な医療行為の 1 つであるメイヨー クリニックのキャンパスがあります。質の高いケアと迅速な回復を提供するために、多職種のスタッフチームが協力しています。副腎に影響を与える内分泌疾患や状態の治療法を研究する臨床試験が内分泌学の研究者によって行われています。メイヨークリニックの内分泌研究についてさらに詳しい情報を入手してください。良性副腎腫瘍に関してメイヨークリニックの医師が執筆した論文のリストについては、国立医学図書館の PubMed データベースをご覧ください。"
+            "value": "副腎には、非癌性の腫瘤である良性副腎腫瘍が発生することがあります。副腎は内分泌系の構成要素としてホルモンを生成し、ほぼすべての体の組織や器官に指令を与えます。それぞれの腎臓は、2 つの副腎のうちの 1 つの上に位置しています。腺の皮質と髄質は、その 2 つの主要な組織タイプです。良性副腎腺腫の別名は、皮質で増殖する腫瘍です。 「褐色細胞腫」（fe-o-kroe-moe-sy-TOE-muhs）という用語も、心臓に発生するものを指します。ほとんどの良性副腎腫瘍は症状を引き起こさないため、治療する必要はありません。ただし、これらの腫瘍が特定のホルモンを過剰に放出し、問題を引き起こす可能性がある場合があります。最も頻繁に起こるのは、延髄からのアドレナリン ホルモンと皮質からのコルチゾールとアルドステロンが過剰分泌されることです。このような状況では、良性副腎腫瘍を治療するために手術または薬が使用されることがあります。アリゾナ、フロリダ、ミネソタには、国内最大かつ最も経験豊富な医療行為の 1 つであるメイヨー クリニックのキャンパスがあります。質の高いケアと迅速な回復を提供するために、多職種のスタッフチームが協力しています。副腎に影響を与える内分泌疾患や状態の治療法を研究する臨床試験が内分泌学の研究者によって行われています。メイヨークリニックの内分泌研究についてさらに詳しい情報を入手してください。良性副腎腫瘍に関してメイヨークリニックの医師が執筆した論文のリストについては、国立医学図書館の PubMed データベースをご覧ください。",
+            "desc_audio": [
+                "92_ja_desc_1.mp3",
+                "92_ja_desc_2.mp3",
+                "92_ja_desc_3.mp3",
+                "92_ja_desc_4.mp3",
+                "92_ja_desc_5.mp3",
+                "92_ja_desc_6.mp3",
+                "92_ja_desc_7.mp3",
+                "92_ja_desc_8.mp3",
+                "92_ja_desc_9.mp3",
+                "92_ja_desc_10.mp3",
+                "92_ja_desc_11.mp3",
+                "92_ja_desc_12.mp3",
+                "92_ja_desc_13.mp3",
+                "92_ja_desc_14.mp3",
+                "92_ja_desc_15.mp3"
+            ]
         },
         {
             "name": "tr_desc",
-            "value": "Adrenal bezler, kanserli olmayan kitleler olan iyi huylu adrenal tümörler geliştirebilir. Adrenal bezler, neredeyse tüm vücut doku ve organlarına talimat veren endokrin sistemin bir bileşeni olarak hormon üretir. Her böbrek, iki adrenal bezinizden birinin üzerinde konumlandırılmıştır. Bir bezin korteksi ve medullası iki ana doku türüdür. İyi huylu adrenal adenomların bir diğer adı da kortekste büyüyen tümörlerdir. &#39;Feokromositoma&#39; (fee-o-kroe-moe-sy-TOE-muhs) terimi aynı zamanda kalpte ortaya çıkanları da ifade eder. İyi huylu adrenal tümörlerin çoğunun tedavisi gerekli değildir çünkü herhangi bir semptom oluşturmazlar. Bununla birlikte, bu tümörlerin aşırı miktarda spesifik hormon salgıladığı ve sorunlara yol açabileceği durumlar vardır. Çoğu zaman medulladan adrenalin hormonları ve korteksten kortizol ve aldosteron aşırı salgılanabilir. Bu durumlarda iyi huylu adrenal tümörü tedavi etmek için cerrahi veya ilaç kullanılabilir. Arizona, Florida ve Minnesota, ülkedeki en büyük ve en tecrübeli tıbbi uygulamalardan biri olan Mayo Clinic&#39;in kampüslerine ev sahipliği yapmaktadır. Yüksek kaliteli bakım ve hızlı iyileşme sağlamak için multidisipliner bir personel ekibi işbirliği yapar. Endokrin bozuklukları ve adrenal bezleri etkileyen durumlara yönelik tedavileri araştıran devam eden klinik araştırmalar, endokrinoloji araştırmacıları tarafından yürütülmektedir. Mayo Clinic endokrinoloji araştırması hakkında daha fazla bilgi edinin. Mayo Clinic doktorları tarafından iyi huylu adrenal tümörlerle ilgili yazılan makalelerin bir listesi için Ulusal Tıp Kütüphanesi&#39;nin PubMed veritabanını görüntüleyin."
+            "value": "Adrenal bezler, kanserli olmayan kitleler olan iyi huylu adrenal tümörler geliştirebilir. Adrenal bezler, neredeyse tüm vücut doku ve organlarına talimat veren endokrin sistemin bir bileşeni olarak hormon üretir. Her böbrek, iki adrenal bezinizden birinin üzerinde konumlandırılmıştır. Bir bezin korteksi ve medullası iki ana doku türüdür. İyi huylu adrenal adenomların bir diğer adı da kortekste büyüyen tümörlerdir. &#39;Feokromositoma&#39; (fee-o-kroe-moe-sy-TOE-muhs) terimi aynı zamanda kalpte ortaya çıkanları da ifade eder. İyi huylu adrenal tümörlerin çoğunun tedavisi gerekli değildir çünkü herhangi bir semptom oluşturmazlar. Bununla birlikte, bu tümörlerin aşırı miktarda spesifik hormon salgıladığı ve sorunlara yol açabileceği durumlar vardır. Çoğu zaman medulladan adrenalin hormonları ve korteksten kortizol ve aldosteron aşırı salgılanabilir. Bu durumlarda iyi huylu adrenal tümörü tedavi etmek için cerrahi veya ilaç kullanılabilir. Arizona, Florida ve Minnesota, ülkedeki en büyük ve en tecrübeli tıbbi uygulamalardan biri olan Mayo Clinic&#39;in kampüslerine ev sahipliği yapmaktadır. Yüksek kaliteli bakım ve hızlı iyileşme sağlamak için multidisipliner bir personel ekibi işbirliği yapar. Endokrin bozuklukları ve adrenal bezleri etkileyen durumlara yönelik tedavileri araştıran devam eden klinik araştırmalar, endokrinoloji araştırmacıları tarafından yürütülmektedir. Mayo Clinic endokrinoloji araştırması hakkında daha fazla bilgi edinin. Mayo Clinic doktorları tarafından iyi huylu adrenal tümörlerle ilgili yazılan makalelerin bir listesi için Ulusal Tıp Kütüphanesi&#39;nin PubMed veritabanını görüntüleyin.",
+            "desc_audio": [
+                "92_tr_desc_1.mp3",
+                "92_tr_desc_2.mp3",
+                "92_tr_desc_3.mp3",
+                "92_tr_desc_4.mp3",
+                "92_tr_desc_5.mp3",
+                "92_tr_desc_6.mp3",
+                "92_tr_desc_7.mp3",
+                "92_tr_desc_8.mp3",
+                "92_tr_desc_9.mp3",
+                "92_tr_desc_10.mp3",
+                "92_tr_desc_11.mp3",
+                "92_tr_desc_12.mp3",
+                "92_tr_desc_13.mp3",
+                "92_tr_desc_14.mp3",
+                "92_tr_desc_15.mp3"
+            ]
         },
         {
             "name": "de_desc",
-            "value": "Nebennieren können gutartige Nebennierentumoren entwickeln, bei denen es sich um gutartige Tumoren handelt. Nebennieren produzieren Hormone als Bestandteil des endokrinen Systems, das fast alle Körpergewebe und Organe steuert. Jede Niere befindet sich über einer Ihrer beiden Nebennieren. Die beiden Hauptgewebetypen einer Drüse sind die Rinde und das Mark. Ein anderer Name für gutartige Nebennierenadenome sind Tumore, die in der Hirnrinde wachsen. Der Begriff „Phäochromozytome“ (fee-o-kroe-moe-sy-TOE-muhs) bezieht sich auch auf solche, die im Herzen entstehen. Eine Behandlung der meisten gutartigen Nebennierentumoren ist nicht notwendig, da sie keine Symptome hervorrufen. Es gibt jedoch Fälle, in denen diese Tumoren übermäßige Mengen spezifischer Hormone freisetzen, was zu Problemen führen kann. Am häufigsten können die Hormone Adrenalin aus dem Mark sowie Cortisol und Aldosteron aus der Hirnrinde übersekretiert werden. In diesen Situationen können chirurgische Eingriffe oder Medikamente zur Behandlung des gutartigen Nebennierentumors eingesetzt werden. In Arizona, Florida und Minnesota befindet sich eine der größten und erfahrensten Arztpraxen des Landes, die Mayo Clinic. Um eine qualitativ hochwertige Pflege und eine schnelle Genesung zu gewährleisten, arbeitet ein multidisziplinäres Team von Mitarbeitern zusammen. Laufende klinische Studien zur Untersuchung von Therapien für endokrine Störungen und Erkrankungen der Nebennieren werden von Forschern der Endokrinologie durchgeführt. Erfahren Sie mehr über die endokrinologische Forschung der Mayo Clinic. In der PubMed-Datenbank der National Library of Medicine finden Sie eine Liste von Artikeln, die von Ärzten der Mayo Clinic zu gutartigen Nebennierentumoren verfasst wurden."
+            "value": "Nebennieren können gutartige Nebennierentumoren entwickeln, bei denen es sich um gutartige Tumoren handelt. Nebennieren produzieren Hormone als Bestandteil des endokrinen Systems, das fast alle Körpergewebe und Organe steuert. Jede Niere befindet sich über einer Ihrer beiden Nebennieren. Die beiden Hauptgewebetypen einer Drüse sind die Rinde und das Mark. Ein anderer Name für gutartige Nebennierenadenome sind Tumore, die in der Hirnrinde wachsen. Der Begriff „Phäochromozytome“ (fee-o-kroe-moe-sy-TOE-muhs) bezieht sich auch auf solche, die im Herzen entstehen. Eine Behandlung der meisten gutartigen Nebennierentumoren ist nicht notwendig, da sie keine Symptome hervorrufen. Es gibt jedoch Fälle, in denen diese Tumoren übermäßige Mengen spezifischer Hormone freisetzen, was zu Problemen führen kann. Am häufigsten können die Hormone Adrenalin aus dem Mark sowie Cortisol und Aldosteron aus der Hirnrinde übersekretiert werden. In diesen Situationen können chirurgische Eingriffe oder Medikamente zur Behandlung des gutartigen Nebennierentumors eingesetzt werden. In Arizona, Florida und Minnesota befindet sich eine der größten und erfahrensten Arztpraxen des Landes, die Mayo Clinic. Um eine qualitativ hochwertige Pflege und eine schnelle Genesung zu gewährleisten, arbeitet ein multidisziplinäres Team von Mitarbeitern zusammen. Laufende klinische Studien zur Untersuchung von Therapien für endokrine Störungen und Erkrankungen der Nebennieren werden von Forschern der Endokrinologie durchgeführt. Erfahren Sie mehr über die endokrinologische Forschung der Mayo Clinic. In der PubMed-Datenbank der National Library of Medicine finden Sie eine Liste von Artikeln, die von Ärzten der Mayo Clinic zu gutartigen Nebennierentumoren verfasst wurden.",
+            "desc_audio": [
+                "92_de_desc_1.mp3",
+                "92_de_desc_2.mp3",
+                "92_de_desc_3.mp3",
+                "92_de_desc_4.mp3",
+                "92_de_desc_5.mp3",
+                "92_de_desc_6.mp3",
+                "92_de_desc_7.mp3",
+                "92_de_desc_8.mp3",
+                "92_de_desc_9.mp3",
+                "92_de_desc_10.mp3",
+                "92_de_desc_11.mp3",
+                "92_de_desc_12.mp3",
+                "92_de_desc_13.mp3",
+                "92_de_desc_14.mp3",
+                "92_de_desc_15.mp3"
+            ]
         },
         {
             "name": "zh_desc",
-            "value": "肾上腺可形成良性肾上腺肿瘤，这是一种非癌性肿块。肾上腺产生激素作为内分泌系统的组成部分，指导几乎所有的身体组织和器官。每个肾脏都位于两个肾上腺之一的上方。腺体的皮质和髓质是其两种主要的组织类型。良性肾上腺腺瘤的另一个名称是生长在皮质中的肿瘤。术语“嗜铬细胞瘤”（fee-o-kroe-moe-sy-TOE-muhs）也指那些出现在心脏的肿瘤。大多数良性肾上腺肿瘤没有必要治疗，因为它们不会产生任何症状。然而，在某些情况下，这些肿瘤会释放过量的特定激素，这可能会导致问题。最常见的是，髓质的肾上腺素激素以及皮质的皮质醇和醛固酮可能会分泌过多。在这些情况下可以使用手术或药物来治疗良性肾上腺肿瘤。亚利桑那州、佛罗里达州和明尼苏达州是美国规模最大、经验最丰富的医疗机构之一——梅奥诊所的所在地。为了提供高质量的护理和快速康复，多学科工作人员团队通力合作。内分泌学研究人员正在进行正在进行的临床试验，研究内分泌失调和影响肾上腺的疾病的治疗方法。获取有关梅奥诊所内分泌学研究的更多信息。查看国家医学图书馆的 PubMed 数据库，获取 Mayo Clinic 医生撰写的有关良性肾上腺肿瘤的文章列表。"
+            "value": "肾上腺可形成良性肾上腺肿瘤，这是一种非癌性肿块。肾上腺产生激素作为内分泌系统的组成部分，指导几乎所有的身体组织和器官。每个肾脏都位于两个肾上腺之一的上方。腺体的皮质和髓质是其两种主要的组织类型。良性肾上腺腺瘤的另一个名称是生长在皮质中的肿瘤。术语“嗜铬细胞瘤”（fee-o-kroe-moe-sy-TOE-muhs）也指那些出现在心脏的肿瘤。大多数良性肾上腺肿瘤没有必要治疗，因为它们不会产生任何症状。然而，在某些情况下，这些肿瘤会释放过量的特定激素，这可能会导致问题。最常见的是，髓质的肾上腺素激素以及皮质的皮质醇和醛固酮可能会分泌过多。在这些情况下可以使用手术或药物来治疗良性肾上腺肿瘤。亚利桑那州、佛罗里达州和明尼苏达州是美国规模最大、经验最丰富的医疗机构之一——梅奥诊所的所在地。为了提供高质量的护理和快速康复，多学科工作人员团队通力合作。内分泌学研究人员正在进行正在进行的临床试验，研究内分泌失调和影响肾上腺的疾病的治疗方法。获取有关梅奥诊所内分泌学研究的更多信息。查看国家医学图书馆的 PubMed 数据库，获取 Mayo Clinic 医生撰写的有关良性肾上腺肿瘤的文章列表。",
+            "desc_audio": [
+                "92_zh_desc_1.mp3",
+                "92_zh_desc_2.mp3",
+                "92_zh_desc_3.mp3",
+                "92_zh_desc_4.mp3",
+                "92_zh_desc_5.mp3",
+                "92_zh_desc_6.mp3",
+                "92_zh_desc_7.mp3",
+                "92_zh_desc_8.mp3",
+                "92_zh_desc_9.mp3",
+                "92_zh_desc_10.mp3",
+                "92_zh_desc_11.mp3",
+                "92_zh_desc_12.mp3",
+                "92_zh_desc_13.mp3",
+                "92_zh_desc_14.mp3",
+                "92_zh_desc_15.mp3"
+            ]
         },
         {
             "name": "pt_desc",
-            "value": "As glândulas adrenais podem desenvolver tumores adrenais benignos, que são massas não cancerosas. As glândulas supra-renais geram hormônios como um componente do sistema endócrino, que instrui quase todos os tecidos e órgãos do corpo. Cada rim está posicionado acima de uma das duas glândulas supra-renais. O córtex e a medula de uma glândula são seus dois principais tipos de tecido. Outro nome para adenomas adrenais benignos são tumores que crescem no córtex. O termo `feocromocitomas` (fee-o-kroe-moe-sy-TOE-muhs) também se refere àqueles que surgem no coração. O tratamento da maioria dos tumores adrenais benignos não é necessário porque eles não produzem sintomas. No entanto, há casos em que estes tumores libertam quantidades excessivas de hormonas específicas, o que pode causar problemas. Mais frequentemente, os hormônios adrenalina da medula e o cortisol e a aldosterona do córtex podem ser secretados em excesso. Cirurgia ou medicamentos podem ser usados ​​nessas situações para tratar o tumor adrenal benigno. Arizona, Flórida e Minnesota abrigam campi de uma das maiores e mais experientes clínicas médicas do país, a Mayo Clinic. Para fornecer atendimento de alta qualidade e recuperação rápida, colabora uma equipe multidisciplinar de funcionários. Ensaios clínicos em andamento que investigam terapias para distúrbios endócrinos e condições que afetam as glândulas supra-renais são realizados por pesquisadores de endocrinologia. Obtenha mais informações sobre a pesquisa em endocrinologia da Clínica Mayo. Consulte o banco de dados PubMed da National Library of Medicine para obter uma lista de artigos escritos por médicos da Mayo Clinic sobre tumores adrenais benignos."
+            "value": "As glândulas adrenais podem desenvolver tumores adrenais benignos, que são massas não cancerosas. As glândulas supra-renais geram hormônios como um componente do sistema endócrino, que instrui quase todos os tecidos e órgãos do corpo. Cada rim está posicionado acima de uma das duas glândulas supra-renais. O córtex e a medula de uma glândula são seus dois principais tipos de tecido. Outro nome para adenomas adrenais benignos são tumores que crescem no córtex. O termo `feocromocitomas` (fee-o-kroe-moe-sy-TOE-muhs) também se refere àqueles que surgem no coração. O tratamento da maioria dos tumores adrenais benignos não é necessário porque eles não produzem sintomas. No entanto, há casos em que estes tumores libertam quantidades excessivas de hormonas específicas, o que pode causar problemas. Mais frequentemente, os hormônios adrenalina da medula e o cortisol e a aldosterona do córtex podem ser secretados em excesso. Cirurgia ou medicamentos podem ser usados ​​nessas situações para tratar o tumor adrenal benigno. Arizona, Flórida e Minnesota abrigam campi de uma das maiores e mais experientes clínicas médicas do país, a Mayo Clinic. Para fornecer atendimento de alta qualidade e recuperação rápida, colabora uma equipe multidisciplinar de funcionários. Ensaios clínicos em andamento que investigam terapias para distúrbios endócrinos e condições que afetam as glândulas supra-renais são realizados por pesquisadores de endocrinologia. Obtenha mais informações sobre a pesquisa em endocrinologia da Clínica Mayo. Consulte o banco de dados PubMed da National Library of Medicine para obter uma lista de artigos escritos por médicos da Mayo Clinic sobre tumores adrenais benignos.",
+            "desc_audio": [
+                "92_pt_desc_1.mp3",
+                "92_pt_desc_2.mp3",
+                "92_pt_desc_3.mp3",
+                "92_pt_desc_4.mp3",
+                "92_pt_desc_5.mp3",
+                "92_pt_desc_6.mp3",
+                "92_pt_desc_7.mp3",
+                "92_pt_desc_8.mp3",
+                "92_pt_desc_9.mp3",
+                "92_pt_desc_10.mp3",
+                "92_pt_desc_11.mp3",
+                "92_pt_desc_12.mp3",
+                "92_pt_desc_13.mp3",
+                "92_pt_desc_14.mp3",
+                "92_pt_desc_15.mp3"
+            ]
         }
     ],
-    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4503ce5b068a6e8cb53bbc1bb64ac33210303386332830456acf68adb77414d8ecba7e555b05cec7339a987d41eae0654b472eddb7bc54555e479528e4a620e7e50dd4192e9ef02d7746aa28da058654bd6fbce9be5d339395d5a747ffb788a56239042cc8496fd3a0e482834659090abcdb52de2e1a42a27c1ac92cde78e4c821e20c4deeffe68068cf41170e08a4d2f3059ccc50a7ce1584d8604eab168d4358fbfe59e9aa3ed618acadb219c38acbfaabf3aac5ccb4a582e1cb7bf452662787f26f79cffce645bf0e9792a08b2566c948abd8c6635c8af52a6d6b7c790ac34a7e626483ca97bbb1f297d281792e3c4f77a6ec3fb73d68c6452d21d5f8397582c65b7e8dd3d32b32e3cd803e2a01b587a8cf2e88fcabee6a78f9187be325143955d442f825148a79597ee670d5bc540433bd1ee66770fea2582d501f23af72bacc8b3f895980d16733895ca985307ac5249767ad96ae94618299ff596341c6f69aadd3e833e0a35323396857e9e112b4ef4c7d793f9c5fc948952f63e4fa383e0a34f5a6b332989604e637350388d962be4148a20c1c43f9175ac9429007d32791cf72d8db614e5e5f4aef22628dfbf08139c7cc8fceeb756b83ccc898fb485fe508877f1b46123e5cbe857e001841955bcd3fa8b9fe18f954e0b5ac7544d3e016f4207798908baeb3f9b8a449c4f88cce246368dfb765f87b3a222e467ab7211654420f3c3e061eb88452df09f7160bb22516ebff99c70173f654858b8d0925f7962084ff566b954487a84359c75bcfcd7b46a1c2937a3fc32aba1214a28d89630886b915e70c18c2787b0b193ccd32598c1b1dc02b03e46003da74722e445cfa4a4422b28a7c5125ab56fde02ed73beb1945ab872e8af3ddf0a29a7c42b389a4dd34b804758e21d811d24992e9507c346be2927fdeb274a55e2e39f202d8bd91dfc3d80224ff541ced4ee9d3420d67a4429d3ab1c0f44ba55866d9a661ef67321858d7a161803bff5b0537fae8f06ac842745b12d3c891f1f01d102d595aadeb29881a8c23d63b252d62e7a82850db0ff8e9bcfcf25e1589a51c2bd09a2753633ca35fa2ee0a2a7f2a712c53fa226daa6e83296275797c884d3c2218dff5dede86fc0dd9795121a9198d93d0d8eec4a790da61ee1ab087f2df49f33bc5629d97ded94abc91b1073e6116589d8b3a8c1156fd68d872e213bf99020ffbe266c87a73ecf406f1698ae42fb2c12273f62dd9e8441455d754f1e75dbe693aedf26"
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4a200bdce701216e5e22ce144fd1a955f437a5c0eb244170e3c70200d5d5c85ad2d788e3fd33f8fd2e926e57c80a13893e9d787d3abf59e9d1ffafcb4f3efcfc5f5d7f7e398a7dd0bff858da946a1e4b419d91447fb563dbafe12ab446ff72beb7656d04a4c542dc4680dab47ccdee084222f21da6fe47d698602e79cf13aa007febca7dd7c25cf822391470c19cffc603858f3546cc563ba484cb30b94cecf2b63ef6d441e45605b18f93474eb77c2a4a1a78977108bcd75234866e23db13918a1659265ebe5e032f344e9035883b94092653779402559b2504a94959e05e16ca7c66ae27e5809d606cf5db6c843d032927954135fe8c98849facea604c9295421a8371186291b8b48caed51b875b4dcc1471ab151ec6f0e4079a4af787661a020ec7faf6e470f17fd9b6949abbce259716a9050d909669c51368c904e6c15532ab0118cc8f12aa4a6655a1e16f80283190fff432e0923278ae534b79dbda3f085854ecf2e182c47aa69cfe44d38d9ca9afd5cbc945b5bda561cab597fd3e456faf14f5cfbb61ee8be8f69bc98b1101ae95eb75daac9430a320251c2813b00aae9038fc9d1a894589ed7873787aada2aeb951e4cae3a8c04c48acb0cc1b339266c51059bef3212877e250d324e92f86d25b6e76ab214b5c542114e7748697d3a0865975ce0d2fd164b980d2ff1470eafd575323b7a50e1819fb6d7e066d9ecadb92f6f92e6f96c43ca86607a3ec132a9f5b2bfcd99be559ca8fbcc876a3c224e3b7165ce095477041daa9d4949477682d438393f4cc172af13929b893545aac7c386969fd094681da28d3c02a9fcba61ca26627027cc1332ecd31a11d4f43f3cfb2706d79c3e9080fa634626f6d24178804a24cb06d07393dc22aa2f61ba7744fdfb448851b25c6747b9f1fce74a4ee38fe3d6874a6f04c37f5012da4eb38713944b2bbd529f261bd01600a74a0768e6a3cdac32af2e0a40ab591797bdcdd695d8058abfea454e2638df50b3884758751d12323a52826e8d2c6366489318e67f357d89f58b14e6eb8f79435b62b81a5b2c4ca1cb1438ed6abbb3e40d61a92767f6372fb4789047dc36f17c58e8a0229b15b1e7320cf2875f88347bed256853aa87e05007b42a63a271f787dfc63984fd780baa77d15ad4f038f8369e167e44a903cfc6de21c50b746ed005f2581fee8648fc7740495a1e9355f6141cf2c2e05a54b951ea985e2489bb67b3fb15adbb46a8bf81afdb626489ab6df9623193ffbbc057fdf5f377b5611986d669ceb395f6c9bda27ef7071ef0a4822e512de455b3",
+    "desc_audio": [
+        "92_en_desc_1.mp3",
+        "92_en_desc_2.mp3",
+        "92_en_desc_3.mp3",
+        "92_en_desc_4.mp3",
+        "92_en_desc_5.mp3",
+        "92_en_desc_6.mp3",
+        "92_en_desc_7.mp3",
+        "92_en_desc_8.mp3",
+        "92_en_desc_9.mp3",
+        "92_en_desc_10.mp3",
+        "92_en_desc_11.mp3",
+        "92_en_desc_12.mp3",
+        "92_en_desc_13.mp3",
+        "92_en_desc_14.mp3",
+        "92_en_desc_15.mp3"
+    ]
 }

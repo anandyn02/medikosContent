@@ -56,52 +56,156 @@
     "desc_lang": [
         {
             "name": "zh_desc",
-            "value": "阴道瘘是出现在阴道和其他器官（如膀胱、结肠或直肠）之间的非典型开口。阴道中允许粪便、气体或尿液通过的开口可能是您的医疗保健专业人员定义阴道瘘的方式。堕胎、创伤、手术、感染或放射治疗都可能导致阴道瘘的发生。解决瘘管可能需要手术。阴道瘘可以有多种不同的形式。它们影响的位置和器官决定了它们的名字：。"
+            "value": "阴道瘘是出现在阴道和其他器官（如膀胱、结肠或直肠）之间的非典型开口。阴道中允许粪便、气体或尿液通过的开口可能是您的医疗保健专业人员定义阴道瘘的方式。堕胎、创伤、手术、感染或放射治疗都可能导致阴道瘘的发生。解决瘘管可能需要手术。阴道瘘可以有多种不同的形式。它们影响的位置和器官决定了它们的名字：。",
+            "desc_audio": [
+                "833_zh_desc_1.mp3",
+                "833_zh_desc_2.mp3",
+                "833_zh_desc_3.mp3",
+                "833_zh_desc_4.mp3",
+                "833_zh_desc_5.mp3",
+                "833_zh_desc_6.mp3"
+            ]
         },
         {
             "name": "id_desc",
-            "value": "Fistula vagina adalah lubang atipikal yang muncul antara vagina dan organ lain, seperti kandung kemih, usus besar, atau rektum. Lubang di vagina yang memungkinkan feses, gas, atau urin melewatinya mungkin merupakan definisi ahli kesehatan Anda tentang fistula vagina. Aborsi, trauma, pembedahan, infeksi, atau terapi radiasi semuanya dapat menyebabkan berkembangnya fistula vagina. Mengatasi fistula mungkin memerlukan pembedahan. Fistula vagina dapat terjadi dalam berbagai bentuk. Lokasi dan organ yang terkena dampak menentukan namanya :."
+            "value": "Fistula vagina adalah lubang atipikal yang muncul antara vagina dan organ lain, seperti kandung kemih, usus besar, atau rektum. Lubang di vagina yang memungkinkan feses, gas, atau urin melewatinya mungkin merupakan definisi ahli kesehatan Anda tentang fistula vagina. Aborsi, trauma, pembedahan, infeksi, atau terapi radiasi semuanya dapat menyebabkan berkembangnya fistula vagina. Mengatasi fistula mungkin memerlukan pembedahan. Fistula vagina dapat terjadi dalam berbagai bentuk. Lokasi dan organ yang terkena dampak menentukan namanya :.",
+            "desc_audio": [
+                "833_id_desc_1.mp3",
+                "833_id_desc_2.mp3",
+                "833_id_desc_3.mp3",
+                "833_id_desc_4.mp3",
+                "833_id_desc_5.mp3",
+                "833_id_desc_6.mp3"
+            ]
         },
         {
             "name": "es_desc",
-            "value": "Una fístula vaginal es una abertura atípica que surge entre la vagina y otro órgano, como la vejiga, el colon o el recto. Una abertura en la vagina que permite el paso de heces, gases u orina puede ser la forma en que su profesional de la salud define una fístula vaginal. El aborto, el traumatismo, la cirugía, la infección o la radioterapia pueden provocar el desarrollo de fístulas vaginales. Resolver una fístula puede requerir cirugía. Las fístulas vaginales pueden adoptar muchas formas diferentes. La ubicación y los órganos sobre los que impactan determinan su nombre:."
+            "value": "Una fístula vaginal es una abertura atípica que surge entre la vagina y otro órgano, como la vejiga, el colon o el recto. Una abertura en la vagina que permite el paso de heces, gases u orina puede ser la forma en que su profesional de la salud define una fístula vaginal. El aborto, el traumatismo, la cirugía, la infección o la radioterapia pueden provocar el desarrollo de fístulas vaginales. Resolver una fístula puede requerir cirugía. Las fístulas vaginales pueden adoptar muchas formas diferentes. La ubicación y los órganos sobre los que impactan determinan su nombre:.",
+            "desc_audio": [
+                "833_es_desc_1.mp3",
+                "833_es_desc_2.mp3",
+                "833_es_desc_3.mp3",
+                "833_es_desc_4.mp3",
+                "833_es_desc_5.mp3",
+                "833_es_desc_6.mp3"
+            ]
         },
         {
             "name": "ru_desc",
-            "value": "Вагинальный свищ — это атипичное отверстие, возникающее между влагалищем и другим органом, например мочевым пузырем, толстой или прямой кишкой. Отверстие во влагалище, через которое проходят фекалии, газы или моча, может быть тем, как ваш медицинский работник определяет вагинальную фистулу. Аборт, травма, хирургическое вмешательство, инфекция или лучевая терапия могут привести к развитию вагинальных свищей. Для устранения свища может потребоваться хирургическое вмешательство. Вагинальные свищи могут принимать самые разные формы. Местоположение и органы, на которые они воздействуют, определяют их название:."
+            "value": "Вагинальный свищ — это атипичное отверстие, возникающее между влагалищем и другим органом, например мочевым пузырем, толстой или прямой кишкой. Отверстие во влагалище, через которое проходят фекалии, газы или моча, может быть тем, как ваш медицинский работник определяет вагинальную фистулу. Аборт, травма, хирургическое вмешательство, инфекция или лучевая терапия могут привести к развитию вагинальных свищей. Для устранения свища может потребоваться хирургическое вмешательство. Вагинальные свищи могут принимать самые разные формы. Местоположение и органы, на которые они воздействуют, определяют их название:.",
+            "desc_audio": [
+                "833_ru_desc_1.mp3",
+                "833_ru_desc_2.mp3",
+                "833_ru_desc_3.mp3",
+                "833_ru_desc_4.mp3",
+                "833_ru_desc_5.mp3",
+                "833_ru_desc_6.mp3"
+            ]
         },
         {
             "name": "de_desc",
-            "value": "Eine Vaginalfistel ist eine atypische Öffnung, die zwischen der Vagina und einem anderen Organ wie der Blase, dem Dickdarm oder dem Rektum entsteht. Eine Vaginalfistel definiert Ihr Arzt möglicherweise als eine Öffnung in der Vagina, durch die Fäkalien, Gase oder Urin hindurchtreten können. Abtreibung, Trauma, Operation, Infektion oder Strahlentherapie können zur Entwicklung von Vaginalfisteln führen. Die Lösung einer Fistel kann eine Operation erfordern. Vaginalfisteln können viele verschiedene Formen annehmen. Der Ort und die Organe, auf die sie wirken, bestimmen ihren Namen:"
+            "value": "Eine Vaginalfistel ist eine atypische Öffnung, die zwischen der Vagina und einem anderen Organ wie der Blase, dem Dickdarm oder dem Rektum entsteht. Eine Vaginalfistel definiert Ihr Arzt möglicherweise als eine Öffnung in der Vagina, durch die Fäkalien, Gase oder Urin hindurchtreten können. Abtreibung, Trauma, Operation, Infektion oder Strahlentherapie können zur Entwicklung von Vaginalfisteln führen. Die Lösung einer Fistel kann eine Operation erfordern. Vaginalfisteln können viele verschiedene Formen annehmen. Der Ort und die Organe, auf die sie wirken, bestimmen ihren Namen:",
+            "desc_audio": [
+                "833_de_desc_1.mp3",
+                "833_de_desc_2.mp3",
+                "833_de_desc_3.mp3",
+                "833_de_desc_4.mp3",
+                "833_de_desc_5.mp3",
+                "833_de_desc_6.mp3"
+            ]
         },
         {
             "name": "tr_desc",
-            "value": "Vajinal fistül, vajina ile mesane, kolon veya rektum gibi başka bir organ arasında ortaya çıkan atipik bir açıklıktır. Vajinadaki dışkı, gaz veya idrarın geçmesine izin veren bir açıklık, sağlık uzmanınızın vajinal fistülü tanımlama şekli olabilir. Kürtaj, travma, ameliyat, enfeksiyon veya radyasyon tedavisinin tümü vajinal fistüllerin gelişmesine neden olabilir. Fistülün çözülmesi ameliyat gerektirebilir. Vajinal fistüller birçok farklı şekil alabilir. Etkiledikleri yer ve organlar adlarını belirler:."
+            "value": "Vajinal fistül, vajina ile mesane, kolon veya rektum gibi başka bir organ arasında ortaya çıkan atipik bir açıklıktır. Vajinadaki dışkı, gaz veya idrarın geçmesine izin veren bir açıklık, sağlık uzmanınızın vajinal fistülü tanımlama şekli olabilir. Kürtaj, travma, ameliyat, enfeksiyon veya radyasyon tedavisinin tümü vajinal fistüllerin gelişmesine neden olabilir. Fistülün çözülmesi ameliyat gerektirebilir. Vajinal fistüller birçok farklı şekil alabilir. Etkiledikleri yer ve organlar adlarını belirler:.",
+            "desc_audio": [
+                "833_tr_desc_1.mp3",
+                "833_tr_desc_2.mp3",
+                "833_tr_desc_3.mp3",
+                "833_tr_desc_4.mp3",
+                "833_tr_desc_5.mp3",
+                "833_tr_desc_6.mp3"
+            ]
         },
         {
             "name": "fr_desc",
-            "value": "Une fistule vaginale est une ouverture atypique qui se forme entre le vagin et un autre organe, comme la vessie, le côlon ou le rectum. Une ouverture dans le vagin qui permet aux selles, aux gaz ou à l&#39;urine de passer à travers peut être la façon dont votre professionnel de la santé définit une fistule vaginale. L&#39;avortement, un traumatisme, une intervention chirurgicale, une infection ou une radiothérapie peuvent tous entraîner le développement de fistules vaginales. La résolution d&#39;une fistule peut nécessiter une intervention chirurgicale. Les fistules vaginales peuvent prendre de nombreuses formes différentes. L&#39;emplacement et les organes qu&#39;ils impactent déterminent leur nom :."
+            "value": "Une fistule vaginale est une ouverture atypique qui se forme entre le vagin et un autre organe, comme la vessie, le côlon ou le rectum. Une ouverture dans le vagin qui permet aux selles, aux gaz ou à l&#39;urine de passer à travers peut être la façon dont votre professionnel de la santé définit une fistule vaginale. L&#39;avortement, un traumatisme, une intervention chirurgicale, une infection ou une radiothérapie peuvent tous entraîner le développement de fistules vaginales. La résolution d&#39;une fistule peut nécessiter une intervention chirurgicale. Les fistules vaginales peuvent prendre de nombreuses formes différentes. L&#39;emplacement et les organes qu&#39;ils impactent déterminent leur nom :.",
+            "desc_audio": [
+                "833_fr_desc_1.mp3",
+                "833_fr_desc_2.mp3",
+                "833_fr_desc_3.mp3",
+                "833_fr_desc_4.mp3",
+                "833_fr_desc_5.mp3",
+                "833_fr_desc_6.mp3"
+            ]
         },
         {
             "name": "ja_desc",
-            "value": "膣瘻は、膣と膀胱、結腸、直腸などの他の臓器との間に生じる異常な開口部です。便、ガス、または尿が通過できる膣の開口部を、医療専門家が膣瘻孔と定義する場合があります。中絶、外傷、手術、感染症、または放射線療法はすべて、膣瘻の発生を引き起こす可能性があります。フィステルを解消するには手術が必要になる場合があります。膣瘻にはさまざまな形態があります。影響を受ける場所と器官によって名前が決まります。"
+            "value": "膣瘻は、膣と膀胱、結腸、直腸などの他の臓器との間に生じる異常な開口部です。便、ガス、または尿が通過できる膣の開口部を、医療専門家が膣瘻孔と定義する場合があります。中絶、外傷、手術、感染症、または放射線療法はすべて、膣瘻の発生を引き起こす可能性があります。フィステルを解消するには手術が必要になる場合があります。膣瘻にはさまざまな形態があります。影響を受ける場所と器官によって名前が決まります。",
+            "desc_audio": [
+                "833_ja_desc_1.mp3",
+                "833_ja_desc_2.mp3",
+                "833_ja_desc_3.mp3",
+                "833_ja_desc_4.mp3",
+                "833_ja_desc_5.mp3",
+                "833_ja_desc_6.mp3"
+            ]
         },
         {
             "name": "it_desc",
-            "value": "Una fistola vaginale è un&#39;apertura atipica che si forma tra la vagina e un altro organo, come la vescica, il colon o il retto. Un&#39;apertura nella vagina che consente il passaggio di feci, gas o urina potrebbe essere il modo in cui il medico definisce una fistola vaginale. L&#39;aborto, il trauma, l&#39;intervento chirurgico, l&#39;infezione o la radioterapia possono tutti provocare lo sviluppo di fistole vaginali. La risoluzione di una fistola può richiedere un intervento chirurgico. Le fistole vaginali possono assumere molte forme diverse. La posizione e gli organi su cui colpiscono determinano il loro nome:."
+            "value": "Una fistola vaginale è un&#39;apertura atipica che si forma tra la vagina e un altro organo, come la vescica, il colon o il retto. Un&#39;apertura nella vagina che consente il passaggio di feci, gas o urina potrebbe essere il modo in cui il medico definisce una fistola vaginale. L&#39;aborto, il trauma, l&#39;intervento chirurgico, l&#39;infezione o la radioterapia possono tutti provocare lo sviluppo di fistole vaginali. La risoluzione di una fistola può richiedere un intervento chirurgico. Le fistole vaginali possono assumere molte forme diverse. La posizione e gli organi su cui colpiscono determinano il loro nome:.",
+            "desc_audio": [
+                "833_it_desc_1.mp3",
+                "833_it_desc_2.mp3",
+                "833_it_desc_3.mp3",
+                "833_it_desc_4.mp3",
+                "833_it_desc_5.mp3",
+                "833_it_desc_6.mp3"
+            ]
         },
         {
             "name": "ko_desc",
-            "value": "질 누공은 질과 방광, 결장 또는 직장과 같은 다른 기관 사이에 발생하는 비정형 구멍입니다. 대변, 가스 또는 소변이 통과할 수 있는 질의 개구부를 의료 전문가가 질 누공으로 정의할 수 있습니다. 낙태, 외상, 수술, 감염 또는 방사선 치료로 인해 질 누공이 발생할 수 있습니다. 누공을 해결하려면 수술이 필요할 수 있습니다. 질 누공은 다양한 형태를 취할 수 있습니다. 영향을 미치는 위치와 기관에 따라 이름이 결정됩니다."
+            "value": "질 누공은 질과 방광, 결장 또는 직장과 같은 다른 기관 사이에 발생하는 비정형 구멍입니다. 대변, 가스 또는 소변이 통과할 수 있는 질의 개구부를 의료 전문가가 질 누공으로 정의할 수 있습니다. 낙태, 외상, 수술, 감염 또는 방사선 치료로 인해 질 누공이 발생할 수 있습니다. 누공을 해결하려면 수술이 필요할 수 있습니다. 질 누공은 다양한 형태를 취할 수 있습니다. 영향을 미치는 위치와 기관에 따라 이름이 결정됩니다.",
+            "desc_audio": [
+                "833_ko_desc_1.mp3",
+                "833_ko_desc_2.mp3",
+                "833_ko_desc_3.mp3",
+                "833_ko_desc_4.mp3",
+                "833_ko_desc_5.mp3",
+                "833_ko_desc_6.mp3"
+            ]
         },
         {
             "name": "pt_desc",
-            "value": "Uma fístula vaginal é uma abertura atípica que surge entre a vagina e outro órgão, como a bexiga, o cólon ou o reto. Uma abertura na vagina que permite a passagem de fezes, gases ou urina pode ser a forma como o seu profissional de saúde define uma fístula vaginal. Aborto, trauma, cirurgia, infecção ou radioterapia podem resultar no desenvolvimento de fístulas vaginais. A resolução de uma fístula pode exigir cirurgia. As fístulas vaginais podem assumir muitas formas diferentes. A localização e os órgãos que impactam determinam seu nome:."
+            "value": "Uma fístula vaginal é uma abertura atípica que surge entre a vagina e outro órgão, como a bexiga, o cólon ou o reto. Uma abertura na vagina que permite a passagem de fezes, gases ou urina pode ser a forma como o seu profissional de saúde define uma fístula vaginal. Aborto, trauma, cirurgia, infecção ou radioterapia podem resultar no desenvolvimento de fístulas vaginais. A resolução de uma fístula pode exigir cirurgia. As fístulas vaginais podem assumir muitas formas diferentes. A localização e os órgãos que impactam determinam seu nome:.",
+            "desc_audio": [
+                "833_pt_desc_1.mp3",
+                "833_pt_desc_2.mp3",
+                "833_pt_desc_3.mp3",
+                "833_pt_desc_4.mp3",
+                "833_pt_desc_5.mp3",
+                "833_pt_desc_6.mp3"
+            ]
         },
         {
             "name": "ar_desc",
-            "value": "الناسور المهبلي هو فتحة غير نمطية تنشأ بين المهبل وعضو آخر، مثل المثانة أو القولون أو المستقيم. قد تكون فتحة المهبل التي تسمح للبراز أو الغاز أو البول بالمرور من خلالها هي الطريقة التي يحدد بها أخصائي الرعاية الصحية الناسور المهبلي. يمكن أن يؤدي الإجهاض أو الصدمة أو الجراحة أو العدوى أو العلاج الإشعاعي إلى تطور الناسور المهبلي. قد يتطلب حل الناسور عملية جراحية. يمكن أن يتخذ الناسور المهبلي أشكالًا مختلفة. يحدد الموقع والأعضاء التي تؤثر عليها اسمها:."
+            "value": "الناسور المهبلي هو فتحة غير نمطية تنشأ بين المهبل وعضو آخر، مثل المثانة أو القولون أو المستقيم. قد تكون فتحة المهبل التي تسمح للبراز أو الغاز أو البول بالمرور من خلالها هي الطريقة التي يحدد بها أخصائي الرعاية الصحية الناسور المهبلي. يمكن أن يؤدي الإجهاض أو الصدمة أو الجراحة أو العدوى أو العلاج الإشعاعي إلى تطور الناسور المهبلي. قد يتطلب حل الناسور عملية جراحية. يمكن أن يتخذ الناسور المهبلي أشكالًا مختلفة. يحدد الموقع والأعضاء التي تؤثر عليها اسمها:.",
+            "desc_audio": [
+                "833_ar_desc_1.mp3",
+                "833_ar_desc_2.mp3",
+                "833_ar_desc_3.mp3",
+                "833_ar_desc_4.mp3",
+                "833_ar_desc_5.mp3",
+                "833_ar_desc_6.mp3"
+            ]
         }
     ],
-    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c432b0d89d886823b3c5abdfb23490660e65da9b3a514d1b8df82b512b881d20284ff8eb1dc42712c706618d129de87a509cbf5b31f814af8dbc8c648b0b4a2e4ac39aa5de17c5d31fd33ace5acaa994983408d3fc1903b45c1ab8e7a18195245c892cbf7e8deb1c0f89ec167359f4176686fcd57000294d9891706876d9aef59fccb602195a2cee3516f18aff7157f2a259a9b9cd627074be6320c4c7108954842e2a593ab750db6ea66cf82b54867e1614fedb119567a874be92cf67e7bb1a5590a7820db2da759d64559ea9c6b953535f72ffd3cdaf533a3d0874e6398f8191b23d19f2a1a01783684ab139cfc0549751b9201b239aca398749758e916f091d1503cd11881f8fc215317dfc07be6323b0f096979f50b8383fa07fd487bbfdfd082939c8789428328dc1a48998dfe2e70046114517af2dffb7de9d0dd7e1aba8c1e13ecc490ec914ce944e20d3e8654ad6eea8982f7c295ac43874b6cdb718e0ba5d1ab668b66e25df31b53875e71b06962b11a5a6974061b272fdbb95af2e3741bc51c67a6df4fe77fa96365ea00199655ee790e786d738e3e25aa8656f285bc1a847df69240188ca955ee5cebbc5d1d9729c741479c0862e5bb25169b127e4a498360bf50722d9e978f0d91d53f76eebbf1bb4b46af747503d9c5150355a7ecca5d414cdd7dd026b2ab8c2b80520bbfed1bead4bdeba313d82dc543f41094058c6b0efcf2ec297625b391384b94e29f4e5964fb1007f36350a1ca5029f1b0bf387b200ae2637e85d3ad2397f9c1439a37be3bcf8d02d66e8a7d78708ff3dc1553d36ef35fe329c2dc01c53ce62121680e52b10b45d792e239f6b4a18a142d86e3a7274908219edf243de2cfea9162a38f40870bdcfb3f75dd6dfba97c3a52183bdca9ca7c9b1da2bc4ad585863b359f296858a6eef33ef5a674102ffdf1229175ca275e6d596b029c53c9ae7b241f23f09f7e088dd49d6df4655c3a1d41621dfc9f9a363ad18feab5cdf4e1b76251e647806482444108814c6583d324a97c6b6ac890f38cddc22c1a1cdc5cb812693e9df911f4f91f79de132ba6b76f592eafc1e6c0e9c1f3e1bf607a0cf726a79e5bdf9322711174425d0ce905e7162ad366e65c1fc8892a264dbb46dffcc894363cfdb6f56c423b51be9d8d5c45229b7377e3808c0544c1b0b22fc2fdbaff331f4d8db22d129aff1d0e80225f3f7bdbe3826efed631bf1b7fd626c1801704940853b19891693877488a811f51f9f22d6972cc19059c0a1e25e4d9b4c94b5eb84c25dfa0c99d940e5de1e250a16a24950e844c61694b865b0a32a8b3712235ceac6081530ac852e4e9c555a2bb373306a86f51ed080736a3e05deae221a535a6ad009af5e89eb79480f58ffe61ddf1c808c20171b3ecc9498d2c66e28e4297e1cf843d4de3a21bebcf5a3865f2dcf0f2cf68361a17d6b2849b1190c6c55280051755f1bc8ba3767018d84a98c01352a439b9f9c9d65ebab49968a820ec1c19cb1083e1c8556c3bd79d3e5472908082f6a508f8234df55b58523e8866e2be9d1989c8b2cced0c8aadb48c639d91b9f7b9d62931b62d2c645905713c59531de3915edb76a4e9a128eeb3061a5b342871e72c1126882b462b9265ec812c11a60e3e25c802c3c4e5d3615bc9a85c279610ca2cd77255fd973b006399a5b14262dadf6c22dbb240d990219b7ee8f7e5e0b27bca5f203e603056004d54c09198177d429fd9da9ea6345084cbba7f08337304716683e7ad8a65ad3d408e292195548d880ad3b9de1dafb7c36343b54846683fdd026dd09f7e37f0d786b9049846c37f96294d826b110e1fb21f86ba36f3a55df09e7fa4e4ba90a5d9c40981dcff6e386177ef2e3adaf898f4be5b58851c8affcba4d958230bb18be2474c8f6785449945812e2c2d23684766aa98202a6716e6f2f1060db1b10fcb6695a29f6bfec83b91ef9c3ff3219490f189871687ebcaceecad7db10774abe10fe8db21fe97904fd6e9a157624343a7763bcff69442a312cfcc5fdec6dea4ab0dd12d3fd4104e899654f5ee31e920e948966f6d585a04d7fc266c3420140d384182e465f439d38d12b1202b56f971044c7328635863cfb42e695463c581f486910b89268628ef80e3d190e6a435f12210658eaaa0ebc9fe201663429fa4e08ab2c520bdf98c30e7dc7dd8feb5710fa0e1833ff348f221ff3d395d74eb739a66fd534ed86d43631bd72d4"
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c432b0d89d886823b3c5abdfb23490660e65da9b3a514d1b8df82b512b881d2028796967960e1a3cb721ff99c12ba2e25651f6ebfa0e1449df3c1ea9e7d751a827b08b08fa406af2e7514502bb002780629bc96c4a1c7e2b93e81f810a0e77980763f05cf1c746ab2b3d1cde5ef15b59f0ff9f3d48333d6a5fae8d4d96c4779f0fc81d8746333d3f3f6c89dec3f18cafb312c5ddd907e87967e400b50737e5be8ac4f14e5834d9b9cada1beaa04016c2bc357728b9374c3d03cf67ab8240fe8b327c435db1d64785e37b3e8018da5c73e292016d111db31504e7d22b2c6b23901534b4c97a0167c2ee754cb3b770ed7c1cb72028779644ec5b89ebda69e4bfa2b42f7fba9e7ce37d9f5b5bd01271f690cc463c13ef69cd688b961b1f6c53f31fb3f396067afd1c143ebafdf30e60e1ec1d70f9cd15c54cc3a96d390a0354ba1ee7af62c6ce3cb040911871bd1d1fd322230c1fdf6679283e697702685c043d00b50ff0eb26fb7f92c13c94a3309a7f50123ff084393519c0d685c78bdd49e5e206e12f9b576b81cf731f9bc6b79702159da7985af4036f47ceb3cdfb619e9b258420ce7243aa71128014e2450229fe69de31a448fb2c6b2d2473b9389a3c7b648c571a46dd7bfb21dc694678629165977606f252559961991ee2adef712e5dd7504849b7a58c5e5464931e4969e5345f7ee9669ffbb1f3bbc15c65687ef814ca72f203fb3a39ce8cdcc5addfef9bd32601a17eb1573cda770013783b84df6b424691ecd212cc3e70c1a6bf059e6de13e63c04e7b3c53fafb2b22b22d20e7d1d0e8f73041e4f68709b7a7d8df9424c6f2c46f92feb8d196f54167bae76c66fbc49631c148260ec421ea3c4e21a57934033ba80cc42247b9fc2414b86cdd0a6a56fa88b9c0847a2449243d8538bb4e393e19e39add0522c5ec4f88b9285f46f6954f1e4a5200531cae9f946717c0573391bd8a883fd768606d2fa0bb819d1dd40fe0fec5e2955c974bb80b31694d0f7706c1bd4c8d8fca78e1a1329ca0b9bec180a4cdc46bfd14ac5e48622b9b40704d41aa1f5ab29fd5c769e7939b72ca3691579c403c9a40889e996b78bc1554c53d444285c1b4dff167a2736be623ed5d00e19f4cb0762a231183b80297827435e90b7c3cec6d49bfc7492168dce1d8f7e1eb0cacb5737723b8dd8c5c858b9524158349abd9fdf7ae0b468cecf5e3c70a456c5c97eb2159a6b7348210e86ed124a648eb36564754e4fc43b8b03535ff0f335d300156bc68f340ca4ce3c1b6e81517f1907db81f0e4d6d99bef2269fa3b31ed59447c4969e2bf451031e0d56fce4327999ff3f13ce2ebc9ea0ef96aa43643eaf3f5ec4db362f338d1eee1659391a73a7ed0b2b44ad71cfbf1db25986c2e382243beae40bec8951ae80e671bd8d5c0f8f073a7aaed6fedfe8792d497b31349e10f5e8162c476b97778d2824652ed1998c81ac2ef4aac81de6c24669a894dbb728dac95c6e8ae35ef199716bef545bf8deb6f35c67630b66975ca3dd14a68b7e958b906abf31ad174b36964d9b027bbc2b73ec7a803317bb89c0f556c5540cd382622b40459b14b227e45d9a21ca7ff7da903f78502bdcf7195bb495de151fad915f3da056b6aa27fbd71bdfc2afd267187b07be2853c9cab51f3b13ecd4408c72733a3ec2d792e30dad2bdce9194993b2834721e5d5dd9735eaef1595d3376001d4a1cbadfd86fc8b36ecc2e11ff26914fa15a3d830f02ee74bd9f738d9feb8ed068bf70af95c58337e05173532d416730bdb412d83410c49b6a9b9b48c66f21c88a39c053d4f4e38bf503ac37eab638cdbeac5f8e2b98c1052de286cbfc9f251dc9b3f3777697eb94f24133a15556e13250879d06138e5518c7566357c34a9a9b7e0477ae70f5f120b8e05e3b56e13c695b3115510ac94d8c8e99adeb44962b458e9b6f3cbef575c0471e9f9261ae91a5877db8bdeb6b9e30b2fa78d4011f085e4462e783b5862d44f0c7a597eb67ac00093b901c69b95e8bf84f619f3bf9ef8870f99b66afd4088d107ae8db0c6c424f7754fda399a3a9f9ec18d54b1e64648b34fe4de73c5907695591f81a0bd60533e74e58515160b8e7b0d8802f4cedaece61c8f3aa824076437c0c1124e13d8a169f75b02d89dbdb1d8af227d28731c4583306fd236fa286c3d3d1112c862a8233504e0cb6a28319c630216b1a9de98aad00e5f42ba8d2bfe443b6416b60fe67f86bf759727feab7eca785cf13d7b3fc9c9fd79fa236ee646cfbcf750990aa5982bcaff9d46b8c2624715dcb5ec2a4a165f408eec6efd1c4042dc6a5fa8f2ead1d73c43ec96b46848a7b890392e95f48e4466890e224182707da42b88fa3edcad96d1d0f8efb35172588bedc7b873e07158dede0cd65fd7ea34aae8851627e5292b9c86c4d0999253b7e16b3309fbc6e754bacb8ff9d51bc9ce036eb98dd90b8c424f724777dfdb5445740ebfe4c5ef868a801fd42e0ec52074384fc2bd4faaad14fc814a5d89251f1a18482ec20f3dc7b8b49385dc6715c32c29a6430304c626798f113f9a2d6d900f750dd38263ba95dd2a2d3853caa3e0cfb60532782f1d44345080f9a04c7738c2706763d26bd7fac43c08fabd138409bc057ca268b43e35e60b2380da584cfefa41ae38ab15c00910008864a18198679e19bf028f7523999e",
+    "desc_audio": [
+        "833_en_desc_1.mp3",
+        "833_en_desc_2.mp3",
+        "833_en_desc_3.mp3",
+        "833_en_desc_4.mp3",
+        "833_en_desc_5.mp3",
+        "833_en_desc_6.mp3"
+    ]
 }

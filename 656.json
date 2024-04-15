@@ -56,52 +56,221 @@
     "desc_lang": [
         {
             "name": "tr_desc",
-            "value": "Kalbin sağ alt odacığını akciğerlere kan sağlayan arterden ayıran kapak, pulmoner kapak hastalığından etkilenir. Pulmoner arter bu artere verilen isimdir. Pulmoner kapak olarak anılır. Pulmoner kapak hastalığı işlevselliğini bozar. Kalpten akciğerlere olan dolaşım, pulmoner kapak hastalığı nedeniyle değişir. Sağ alt kalp odası ve akciğerler genellikle tek yönlü bir kapı görevi gören pulmoner kapakla birbirine bağlanır. Pulmoner kapak açıldığında kan odadan çıkar. Akciğerlere girdikten sonra pulmoner arter yoluyla hareket eder. Nefes alma sırasında kan, vücudun kullanması için oksijeni emer. Pulmoner kapak hastalığının çeşitli formları vardır ve bunların birçoğu altta yatan kalp anormalliklerinden kaynaklanır. Pulmoner kapak hastalığının nasıl tedavi edildiği, türüne ve ciddiyetine bağlıdır."
+            "value": "Kalbin sağ alt odacığını akciğerlere kan sağlayan arterden ayıran kapak, pulmoner kapak hastalığından etkilenir. Pulmoner arter bu artere verilen isimdir. Pulmoner kapak olarak anılır. Pulmoner kapak hastalığı işlevselliğini bozar. Kalpten akciğerlere olan dolaşım, pulmoner kapak hastalığı nedeniyle değişir. Sağ alt kalp odası ve akciğerler genellikle tek yönlü bir kapı görevi gören pulmoner kapakla birbirine bağlanır. Pulmoner kapak açıldığında kan odadan çıkar. Akciğerlere girdikten sonra pulmoner arter yoluyla hareket eder. Nefes alma sırasında kan, vücudun kullanması için oksijeni emer. Pulmoner kapak hastalığının çeşitli formları vardır ve bunların birçoğu altta yatan kalp anormalliklerinden kaynaklanır. Pulmoner kapak hastalığının nasıl tedavi edildiği, türüne ve ciddiyetine bağlıdır.",
+            "desc_audio": [
+                "656_tr_desc_1.mp3",
+                "656_tr_desc_2.mp3",
+                "656_tr_desc_3.mp3",
+                "656_tr_desc_4.mp3",
+                "656_tr_desc_5.mp3",
+                "656_tr_desc_6.mp3",
+                "656_tr_desc_7.mp3",
+                "656_tr_desc_8.mp3",
+                "656_tr_desc_9.mp3",
+                "656_tr_desc_10.mp3",
+                "656_tr_desc_11.mp3"
+            ]
         },
         {
             "name": "ko_desc",
-            "value": "폐에 혈액을 공급하는 동맥과 심장의 오른쪽 아래 방을 분리하는 판막이 폐동맥 판막 질환의 영향을 받습니다. 폐동맥은 그 동맥에 주어진 이름입니다. 이를 폐동맥 판막이라고 합니다. 폐동맥 판막 질환은 기능을 손상시킵니다. 폐동맥 판막 질환으로 인해 심장에서 폐로의 순환이 변경됩니다. 오른쪽 아래 심방과 폐는 종종 단방향 문 역할을 하는 폐동맥 판막으로 연결됩니다. 폐동맥판이 열리면 혈액이 챔버 밖으로 빠져나갑니다. 폐 안으로 들어가면 폐동맥을 통해 이동합니다. 호흡하는 동안 혈액은 신체가 사용할 산소를 흡수합니다. 폐동맥판 질환에는 다양한 형태가 있으며, 그 중 대부분은 근본적인 심장 이상으로 인해 발생합니다. 폐동맥 판막 질환의 치료 방법은 종류와 중증도에 따라 다릅니다."
+            "value": "폐에 혈액을 공급하는 동맥과 심장의 오른쪽 아래 방을 분리하는 판막이 폐동맥 판막 질환의 영향을 받습니다. 폐동맥은 그 동맥에 주어진 이름입니다. 이를 폐동맥 판막이라고 합니다. 폐동맥 판막 질환은 기능을 손상시킵니다. 폐동맥 판막 질환으로 인해 심장에서 폐로의 순환이 변경됩니다. 오른쪽 아래 심방과 폐는 종종 단방향 문 역할을 하는 폐동맥 판막으로 연결됩니다. 폐동맥판이 열리면 혈액이 챔버 밖으로 빠져나갑니다. 폐 안으로 들어가면 폐동맥을 통해 이동합니다. 호흡하는 동안 혈액은 신체가 사용할 산소를 흡수합니다. 폐동맥판 질환에는 다양한 형태가 있으며, 그 중 대부분은 근본적인 심장 이상으로 인해 발생합니다. 폐동맥 판막 질환의 치료 방법은 종류와 중증도에 따라 다릅니다.",
+            "desc_audio": [
+                "656_ko_desc_1.mp3",
+                "656_ko_desc_2.mp3",
+                "656_ko_desc_3.mp3",
+                "656_ko_desc_4.mp3",
+                "656_ko_desc_5.mp3",
+                "656_ko_desc_6.mp3",
+                "656_ko_desc_7.mp3",
+                "656_ko_desc_8.mp3",
+                "656_ko_desc_9.mp3",
+                "656_ko_desc_10.mp3",
+                "656_ko_desc_11.mp3"
+            ]
         },
         {
             "name": "fr_desc",
-            "value": "La valvule pulmonaire sépare la chambre inférieure droite du cœur de l&#39;artère qui alimente les poumons en sang. L&#39;artère pulmonaire est le nom donné à cette artère. On l’appelle la valve pulmonaire. Une maladie valvulaire pulmonaire altère sa fonctionnalité. La circulation du cœur vers les poumons est altérée par la valvulopathie pulmonaire. La cavité cardiaque inférieure droite et les poumons sont souvent reliés par la valvule pulmonaire, qui fonctionne comme une porte à sens unique. Lorsque la valvule pulmonaire s&#39;ouvre, le sang sort de la chambre. Une fois à l’intérieur des poumons, il circule via l’artère pulmonaire. Pendant la respiration, le sang absorbe de l’oxygène que le corps peut utiliser. Il existe diverses formes de valvulopathie pulmonaire, et bon nombre d’entre elles sont provoquées par des anomalies cardiaques sous-jacentes. La manière dont la valvulopathie pulmonaire est traitée dépend de son type et de sa gravité."
+            "value": "La valvule pulmonaire sépare la chambre inférieure droite du cœur de l&#39;artère qui alimente les poumons en sang. L&#39;artère pulmonaire est le nom donné à cette artère. On l’appelle la valve pulmonaire. Une maladie valvulaire pulmonaire altère sa fonctionnalité. La circulation du cœur vers les poumons est altérée par la valvulopathie pulmonaire. La cavité cardiaque inférieure droite et les poumons sont souvent reliés par la valvule pulmonaire, qui fonctionne comme une porte à sens unique. Lorsque la valvule pulmonaire s&#39;ouvre, le sang sort de la chambre. Une fois à l’intérieur des poumons, il circule via l’artère pulmonaire. Pendant la respiration, le sang absorbe de l’oxygène que le corps peut utiliser. Il existe diverses formes de valvulopathie pulmonaire, et bon nombre d’entre elles sont provoquées par des anomalies cardiaques sous-jacentes. La manière dont la valvulopathie pulmonaire est traitée dépend de son type et de sa gravité.",
+            "desc_audio": [
+                "656_fr_desc_1.mp3",
+                "656_fr_desc_2.mp3",
+                "656_fr_desc_3.mp3",
+                "656_fr_desc_4.mp3",
+                "656_fr_desc_5.mp3",
+                "656_fr_desc_6.mp3",
+                "656_fr_desc_7.mp3",
+                "656_fr_desc_8.mp3",
+                "656_fr_desc_9.mp3",
+                "656_fr_desc_10.mp3",
+                "656_fr_desc_11.mp3"
+            ]
         },
         {
             "name": "de_desc",
-            "value": "Die Klappe, die die untere rechte Herzkammer von der Arterie trennt, die die Lunge mit Blut versorgt, ist von einer Pulmonalklappenerkrankung betroffen. Als Pulmonalarterie wird diese Arterie bezeichnet. Sie wird als Pulmonalklappe bezeichnet. Eine Erkrankung der Pulmonalklappe beeinträchtigt ihre Funktionalität. Die Durchblutung vom Herzen zur Lunge wird durch eine Lungenklappenerkrankung beeinträchtigt. Die untere rechte Herzkammer und die Lunge sind oft durch die Pulmonalklappe verbunden, die als Einwegtür fungiert. Wenn sich die Pulmonalklappe öffnet, tritt Blut aus der Kammer aus. Sobald es in der Lunge ist, wandert es über die Lungenarterie. Beim Atmen nimmt das Blut Sauerstoff auf, den der Körper nutzen kann. Es gibt verschiedene Formen von Lungenklappenerkrankungen, und viele von ihnen werden durch zugrunde liegende Herzanomalien verursacht. Wie eine Lungenklappenerkrankung behandelt wird, hängt von der Art und dem Schweregrad ab."
+            "value": "Die Klappe, die die untere rechte Herzkammer von der Arterie trennt, die die Lunge mit Blut versorgt, ist von einer Pulmonalklappenerkrankung betroffen. Als Pulmonalarterie wird diese Arterie bezeichnet. Sie wird als Pulmonalklappe bezeichnet. Eine Erkrankung der Pulmonalklappe beeinträchtigt ihre Funktionalität. Die Durchblutung vom Herzen zur Lunge wird durch eine Lungenklappenerkrankung beeinträchtigt. Die untere rechte Herzkammer und die Lunge sind oft durch die Pulmonalklappe verbunden, die als Einwegtür fungiert. Wenn sich die Pulmonalklappe öffnet, tritt Blut aus der Kammer aus. Sobald es in der Lunge ist, wandert es über die Lungenarterie. Beim Atmen nimmt das Blut Sauerstoff auf, den der Körper nutzen kann. Es gibt verschiedene Formen von Lungenklappenerkrankungen, und viele von ihnen werden durch zugrunde liegende Herzanomalien verursacht. Wie eine Lungenklappenerkrankung behandelt wird, hängt von der Art und dem Schweregrad ab.",
+            "desc_audio": [
+                "656_de_desc_1.mp3",
+                "656_de_desc_2.mp3",
+                "656_de_desc_3.mp3",
+                "656_de_desc_4.mp3",
+                "656_de_desc_5.mp3",
+                "656_de_desc_6.mp3",
+                "656_de_desc_7.mp3",
+                "656_de_desc_8.mp3",
+                "656_de_desc_9.mp3",
+                "656_de_desc_10.mp3",
+                "656_de_desc_11.mp3"
+            ]
         },
         {
             "name": "ar_desc",
-            "value": "يتأثر الصمام الذي يفصل الغرفة اليمنى السفلية للقلب عن الشريان الذي يزود الرئتين بالدم بمرض الصمام الرئوي. الشريان الرئوي هو الاسم الذي يطلق على هذا الشريان. ويشار إليه باسم الصمام الرئوي. مرض الصمام الرئوي يضعف وظائفه. تتغير الدورة الدموية من القلب إلى الرئتين بسبب مرض الصمام الرئوي. غالبًا ما ترتبط حجرة القلب اليمنى السفلية بالرئتين عن طريق الصمام الرئوي، الذي يعمل كباب أحادي الاتجاه. عندما ينفتح الصمام الرئوي، يخرج الدم من الحجرة. وبمجرد دخوله إلى الرئتين، فإنه ينتقل عبر الشريان الرئوي. أثناء التنفس، يمتص الدم الأكسجين ليستخدمه الجسم. هناك أشكال مختلفة من مرض الصمام الرئوي، والعديد منها ناتج عن تشوهات قلبية كامنة. تعتمد كيفية علاج مرض الصمام الرئوي على نوعه وشدته."
+            "value": "يتأثر الصمام الذي يفصل الغرفة اليمنى السفلية للقلب عن الشريان الذي يزود الرئتين بالدم بمرض الصمام الرئوي. الشريان الرئوي هو الاسم الذي يطلق على هذا الشريان. ويشار إليه باسم الصمام الرئوي. مرض الصمام الرئوي يضعف وظائفه. تتغير الدورة الدموية من القلب إلى الرئتين بسبب مرض الصمام الرئوي. غالبًا ما ترتبط حجرة القلب اليمنى السفلية بالرئتين عن طريق الصمام الرئوي، الذي يعمل كباب أحادي الاتجاه. عندما ينفتح الصمام الرئوي، يخرج الدم من الحجرة. وبمجرد دخوله إلى الرئتين، فإنه ينتقل عبر الشريان الرئوي. أثناء التنفس، يمتص الدم الأكسجين ليستخدمه الجسم. هناك أشكال مختلفة من مرض الصمام الرئوي، والعديد منها ناتج عن تشوهات قلبية كامنة. تعتمد كيفية علاج مرض الصمام الرئوي على نوعه وشدته.",
+            "desc_audio": [
+                "656_ar_desc_1.mp3",
+                "656_ar_desc_2.mp3",
+                "656_ar_desc_3.mp3",
+                "656_ar_desc_4.mp3",
+                "656_ar_desc_5.mp3",
+                "656_ar_desc_6.mp3",
+                "656_ar_desc_7.mp3",
+                "656_ar_desc_8.mp3",
+                "656_ar_desc_9.mp3",
+                "656_ar_desc_10.mp3",
+                "656_ar_desc_11.mp3"
+            ]
         },
         {
             "name": "es_desc",
-            "value": "La válvula que separa la cámara inferior derecha del corazón de la arteria que suministra sangre a los pulmones se ve afectada por la enfermedad de la válvula pulmonar. Arteria pulmonar es el nombre que se le da a esa arteria. Se la conoce como válvula pulmonar. Una enfermedad de la válvula pulmonar perjudica su funcionalidad. La circulación del corazón a los pulmones se ve alterada por la enfermedad de la válvula pulmonar. La cámara inferior derecha del corazón y los pulmones suelen estar conectados por la válvula pulmonar, que funciona como una puerta de un solo sentido. Cuando se abre la válvula pulmonar, la sangre sale de la cámara. Una vez dentro de los pulmones, viaja a través de la arteria pulmonar. Durante la respiración, la sangre absorbe oxígeno para que el cuerpo lo utilice. Existen varias formas de enfermedad de la válvula pulmonar y muchas de ellas son provocadas por anomalías cardíacas subyacentes. El tratamiento de la valvulopatía pulmonar depende de su tipo y gravedad."
+            "value": "La válvula que separa la cámara inferior derecha del corazón de la arteria que suministra sangre a los pulmones se ve afectada por la enfermedad de la válvula pulmonar. Arteria pulmonar es el nombre que se le da a esa arteria. Se la conoce como válvula pulmonar. Una enfermedad de la válvula pulmonar perjudica su funcionalidad. La circulación del corazón a los pulmones se ve alterada por la enfermedad de la válvula pulmonar. La cámara inferior derecha del corazón y los pulmones suelen estar conectados por la válvula pulmonar, que funciona como una puerta de un solo sentido. Cuando se abre la válvula pulmonar, la sangre sale de la cámara. Una vez dentro de los pulmones, viaja a través de la arteria pulmonar. Durante la respiración, la sangre absorbe oxígeno para que el cuerpo lo utilice. Existen varias formas de enfermedad de la válvula pulmonar y muchas de ellas son provocadas por anomalías cardíacas subyacentes. El tratamiento de la valvulopatía pulmonar depende de su tipo y gravedad.",
+            "desc_audio": [
+                "656_es_desc_1.mp3",
+                "656_es_desc_2.mp3",
+                "656_es_desc_3.mp3",
+                "656_es_desc_4.mp3",
+                "656_es_desc_5.mp3",
+                "656_es_desc_6.mp3",
+                "656_es_desc_7.mp3",
+                "656_es_desc_8.mp3",
+                "656_es_desc_9.mp3",
+                "656_es_desc_10.mp3",
+                "656_es_desc_11.mp3"
+            ]
         },
         {
             "name": "ja_desc",
-            "value": "心臓の右下腔と肺に血液を供給する動脈を隔てる弁は、肺弁膜症の影響を受けています。肺動脈はその動脈に付けられた名前です。それは肺動脈弁と呼ばれます。肺弁膜症はその機能を損ないます。心臓から肺への循環は、肺弁膜症によって変化します。右下の心腔と肺は、多くの場合、一方通行のドアとして機能する肺動脈弁によって接続されています。肺動脈弁が開くと、血液が肺室から出ます。肺に入ると、肺動脈を通って進みます。呼吸中、血液は体が利用できる酸素を吸収します。肺弁膜症にはさまざまな形態があり、その多くは基礎的な心臓の異常によって引き起こされます。肺弁膜症の治療方法は、その種類と重症度によって異なります。"
+            "value": "心臓の右下腔と肺に血液を供給する動脈を隔てる弁は、肺弁膜症の影響を受けています。肺動脈はその動脈に付けられた名前です。それは肺動脈弁と呼ばれます。肺弁膜症はその機能を損ないます。心臓から肺への循環は、肺弁膜症によって変化します。右下の心腔と肺は、多くの場合、一方通行のドアとして機能する肺動脈弁によって接続されています。肺動脈弁が開くと、血液が肺室から出ます。肺に入ると、肺動脈を通って進みます。呼吸中、血液は体が利用できる酸素を吸収します。肺弁膜症にはさまざまな形態があり、その多くは基礎的な心臓の異常によって引き起こされます。肺弁膜症の治療方法は、その種類と重症度によって異なります。",
+            "desc_audio": [
+                "656_ja_desc_1.mp3",
+                "656_ja_desc_2.mp3",
+                "656_ja_desc_3.mp3",
+                "656_ja_desc_4.mp3",
+                "656_ja_desc_5.mp3",
+                "656_ja_desc_6.mp3",
+                "656_ja_desc_7.mp3",
+                "656_ja_desc_8.mp3",
+                "656_ja_desc_9.mp3",
+                "656_ja_desc_10.mp3",
+                "656_ja_desc_11.mp3"
+            ]
         },
         {
             "name": "zh_desc",
-            "value": "将心脏右下腔室与向肺部供血的动脉分开的瓣膜受到肺动脉瓣疾病的影响。肺动脉是该动脉的名称。它被称为肺动脉瓣。肺动脉瓣疾病会损害其功能。肺动脉瓣疾病改变了从心脏到肺部的循环。右下心室和肺部通常通过肺动脉瓣连接，肺动脉瓣起到单向门的作用。当肺动脉瓣打开时，血液流出腔室。一旦进入肺部，它就会通过肺动脉传播。在呼吸过程中，血液吸收氧气供身体使用。肺动脉瓣疾病有多种形式，其中许多是由潜在的心脏异常引起的。肺动脉瓣疾病的治疗方法取决于其类型和严重程度。"
+            "value": "将心脏右下腔室与向肺部供血的动脉分开的瓣膜受到肺动脉瓣疾病的影响。肺动脉是该动脉的名称。它被称为肺动脉瓣。肺动脉瓣疾病会损害其功能。肺动脉瓣疾病改变了从心脏到肺部的循环。右下心室和肺部通常通过肺动脉瓣连接，肺动脉瓣起到单向门的作用。当肺动脉瓣打开时，血液流出腔室。一旦进入肺部，它就会通过肺动脉传播。在呼吸过程中，血液吸收氧气供身体使用。肺动脉瓣疾病有多种形式，其中许多是由潜在的心脏异常引起的。肺动脉瓣疾病的治疗方法取决于其类型和严重程度。",
+            "desc_audio": [
+                "656_zh_desc_1.mp3",
+                "656_zh_desc_2.mp3",
+                "656_zh_desc_3.mp3",
+                "656_zh_desc_4.mp3",
+                "656_zh_desc_5.mp3",
+                "656_zh_desc_6.mp3",
+                "656_zh_desc_7.mp3",
+                "656_zh_desc_8.mp3",
+                "656_zh_desc_9.mp3",
+                "656_zh_desc_10.mp3",
+                "656_zh_desc_11.mp3"
+            ]
         },
         {
             "name": "id_desc",
-            "value": "Katup yang memisahkan ruang kanan bawah jantung dari arteri yang memasok darah ke paru-paru dipengaruhi oleh penyakit katup paru. Arteri pulmonal adalah nama yang diberikan untuk arteri itu. Ini disebut sebagai katup pulmonal. Penyakit katup paru mengganggu fungsinya. Sirkulasi dari jantung ke paru-paru diubah oleh penyakit katup paru. Ruang jantung kanan bawah dan paru-paru sering dihubungkan oleh katup pulmonal, yang berfungsi sebagai pintu satu arah. Saat katup pulmonal terbuka, darah keluar dari ruangan. Begitu berada di dalam paru-paru, ia bergerak melalui arteri pulmonalis. Selama bernapas, darah menyerap oksigen untuk digunakan tubuh. Ada berbagai macam bentuk penyakit katup paru, dan sebagian besar disebabkan oleh kelainan jantung. Cara pengobatan penyakit katup paru bergantung pada jenis dan tingkat keparahannya."
+            "value": "Katup yang memisahkan ruang kanan bawah jantung dari arteri yang memasok darah ke paru-paru dipengaruhi oleh penyakit katup paru. Arteri pulmonal adalah nama yang diberikan untuk arteri itu. Ini disebut sebagai katup pulmonal. Penyakit katup paru mengganggu fungsinya. Sirkulasi dari jantung ke paru-paru diubah oleh penyakit katup paru. Ruang jantung kanan bawah dan paru-paru sering dihubungkan oleh katup pulmonal, yang berfungsi sebagai pintu satu arah. Saat katup pulmonal terbuka, darah keluar dari ruangan. Begitu berada di dalam paru-paru, ia bergerak melalui arteri pulmonalis. Selama bernapas, darah menyerap oksigen untuk digunakan tubuh. Ada berbagai macam bentuk penyakit katup paru, dan sebagian besar disebabkan oleh kelainan jantung. Cara pengobatan penyakit katup paru bergantung pada jenis dan tingkat keparahannya.",
+            "desc_audio": [
+                "656_id_desc_1.mp3",
+                "656_id_desc_2.mp3",
+                "656_id_desc_3.mp3",
+                "656_id_desc_4.mp3",
+                "656_id_desc_5.mp3",
+                "656_id_desc_6.mp3",
+                "656_id_desc_7.mp3",
+                "656_id_desc_8.mp3",
+                "656_id_desc_9.mp3",
+                "656_id_desc_10.mp3",
+                "656_id_desc_11.mp3"
+            ]
         },
         {
             "name": "ru_desc",
-            "value": "Клапан, отделяющий нижнюю правую камеру сердца от артерии, снабжающей кровью легкие, поражен заболеванием клапана легочной артерии. Легочная артерия — это название этой артерии. Его называют легочным клапаном. Заболевания легочного клапана ухудшают его функциональность. Кровообращение от сердца к легким изменяется при заболевании клапана легочной артерии. Нижняя правая камера сердца и легкие часто соединены легочным клапаном, который действует как односторонняя дверь. Когда легочный клапан открывается, кровь выходит из камеры. Попав в легкие, он проходит через легочную артерию. Во время дыхания кровь поглощает кислород для использования организмом. Существуют различные формы заболеваний легочного клапана, и многие из них вызваны основными нарушениями сердечной деятельности. Как лечить заболевание легочного клапана, зависит от его вида и тяжести."
+            "value": "Клапан, отделяющий нижнюю правую камеру сердца от артерии, снабжающей кровью легкие, поражен заболеванием клапана легочной артерии. Легочная артерия — это название этой артерии. Его называют легочным клапаном. Заболевания легочного клапана ухудшают его функциональность. Кровообращение от сердца к легким изменяется при заболевании клапана легочной артерии. Нижняя правая камера сердца и легкие часто соединены легочным клапаном, который действует как односторонняя дверь. Когда легочный клапан открывается, кровь выходит из камеры. Попав в легкие, он проходит через легочную артерию. Во время дыхания кровь поглощает кислород для использования организмом. Существуют различные формы заболеваний легочного клапана, и многие из них вызваны основными нарушениями сердечной деятельности. Как лечить заболевание легочного клапана, зависит от его вида и тяжести.",
+            "desc_audio": [
+                "656_ru_desc_1.mp3",
+                "656_ru_desc_2.mp3",
+                "656_ru_desc_3.mp3",
+                "656_ru_desc_4.mp3",
+                "656_ru_desc_5.mp3",
+                "656_ru_desc_6.mp3",
+                "656_ru_desc_7.mp3",
+                "656_ru_desc_8.mp3",
+                "656_ru_desc_9.mp3",
+                "656_ru_desc_10.mp3",
+                "656_ru_desc_11.mp3"
+            ]
         },
         {
             "name": "pt_desc",
-            "value": "A válvula que separa a câmara inferior direita do coração da artéria que fornece sangue aos pulmões é afetada pela doença valvar pulmonar. Artéria pulmonar é o nome dado a essa artéria. É conhecida como válvula pulmonar. Uma doença valvar pulmonar prejudica sua funcionalidade. A circulação do coração para os pulmões é alterada pela doença valvar pulmonar. A câmara cardíaca inferior direita e os pulmões são frequentemente conectados pela válvula pulmonar, que funciona como uma porta de mão única. À medida que a válvula pulmonar se abre, o sangue sai da câmara. Uma vez dentro dos pulmões, ele viaja pela artéria pulmonar. Durante a respiração, o sangue absorve oxigênio para o corpo usar. Existem várias formas de doença valvar pulmonar, e muitas delas são causadas por anomalias cardíacas subjacentes. A forma como a doença valvar pulmonar é tratada depende do seu tipo e gravidade."
+            "value": "A válvula que separa a câmara inferior direita do coração da artéria que fornece sangue aos pulmões é afetada pela doença valvar pulmonar. Artéria pulmonar é o nome dado a essa artéria. É conhecida como válvula pulmonar. Uma doença valvar pulmonar prejudica sua funcionalidade. A circulação do coração para os pulmões é alterada pela doença valvar pulmonar. A câmara cardíaca inferior direita e os pulmões são frequentemente conectados pela válvula pulmonar, que funciona como uma porta de mão única. À medida que a válvula pulmonar se abre, o sangue sai da câmara. Uma vez dentro dos pulmões, ele viaja pela artéria pulmonar. Durante a respiração, o sangue absorve oxigênio para o corpo usar. Existem várias formas de doença valvar pulmonar, e muitas delas são causadas por anomalias cardíacas subjacentes. A forma como a doença valvar pulmonar é tratada depende do seu tipo e gravidade.",
+            "desc_audio": [
+                "656_pt_desc_1.mp3",
+                "656_pt_desc_2.mp3",
+                "656_pt_desc_3.mp3",
+                "656_pt_desc_4.mp3",
+                "656_pt_desc_5.mp3",
+                "656_pt_desc_6.mp3",
+                "656_pt_desc_7.mp3",
+                "656_pt_desc_8.mp3",
+                "656_pt_desc_9.mp3",
+                "656_pt_desc_10.mp3",
+                "656_pt_desc_11.mp3"
+            ]
         },
         {
             "name": "it_desc",
-            "value": "La valvola che separa la camera inferiore destra del cuore dall’arteria che fornisce il sangue ai polmoni è colpita dalla malattia della valvola polmonare. Arteria polmonare è il nome dato a quell&#39;arteria. Si chiama valvola polmonare. Una malattia della valvola polmonare ne compromette la funzionalità. La circolazione dal cuore ai polmoni è alterata dalla malattia della valvola polmonare. La camera cardiaca inferiore destra e i polmoni sono spesso collegati dalla valvola polmonare, che funziona come una porta a senso unico. Quando la valvola polmonare si apre, il sangue esce dalla camera. Una volta dentro i polmoni, viaggia attraverso l&#39;arteria polmonare. Durante la respirazione, il sangue assorbe ossigeno che il corpo può utilizzare. Esistono varie forme di malattia della valvola polmonare e molte di esse sono causate da anomalie cardiache sottostanti. Il modo in cui viene trattata la malattia della valvola polmonare dipende dal suo tipo e dalla sua gravità."
+            "value": "La valvola che separa la camera inferiore destra del cuore dall’arteria che fornisce il sangue ai polmoni è colpita dalla malattia della valvola polmonare. Arteria polmonare è il nome dato a quell&#39;arteria. Si chiama valvola polmonare. Una malattia della valvola polmonare ne compromette la funzionalità. La circolazione dal cuore ai polmoni è alterata dalla malattia della valvola polmonare. La camera cardiaca inferiore destra e i polmoni sono spesso collegati dalla valvola polmonare, che funziona come una porta a senso unico. Quando la valvola polmonare si apre, il sangue esce dalla camera. Una volta dentro i polmoni, viaggia attraverso l&#39;arteria polmonare. Durante la respirazione, il sangue assorbe ossigeno che il corpo può utilizzare. Esistono varie forme di malattia della valvola polmonare e molte di esse sono causate da anomalie cardiache sottostanti. Il modo in cui viene trattata la malattia della valvola polmonare dipende dal suo tipo e dalla sua gravità.",
+            "desc_audio": [
+                "656_it_desc_1.mp3",
+                "656_it_desc_2.mp3",
+                "656_it_desc_3.mp3",
+                "656_it_desc_4.mp3",
+                "656_it_desc_5.mp3",
+                "656_it_desc_6.mp3",
+                "656_it_desc_7.mp3",
+                "656_it_desc_8.mp3",
+                "656_it_desc_9.mp3",
+                "656_it_desc_10.mp3",
+                "656_it_desc_11.mp3"
+            ]
         }
     ],
-    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4a1c7db4e5384cb8ca43f7f08ed7cdbf17ae07cd13b60c0d62ca0e5f4fbc5b26ef0d0fde79c5d549a79990700f64b3d9b8922e2820b35d588e59e92aebffc7242ffc5edc5ecf2efaaddb1aad6b2bc7deac86c7da891921cdde751f5a27e00604d0b85cd0734fb900552e1d7acdaf9d6c61bbcb03d81dba49c221371edfbe96d286a077ae732f8759ee9dfb7b50fa9a5480ad26ca806ca11b44f424ac5b4093626547682617ddd00e0d0a75ff8c4deed00d35176ecb1bb41227420a01cb819cfdd90c6b48e7034112708e61de24eacff364aca15d3210bb54697e776b59e693658bda56e2a19b6bec59ac2e13f477ec662eeca270fb5d2bd741319dcda0bcec26a056db6fc96ccd49f498cae84930ace490f81deef34681e7288e7430757e6fbff0eae42d3019158b9593a5447df933ae004880b96abe3614b9b4c88f588e7e37342da1534ca5222ad9cc1604dc7e723653cc149a4b4c61e884a157416e8624bff8a2010a441644f19d631ac756396193e6d7b2b3e7b486ffea92b7ebd2646ce73638cfc1e21554e8dae261a6c323c689f2b78f0f24a8978b2707b21afde361e0126f8e24f9001e56e4f7ac33d3b0e429d67f1bf1b702599a78d76cca8b2becdf12e5ab64075f471c8a67d8ef3d979b9711dc11a3cd0e0b307b4165b34e8da6211fb6b742960bfb7b84375a0d28682783d7742eecd0f0a165b0214ebf497af265b206608c17d4d01e4ca3accafe2f7750e87abd6f06495468dda21484635d1b222d581d20ce56cbb1b422cd97b6874a10959949e6fdd0a9d1091e5fa6d32f251af41c76d572c73757666c5c5c3367e8be1c90a9e87780f210af29461e95d7ac027d2bb7d482bce69d7112d024a07f52d0febf47ba2e5c97310e9c265a0a2ece88745e89a3836f4a52c996753b644c2415e560e238f899b09f25f9f4c47f8e5c79ed2f54fb1eef052ee1e2bcecd3e0dcff14b08d3341badd3b15ed519d142fd4149a1d97b92b5ffba1d694fb81171d7e9ea219938f961c93dfeec7b96f988d6f1c152cbdbf7451a2234eaeedd9f2da280dab1a715883c52697309b973dbc9f5084d531395db9165472b5c5df6e81290488398214aea6f376b3b7b160d67c770e9bd3accf30889970d1f61897ed35ec5205f97c6d08a0b40434ea2c03e82dbf3ea06511fce418ee9a94d082b5f0836819275fcb40f85b4b674ff03150006dd48e67071a0f753d58aa52dfafca454993f2aa97ebfa20451259184c279f4aae893d50627b480d36e768b2f23d5af1d95e42093a5fea7e6bebfea135a7566e2f052661d84ed0f987568ef314223baa070047aaf7815e14dddb2f53b93fb0738826d8e71690da412f0015a7b6c94cfb67b7878ebe250cd6a08b919b4992c33000c9aa7ff47d5c6ee69d7bca6c4b06bf170bc7cb2491b48505e3eca299404c66cbe9ea58f886a311145e8fd69098b73327de8f1c054d68f8f8c8f569fe5a5e13dcd37a6c435c7b8682d4599883bf53cb6e9bc73184862c698d097e7aa3a3e8ff91d9b6bae13126d5d60b1703c761e968617f4e3e80f2d7f5fd9ff5975d7d688c42e41171ebf3025a4374ebcd2866926de9a3519efda3625b24571cd0810249263c31327ced057e7361beb647d76023dd1f08e7cf24947523614996e6fd651612a496b00acd1ae83bbf2e4e67e50bcbc5aa39fbce190914caf830971e2c36af4bf6d470086e582eee2c2bd9ebd847fd1fdfbec95fbf787d799499fbcefdddd317e44f1a45bd91fba1051477ec03302289f1e40e7f6d9b754809955c9964bfb04dfbf7beca3939b2e3f9159a48958956f9e17eeaf4d85d1573fc46bbfba27ee009c52fc2b12d0201d0def62a525e3206f19f8269c1f86fb82bc9dcd1ac751efcf2403a179dd6e258bb73c7a028f3cf8db9277981ba3bba53bf12fc472d206c082bcbf0ef071256275cfd322141a84cad1d432a95f1e7e1b0fab2471956c08bb8e4b29997b3bed076c8be6c97538276861df88ae999419f72c3aec9c51cdc5c4a8f4b3f78b846348b7b828f59ff6ebb7152b061864d96c5dcf7165d09e5aaad8445e75054673c2f438611192912109f8e1d80113c070fa095d8f7af7ee1b5912b4e915a14a31ac6da13954b4bdb8bda70c585e0cd08464060a0b46ec0c800c40b6449706a8911cb03eefdd9048e94223b4423b58191fb0e35f00ee58c7a1a439f0d4836ea1434cef97b42573147053d7d287d8014315f702cedfc61f82bafca67dc92379c84f9d7cd521b4dd5f1ea1d98bc85011d0b697ca2843bdf08a2bd71ceaf1ba809274e06d6695eb32d36ad497d69500107903a375484e4e4b9351224e53ca10a61dccb81da5fcca806638194c9d5bd96d724fa0835a154f6a4a691361c2a7328f1bee4dcb1585fa0a2d923b79f41209e1b92cc58b4122b494d3c941e7ae388bd4afcb3a3d6e3b8eaecc229bcc87c693163284881c67c6c7b2c458ae1a767a2da4d121f54ee8ada419f95eca917627509c7ff11bbf307a6cdfee6ca0480b711bd9ff68fdc99a55a52b8c139ea70a8ccff390799547fc93ea7a80173f46dbbdfe9961c32449fff6ffa977e6d4142ebd151890aeaa3a4d4722adfe458298570116d43b34587c8943d3a3c1ef681426609cf3450ee11180af5852948323c99b84740a23051c09fabe082544470b531c270c67432ed85d1e54d54b33f0602bb90ac372e333988c8bc82d891884495f79b6dea7a46ec662a6c45328caed5957487b4aa8f928ef4e757b872f1a46193940012943da9a1f47fcf7f7802caca0852fda80b748fa3f8852ffd3a7535108a49c9ecfeecea60c694c25ac2b0d7708026882e386df8fbec8e74cd08c37e3989dd6aebaa2350c41725a096594ee725ddbb0b386f9bc91"
+    "data": "b6787435021ad878b359096325c8c6ba660831fe2d1d699a3f631140988dbc49b9550895a5fa29ad8b8679ce1c6396e20c64d07ad43a2fd47c68d41bd4f5cf57e0022daf7b3d596cfd9da65f8fe109b895f021cf7d1342c8b4c945944f2499b81609753ee8f3fb4cd15d88773c3bc216d7e333be8d467962af2dbf4ba0d0a3bf0b4390834bf2becbcfbe809fb93e2ef456ca6e90028f1726d07f21acc8959a173f08699ef8cc5e4cfd6ff96e9f0244c5504f57510d36bed6cd6791562d4b3cb61e88bef4916e569728009ed3679dc1c4a1c7db4e5384cb8ca43f7f08ed7cdbf17ae07cd13b60c0d62ca0e5f4fbc5b26ef0d0fde79c5d549a79990700f64b3d9b11177ff3c2637b0b519304c37df454e3d5fbb48b31d5aacc83c7e15dcd038e51e10d296ccd78f8d08508e363cd0605b55dadee864de643b31ae7ab94b4bf26d10250d7741f80edc7683bcff924cc78b7517d0bf43b499c2fbb28aa8d1f71080252676f1f13cf272fee41677ec9d1d4413ea361b94d99a7244b6b252e111c4ad237fce7016b14bb6b218878d4cb0882323b257831e4c3f3ff4903500b854be400b8885d6a802f86c4094332429bef6820300251c9e15ef9b9b2b887ea98907b9599bd46a1fba2d2a88352875c2f7ccfa5d36717ee5ab3a3fc9cf202d2883184d72b5c042a4fec8f40c3f6d4eff32eb69df12b50a9f26bf381dbb5e41ddead588ed8488c4a2736c99c28879e2b4fb3296bd576b33f20f594b7ed712845f148a909d0f4c118cc82da2f132e90be124a91aabc25776bd5e8a1de1e12dec4916ae7963a6d02434d97a912d4b5480d30b7696244149b1aaa6d154b1d790de76e77d482ffca59b72b187673c82a420710876b3f665e6eb171866d9e493f31b84fe773e750ebc32a61d068724a12bf45736d3c435b4e9ebd383e4425516e1633faf1928a999beb0471ba7ddec960affba7949ca49272e2dadde50f3991cafc581edf4b3d2a3832204e87a0f875771b7aaf67544cbe41d6f86bd1b8a1f3fe5b60e69a68128ce77068aa5a6587e545d1dc0e01bb928540db4ba0e569f8817e4ab5b55964a668810eb4e0e55a9307b4d4bfffdd156c48ed3821db51fc998a11ef3248099f1ef501b1e9bdea07d34236462e5567a3b292c42643519a61d80132cc4cdd8914ee950ef8d6614e112a1ebacdaf04fa758f7b89a69e6abf3873e7658a9116c185770b3ea6dac70d8200af374b9fddc07fe3e408a40f4e550c7be636e907f231050e8fc6960cf3c0de9e2ffea688aaf8f76b082ee5469e30a6fc7aefd406918cb00729f4db1217644f140fbe95007d6ec4822204e672365dfafbf61cd13e4e602ab160c1182a5dff732bca6a539fc68cfc49fa274c3da08e5350be8921921e567a54aaee1de3bcead4bceb944e42f4983cde9c1c0355c85e39ae3653c7dcba2ed89403efefde8b608eaf5bb9bb19b223a8685c14ddb58de11d7570558fee417350da1129fed6a491f34f22a6f9e4057d3aabf2d78262a47077851423f693150cb14790fc36f4caec371762166bd92de8faf85742f0582c0029d91238071109038a5edd7c93307f0e806bccf4dbeb142aea9f0eb674fc0a64841f841d4c7e145245a9b68a19de004a1b9b4db2c9fa807843fd706392dae63b1c8f2c36146a965f5b2d96b4b716d0590342d842f1430da6aab96132c6722a497af7bc87fb7bec52f5b9d72e35814b62a1ffac8899eaab159e3d4726b4377fe7d2b1ed7cb457075da82b5c789866e095693b17112523b66befc389f6eb7e0271b691613ccd3f21ad0c7de2d4640a282b60c28ade2aecd6036b696e64896193c415a02e15560c1d69cca4df7f081c349753322086f573febad56cb8365a04fa227940f908eecfbc14692469ebb0d465fd1e1a65ba3175f2587629bcb827bc43fcf43d255b97e235274eda115bfc66bfe1c0d588721c513c378999b24452858626844f23b9159cbb70ca003c223eb053367bac5233390a4009e0709c0c90bd71ff1b640b92b73bc502a6103edfebefb653a99943170452bb8ef3798a7a125326d4159e9413a877fdbf14001fd05a6293f8fcab5dfd15faefa64d633fe0beefc6240ea55c113f83439114aa2dc3651d202b83b7307a144a126d050dcc0e098274b864273b6d865a4e210eb4a11d78ec0148ce4368982568dcc46ee54270e9013af15ff4648a893b68c91dd4f072c70722bd9d1e8b0d53f97a7ff9a91e5d4ca35b553c288a6f49e93918001c29c91a13dba1aeba2bc49563433e9b491a613391ade5de7ab01c3977f12d01ac2de637fed2bd4be9a045fb21cacca9edac559d0b20f505afd7275d86fcf3b1fada7a88ad1da75807693133024b7a2e271c23899eca2bf6ccbba6dc65c1da107ae6041a7e9e3605eb613d02a4cf5e65beb134403a6981976e5e325801f606df1539462e9a6ec3e0ebb8d2f0231d5b834d8fc95a7c0aca35234499376a59c343ddb4708aadc55ef01ec2bbab96c5fedc8b55372383434a1e3543ae3da4ebacc0e733360f82127236ff5d47764042128646a4d9fedbb682604bf0aa6810773245bfaacc332e99578aaf78e2379df438b38b5c35066ecc3052c49052d78c9fb10d617de992ce62e7f5318168d0211414da37633176733644be3ace3beb808d447c0268800c0c1e1939fe728228ee689d8578d77d22949019283502003d869760c3e4429b6c135e94a2d3ba59cc894b03b967621cc0de8b3f014f9d826fc2921cab5a9cf8f41add04a4a1421a35b440aee93708a8c32dd3bca5ce9f8f7d8054786efdd09fe47178a5ae71f1ee84b70374034781c98471f914b833e6b88363c86e79a605663ba0673c0cd931a23f4963724017e46df713a8a673245d7d7c24b99c97c7917c67a8eb27a4fa2d8c0feaeed81c419d31495e3c70e5e0636545a8b467348898c92dea27c63849dc96cbb5174c7a14b964be3b92211218f4bf466f1842c5bc2f4a9922e11ddadda17165646a9886a8bf24c40d0bd22c970972c4fb8d36d01201288f8af7854afe62615890c88aee1d196e4e2f6fcb20f86702ff5d7421ea65768919eef386e01fb93fedeeed7f85c91ff0e6c994088ef989d961734ac93c5d1544206aa100c4150f775212137b02e39a2d97f1f7a82b04f18780aef3d4a574126b60d90f99c285ca1543d46c981a1b90fc9ff1711e3aac14f2d23f99dfe7f5d469926cf31cd7edcd80ec92b8a8d4a7d54ea9e0fee675a75c75777b5664dce9dde859fc4dd5f2336dc6e58f852ee06a3772bb96634bf899f20afa54d21e0923eefb0fd61b5325f2a8fef06086fddad0e4ce6432aef3411dc8cdc89358427f92b5738ed5c388893f76cd2261841ed26b58f8a73a522cc5e8a196d3179bf85c5743a25d82cc269a7c8bd817929a32cc8907153d6ccd8acc8acfd27d6e5207d54248cd5ade50b473f2918873c4b381c3c10b16b446a5c37bf04958bec674ebdbbb5a4cf178a45770d32190e894bc8fa30acd573e4767f985640798a918e10e5901f49941505c54a2de8a2954aec192d8296d41ccc66b44b787847365f31b85728528575eade723d5416494658ca16fb771bf53c75f270db311102c86532736e869e3ff10eb59d126178845d3afaf5e15e6",
+    "desc_audio": [
+        "656_en_desc_1.mp3",
+        "656_en_desc_2.mp3",
+        "656_en_desc_3.mp3",
+        "656_en_desc_4.mp3",
+        "656_en_desc_5.mp3",
+        "656_en_desc_6.mp3",
+        "656_en_desc_7.mp3",
+        "656_en_desc_8.mp3",
+        "656_en_desc_9.mp3",
+        "656_en_desc_10.mp3",
+        "656_en_desc_11.mp3"
+    ]
 }
